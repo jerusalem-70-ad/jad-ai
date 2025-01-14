@@ -15,7 +15,7 @@ data = [
 ]
 
 
-prompt = """please find all biblical references in this text ({}) and return the result as json. The JSON should have keys: 'bibl' and 'text'. Each reference should its own object. All values should be strings. If there are no biblical references, please return an empty list. Please note that the text may contain multiple biblical references. Please also note that the text may contain multiple sentences."""  # noqa: E501
+prompt = """please find all biblical references in this text ({}) and return the result as json. The JSON should have keys: 'bibl' and 'text'. Each reference should its own object. All values should be strings. If there are no biblical references, please return an empty list. Please note that the text may contain multiple biblical references. Please also note that the text may contain multiple sentences. Don't use latin numbers for bibl but something like Matthew 27:50-52"""  # noqa: E501
 
 client = OpenAI(api_key=os.environ.get("OPENAI_API_KEY"))
 for x in data:
