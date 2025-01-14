@@ -1,14 +1,18 @@
 [
   {
-    "bibl": "Act. V",
+    "bibl": "Acts 5:41",
     "text": "Ibant gaudentes discipuli a conspectu concilii, quoniam digni habiti sunt pro nomine Jesu contumeliam pati"
   },
   {
-    "bibl": "Act. VII",
-    "text": "Stephanum quoque lapidaverunt, et Jacobum Justum praecipitantes de pinnaculo templi, occiderunt"
+    "bibl": "Acts 7:54-60",
+    "text": "Stephanum quoque lapidaverunt"
   },
   {
-    "bibl": "Marc. XXIII",
+    "bibl": "Acts 12:2",
+    "text": "et Jacobum Justum praecipitantes de pinnaculo templi, occiderunt"
+  },
+  {
+    "bibl": "Matthew 24:2",
     "text": "non sit relictus in ea lapis super lapidem"
   }
 ]

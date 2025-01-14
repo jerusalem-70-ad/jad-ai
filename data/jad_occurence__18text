@@ -1,30 +1,30 @@
 [
     {
-        "bibl": "Matth. XXVII",
+        "bibl": "Matthew 27:25",
         "text": "Sanguis ejus super nos et super filios nostros"
     },
     {
-        "bibl": "Jer. XVIII",
+        "bibl": "Jeremiah 18:19",
         "text": "Attende, Domine, ad me, et audi voces adversariorum meorum"
     },
     {
-        "bibl": "Luc. XXIII",
+        "bibl": "Luke 23:21",
         "text": "Crucifige, crucifige eum"
     },
     {
-        "bibl": "Joan. XIX",
+        "bibl": "John 19:15",
         "text": "Tolle, tolle. Talem non habemus regem, nisi Caesarem"
     },
     {
-        "bibl": "Luc. XXIII",
+        "bibl": "Jeremiah 18:20",
+        "text": "Nunquid redditur pro bono malum, quia foderunt foveam, id est deceptionem, animae meae tollendae?"
+    },
+    {
+        "bibl": "Luke 23:34",
         "text": "Pater, ignosce eis; non enim sciunt quid faciunt"
     },
     {
-        "bibl": "Jer. XVIII",
-        "text": "Nunquid redditur pro bono malum, quia foderunt foveam, id est deceptionem, animae meae tollendae? Recordare quod steterim in conspectu tuo, ut loquerer pro eis bonum etc."
-    },
-    {
-        "bibl": "Jer. XVIII",
-        "text": "Propterea da filios in famem et deduc eos in manus gladii: fiant uxores eorum absque liberis, et viduae et viri earum interficiantur morte"
+        "bibl": "Jeremiah 18:21-22",
+        "text": "Da filios in famem et deduc eos in manus gladii: fiant uxores eorum absque liberis, et viduae et viri earum interficiantur morte"
     }
 ]

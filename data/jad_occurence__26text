@@ -1,22 +1,22 @@
 [
-    {
-        "bibl": "Romans IV",
-        "text": "illis secundum duritiam et impoenitens cor thesaurizantibus iram sibi in die irae"
-    },
-    {
-        "bibl": "Matthew XXII",
-        "text": "missis exercitibus suis, perdidit homicidas illos, et eorum civitatem succendit"
-    },
-    {
-        "bibl": "2 Kings II",
-        "text": "Ascende calve, ascende calve"
-    },
-    {
-        "bibl": "Matthew XXVII",
-        "text": "Si Filius Dei est, descendat de cruce et credimus ei"
-    },
-    {
-        "bibl": "Matthew XXVII",
-        "text": "Ave, rex Judaeorum"
-    }
+  {
+    "bibl": "Romans 2:5",
+    "text": "illis secundum duritiam et impoenitens cor thesaurizantibus iram sibi in die irae"
+  },
+  {
+    "bibl": "Matthew 22:7",
+    "text": "missis exercitibus suis, perdidit homicidas illos, et eorum civitatem succendit"
+  },
+  {
+    "bibl": "2 Kings 2:23-24",
+    "text": "Elisaeo ascendente de Galgalis, pueri parvuli illudebant ei, dicentes: Ascende calve, ascende calve. At ille maledixit eos in nomine Domini, et statim egressi sunt duo ursi de saltu, et devoraverunt ex illis quadraginta duos pueros."
+  },
+  {
+    "bibl": "Matthew 27:40",
+    "text": "Si Filius Dei est, descendat de cruce et credimus ei"
+  },
+  {
+    "bibl": "Matthew 27:29",
+    "text": "Flectentes genua, dixerunt: Ave, rex Judaeorum"
+  }
 ]
