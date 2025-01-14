@@ -1,0 +1,15 @@
+Certainly! Below are the biblical references identified in the provided text, formatted as JSON objects:
+
+[
+    {
+        "bibl": "Psalm 51:18",
+        "text": "Benigne fac, Domine, in bona voluntate tua Sion, ut aedificentur muri Jerusalem."
+    },
+    {
+        "bibl": "Galatians 4:26",
+        "text": "Et est alia Jerusalem superna, et coelestis illa, quae est mater nostra"
+    }
+]
+
+
+Each object contains the key "bibl" for the biblical reference and "text" for the corresponding part of the text.
