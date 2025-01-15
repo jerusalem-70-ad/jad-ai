@@ -1,27 +1,31 @@
 import os
+import json
 import requests
 from openai import OpenAI
-import json
 
-from config import PASSAGES_URL, DATA_DIR
+from config import KEYWORD_URL, SUMMARIES_DIR, PASSAGES_URL
 
+os.makedirs(SUMMARIES_DIR, exist_ok=True)
 
-URL = PASSAGES_URL
-source_data = requests.get(URL).json()
+source_data = requests.get(KEYWORD_URL).json()
+keywords = [value["name"] for _, value in source_data.items()]
+
+source_data = requests.get(PASSAGES_URL).json()
 
 data = [
     {"jad_id": value["jad_id"], "text_paragraph": value["text_paragraph"]}
-    for key, value in source_data.items()
+    for _, value in source_data.items()
 ]
 
-
-prompt = """please find all biblical references in this text ({}) and return the result as json. The JSON should have keys: 'bibl' and 'text'. Each reference should its own object. All values should be strings. If there are no biblical references, please return an empty list. Please note that the text may contain multiple biblical references. Please also note that the text may contain multiple sentences. Don't use latin numbers for bibl but something like Matthew 27:50-52"""  # noqa: E501
+prompt = """
+Please provide an english summary for thi text({}). Also one to three keywords that best describe the text. The keywords shoudl be taken from the following list: {}. The result should ba JSON with a key "summary", the value should be a string and a key "keywords" should be a list of strings. If the text is too long, please summarize the text to the best of your ability.
+"""  # noqa: E501
 
 client = OpenAI(api_key=os.environ.get("OPENAI_API_KEY"))
 for x in data:
     if x["text_paragraph"]:
         print(f"processing {x['jad_id']}")
-        json_file_path = os.path.join(DATA_DIR, f"{x['jad_id']}.json")
+        json_file_path = os.path.join(SUMMARIES_DIR, f"{x['jad_id']}.json")
         if os.path.exists(json_file_path):
             print(f"File {json_file_path} already exists. Skipping.")
             continue
@@ -30,7 +34,7 @@ for x in data:
                 messages=[
                     {
                         "role": "system",
-                        "content": prompt.format(x["text_paragraph"]),
+                        "content": prompt.format(x["text_paragraph"], ", ".join(keywords)),
                     }
                 ],
                 model="gpt-4o",
