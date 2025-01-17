@@ -1,7 +1,6 @@
 name: Summarize and add Keyworeds
 
 on:
-  schedule:
   workflow_dispatch:
 
 jobs:

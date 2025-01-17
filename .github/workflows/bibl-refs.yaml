@@ -1,7 +1,6 @@
 name: Bible-References
 
 on:
-  schedule:
   workflow_dispatch:
 
 jobs:
