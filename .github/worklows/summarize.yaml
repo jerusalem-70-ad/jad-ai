@@ -1,0 +1,27 @@
+name: Summarize and add Keyworeds
+
+on:
+  schedule:
+  workflow_dispatch:
+
+jobs:
+  enrich:
+    name: add keywords
+    runs-on: ubuntu-latest
+    env:
+      OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+    steps:
+      - name: Perfom Checkout
+        uses: actions/checkout@v4
+      - name: Setu up python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Install Python Packages
+        run: pip install -r requirements.txt
+      - name: ernich
+        run: python scripts/keywords_and_summaries.py
+      - name: Commit data
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: Data update from Baserow
