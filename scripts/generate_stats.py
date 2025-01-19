@@ -16,9 +16,7 @@ for x in files:
         items.extend(data["keywords"])
 
 counter = Counter(items)
-data = [
-    (key, value) for key, value in counter.items()
-]
+data = [(key, value) for key, value in counter.items()]
 data.sort(key=lambda x: x[1], reverse=True)
 
 with open(os.path.join(STATS_DIR, "keywords.json"), "w", encoding="utf-8") as f:
@@ -40,9 +38,7 @@ for x in files:
             except TypeError:
                 pass
 counter = Counter(items)
-data = [
-    (key, value) for key, value in counter.items()
-]
+data = [(key, value) for key, value in counter.items()]
 data.sort(key=lambda x: x[1], reverse=True)
 with open(os.path.join(STATS_DIR, "bibl-refs.json"), "w", encoding="utf-8") as f:
     json.dump(data, f, ensure_ascii=False)
@@ -51,12 +47,9 @@ print(f"And the winner is: {data[0]}")
 
 items = books
 counter = Counter(items)
-data = [
-    (key, value) for key, value in counter.items()
-]
+data = [(key, value) for key, value in counter.items()]
 data.sort(key=lambda x: x[1], reverse=True)
 with open(os.path.join(STATS_DIR, "bibl-books.json"), "w", encoding="utf-8") as f:
     json.dump(data, f, ensure_ascii=False)
 
 print(f"And the winner is: {data[0]}")
-
