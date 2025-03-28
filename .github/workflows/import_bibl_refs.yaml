@@ -5,7 +5,7 @@ on:
 
 jobs:
   enrich:
-    name: fetch bibl refs
+    name: update bibl refs
     runs-on: ubuntu-latest
     env:
       OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
