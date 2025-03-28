@@ -1,4 +1,4 @@
-name: Bible-References
+name: Bible-References-To-Baserow
 
 on:
   workflow_dispatch:
