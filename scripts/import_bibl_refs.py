@@ -1,6 +1,7 @@
 import os
 import glob
 import json
+import time
 from collections import defaultdict
 from tqdm import tqdm
 from acdh_baserow_pyutils import BaseRowClient
@@ -35,9 +36,27 @@ for x in files:
                 continue
             d[bibl].add(occ_id)
 
+failed = []
 for key, value in tqdm(d.items(), total=len(d)):
     patch_item = {}
-    obj = br_client.get_or_create("ai_bibl_ref", "name", table_dict, key)[0]
+    try:
+        obj = br_client.get_or_create("ai_bibl_ref", "name", table_dict, key)[0]
+    except: # noqa:
+        print(f"first attempt to import {key} failed, trying again in two seconds")
+        time.sleep(2)
+        try:
+            obj = br_client.get_or_create("ai_bibl_ref", "name", table_dict, key)[0]
+        except: # noqa:
+            failed.append(key)
+            continue
     obj_id = str(obj["id"])
     patch_item["occurrences"] = [int(x.split("__")[-1]) for x in value]
-    patched = br_client.patch_row("4160", obj_id, patch_item)
+    try:
+        patched = br_client.patch_row("4160", obj_id, patch_item)
+    except: # noqa:
+        print(f"first attempt to update {obj_id} failed, trying again in two seconds")
+        time.sleep(2)
+        try:
+            patched = br_client.patch_row("4160", obj_id, patch_item)
+        except: # noqa:
+            continue
