@@ -1,0 +1,27 @@
+Here's the text with identified biblical references:
+
+[
+    {
+        "bibl": "Acts 1:9",
+        "text": "Post Domini enim ascensionem"
+    },
+    {
+        "bibl": "Acts 12:2",
+        "text": "post necem Jacobi, qui justus est appellatus"
+    },
+    {
+        "bibl": "Matthew 27:50-52",
+        "text": "ut qui patrem et filium negaverant"
+    },
+    {
+        "bibl": "Matthew 27:15-26",
+        "text": "ut qui in paschali solemnitate Christum occiderant"
+    },
+    {
+        "bibl": "Matthew 24:2",
+        "text": "ita ut nullus ingredi aut egredi posset"
+    }
+]
+
+
+This JSON contains all identified biblical references from the given text, along with the sections of text associated with those references.
