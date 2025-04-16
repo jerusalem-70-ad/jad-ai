@@ -1,16 +1,32 @@
-Here is a JSON object containing the biblical references identified in the given text:
+Here is the JSON object with the biblical references found in the text:
 
 [
     {
+        "bibl": "Matthew 26:52",
+        "text": "Omnes enim, qui acceperint gladium, gladio peribunt."
+    },
+    {
         "bibl": "Ephesians 6:17",
-        "text": "gladio spiritus, id est verbi Dei"
+        "text": "Gladius spiritus est verbum Dei."
     },
     {
         "bibl": "Matthew 26:53",
-        "text": "An putas, quia non possum"
+        "text": "An putas quia non possum rogare Patrem meum, et exhibebit mihi modo plus quam duodecim legiones angelorum?"
+    },
+    {
+        "bibl": "Matthew 26:54",
+        "text": "Quomodo ergo implebuntur Scripturae quia sic oportet fieri?"
+    },
+    {
+        "bibl": "Matthew 26:55",
+        "text": "Numquid tanquam ad latronem existis cum gladiis et fustibus comprehendere me?"
+    },
+    {
+        "bibl": "Matthew 26:56",
+        "text": "Hoc autem totum factum est ut adimplerentur Scripturae prophetarum."
     },
     {
         "bibl": "Isaiah 53:7",
-        "text": "Tanquam ovis ad occisionem ductus est"
+        "text": "Tanquam ovis ad occisionem ductus est."
     }
 ]

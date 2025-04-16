@@ -60,3 +60,8 @@ for key, value in tqdm(d.items(), total=len(d)):
             patched = br_client.patch_row("4160", obj_id, patch_item)
         except: # noqa:
             continue
+
+for x in failed:
+    print(f"failed to process {x}")
+
+print("done")

@@ -1,0 +1,11 @@
+The text contains several biblical references. Here's the identified reference in JSON format:
+
+[
+    {
+        "bibl": "Revelation 14:20",
+        "text": "equitabatur in sanguine usque ad genua, et usque ad frenos equorum"
+    }
+]
+ 
+
+This JSON object reflects the reference to the imagery depicted in Revelation 14:20, where the blood rises to the bridles of the horses, akin to the description in the text.

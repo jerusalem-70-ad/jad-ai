@@ -1,0 +1,8 @@
+The text contains one biblical reference. Here is the result in JSON format:
+
+[
+    {
+        "bibl": "Daniel",
+        "text": "Quid enim aliud clamat Daniel? Non enim quod jam factum erat, sed quod profuturum prophetabat."
+    }
+]

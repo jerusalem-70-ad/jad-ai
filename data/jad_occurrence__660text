@@ -1,20 +1,14 @@
-Here are the biblical references found in the text, formatted as JSON:
-
 [
     {
-        "bibl": "Luke 3:8",
+        "bibl": "Matthew 3:9",
         "text": "Dicit ergo Joannes: Potens est Deus suscitare filios Abrahae de lapidibus istis"
     },
     {
-        "bibl": "Luke 3:9",
-        "text": "Jam enim securis, etc."
-    },
-    {
-        "bibl": "Matthew 27:50-52",
-        "text": "Non remanebit in te lapis super lapidem, eo quod non cognoveris tempus visitationis tuae"
+        "bibl": "Luke 19:44",
+        "text": "sicut ipse ait: Non remanebit in te lapis super lapidem, eo quod non cognoveris tempus visitationis tuae"
     },
     {
         "bibl": "Psalm 146:4",
-        "text": "Exibit spiritus ejus, et revertetur in terram suam, in illa die peribunt omnes cogitationes eorum"
+        "text": "juxta Psalmistam: Exibit spiritus ejus, et revertetur in terram suam, in illa die peribunt omnes cogitationes eorum"
     }
 ]
