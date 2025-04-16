@@ -1,11 +1,4 @@
-The given text contains one explicit biblical reference. The JSON result is as follows:
-
-[
-    {
-        "bibl": "Matthew 2:18",
-        "text": "flere dicitur pueros, qui juxta se et in suis regionibus interfecti sunt."
-    }
-]
-
-
-This passage refers to the lamentation for the children killed near Rachel's burial place, as recounted in Matthew 2:18.
+{
+    "bibl": "Matthew 2:18",
+    "text": "flere dicitur pueros, qui juxta se et in suis regionibus interfecti sunt"
+}

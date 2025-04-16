@@ -1,0 +1,16 @@
+Here is a JSON object containing the biblical references identified in the given text:
+
+[
+    {
+        "bibl": "Ephesians 6:17",
+        "text": "gladio spiritus, id est verbi Dei"
+    },
+    {
+        "bibl": "Matthew 26:53",
+        "text": "An putas, quia non possum"
+    },
+    {
+        "bibl": "Isaiah 53:7",
+        "text": "Tanquam ovis ad occisionem ductus est"
+    }
+]

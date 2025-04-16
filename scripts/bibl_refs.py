@@ -19,24 +19,29 @@ prompt = """please find all biblical references in this text ({}) and return the
 
 client = OpenAI(api_key=os.environ.get("OPENAI_API_KEY"))
 for x in data:
+    jad_id = x["jad_id"]
     if x["text_paragraph"]:
-        print(f"processing {x['jad_id']}")
-        json_file_path = os.path.join(DATA_DIR, f"{x['jad_id']}.json")
+        json_file_path = os.path.join(DATA_DIR, f"{jad_id}.json")
         if os.path.exists(json_file_path):
             print(f"File {json_file_path} already exists. Skipping.")
             continue
         else:
-            completion = client.chat.completions.create(
-                messages=[
-                    {
-                        "role": "system",
-                        "content": prompt.format(x["text_paragraph"]),
-                    }
-                ],
-                model="gpt-4o",
-            )
-            result = completion.choices[0].message.content
-            json_result = result.replace("```json\n", "").replace("```", "")
+            print(f"processing {jad_id}")
+            try:
+                completion = client.chat.completions.create(
+                    messages=[
+                        {
+                            "role": "system",
+                            "content": prompt.format(x["text_paragraph"]),
+                        }
+                    ],
+                    model="gpt-4o",
+                )
+                result = completion.choices[0].message.content
+                json_result = result.replace("```json\n", "").replace("```", "")
+            except Exception as e:
+                print(f"failed to process {jad_id} because of {e}")
+                json_results = "[]"
             try:
                 data = json.loads(json_result)
                 json_good = True
@@ -51,6 +56,6 @@ for x in data:
                 with open(json_file_path, "w", encoding="utf-8") as f:
                     json.dump(data, f, indent=2, ensure_ascii=False)
     else:
-        print(f"Skipping {x['jad_id']} because it has no text.")
+        print(f"Skipping {jad_id} because it has no text.")
 
 print("Done")

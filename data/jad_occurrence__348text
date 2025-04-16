@@ -1,12 +1,1 @@
-The text contains biblical references. Here are the references extracted and presented as JSON:
-
-[
-    {
-        "bibl": "Joel 2:11",
-        "text": "voix diei Domini amara, tribulabitur ibi fortis"
-    },
-    {
-        "bibl": "Obadiah 1:15",
-        "text": "sicut fecisti, sic fiet tibi, et deinde repetitum, tribulationem tuam convertet in caput tuum"
-    }
-]
+[]

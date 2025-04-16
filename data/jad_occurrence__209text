@@ -1,23 +1,10 @@
-The text contains several biblical references. Here's the list of those references in JSON format:
-
 [
     {
-        "bibl": "Isaiah 1:14",
-        "text": "kalendas vestras, et solemnitates vestras odivit anima mea."
+        "bibl": "Matthew 27:25",
+        "text": "Sanguis ejus super nos et super filios nostros"
     },
     {
-        "bibl": "Isaiah 1:13-14",
-        "text": "Abominabar incensum vestrum, oderam neomeniam et Sabbatum vestrum, oderat anima mea coetus vestros, et stercus solemnitatum vestrarum."
-    },
-    {
-        "bibl": "Matthew 24:2",
-        "text": "ut non remaneret lapis super lapidem"
-    },
-    {
-        "bibl": "Luke 21:6",
-        "text": "ut non remaneret lapis super lapidem"
+        "bibl": "Acts 2:37-38",
+        "text": "Si forte compuncti, aliqui ex vobis dicant ad Petrum, et ad reliquos apostolos meos? Quid faciemus, viri fratres *, ecce dico vobis: Lavamini. Quod est dicere: Poenitentiam agite, et baptizetur unusquisque vestrum in nomine Domini *"
     }
 ]
-
-
-These references are associated with sections where similar themes from the Bible are being addressed.

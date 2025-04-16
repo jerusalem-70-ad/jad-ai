@@ -1,12 +1,14 @@
-The provided text contains biblical references. Below is the result as a JSON object with each reference:
-
 [
     {
-        "bibl": "Isaiah 3:25-26",
-        "text": "pulcherrimi viri syon, et fortes eius in populo gladio scilicet cadent romanorum"
+        "bibl": "Ezekiel 21:14",
+        "text": "fortes eius in populo gladio scilicet cadent"
     },
     {
         "bibl": "Ezekiel 33:12",
-        "text": "quia in quacumque die peccaverit iustus, iusticia illius non liberabit eum"
+        "text": "in quacumque die peccaverit iustus, iusticia illius non liberabit eum"
+    },
+    {
+        "bibl": "Isaiah 3:26",
+        "text": "porte sion merebunt atque lugebunt"
     }
 ]
