@@ -1,11 +1,6 @@
-The text contains one biblical reference which is in Latin: "deiecisti eos dum alleuarentur." Here is the JSON object representing this reference:
-
 [
     {
         "bibl": "Psalm 73:18",
-        "text": "deiecisti eos dum alleuarentur"
+        "text": "sicut scriptum est: deiecisti eos dum alleuarentur"
     }
 ]
-
-
-Note: The reference "Psalm 73:18" is based on an educated guess since the exact English verse isn't specified in the provided Latin text.

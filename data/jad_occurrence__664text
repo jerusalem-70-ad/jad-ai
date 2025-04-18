@@ -1,29 +1,19 @@
-Here is the JSON object with the biblical references found in the text:
-
 [
     {
         "bibl": "Matthew 26:52",
-        "text": "Omnes enim, qui acceperint gladium, gladio peribunt."
-    },
-    {
-        "bibl": "Ephesians 6:17",
-        "text": "Gladius spiritus est verbum Dei."
+        "text": "Vel gladio peribunt, illo scilicet, qui igneus vertitur ante paradisum, id est gladio divinae vindictae, et gladio spiritus, id est verbi Dei."
     },
     {
         "bibl": "Matthew 26:53",
-        "text": "An putas quia non possum rogare Patrem meum, et exhibebit mihi modo plus quam duodecim legiones angelorum?"
-    },
-    {
-        "bibl": "Matthew 26:54",
-        "text": "Quomodo ergo implebuntur Scripturae quia sic oportet fieri?"
-    },
-    {
-        "bibl": "Matthew 26:55",
-        "text": "Numquid tanquam ad latronem existis cum gladiis et fustibus comprehendere me?"
+        "text": "An putas, quia non possum, etc. Vult dicere, quia non indiget auxilio duodecim apostolorum, qui potest habere, si vult, duodecim legiones angelorum."
     },
     {
         "bibl": "Matthew 26:56",
-        "text": "Hoc autem totum factum est ut adimplerentur Scripturae prophetarum."
+        "text": "Quomodo ergo implebuntur Scripturae, quia sic oportet fieri."
+    },
+    {
+        "bibl": "Matthew 26:55",
+        "text": "Tanquam ad latronem, etc. Ac si dicat: Stultum est quaerere illum cum gladiis, qui ultro se tradit, et in nocte per proditorem investigare, quasi latentem, qui quotidie in templo docet."
     },
     {
         "bibl": "Isaiah 53:7",

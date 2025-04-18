@@ -1,3 +1,12 @@
-{"bibl": "Matthew 24:2", "text": "And Jesus said unto them, See ye not all these things? verily I say unto you, There shall not be left here one stone upon another, that shall not be thrown down."},
-{"bibl": "Mark 13:2", "text": "And Jesus answering said unto him, Seest thou these great buildings? there shall not be left one stone upon another, that shall not be thrown down."},
-{"bibl": "Luke 21:6", "text": "As for these things which ye behold, the days will come, in the which there shall not be left one stone upon another, that shall not be thrown down."}
+{
+  "bibl": "Matthew 24:2",
+  "text": "eius discipulis dixit: 'Viditis haec omnia?'"
+},
+{
+  "bibl": "Mark 13:2",
+  "text": "respondens Iesus ait illis: 'Non relinquetur lapis super lapidem, qui non destruatur.'"
+},
+{
+  "bibl": "Luke 21:6",
+  "text": "veniet dies, quando ex his, quae videtis, non relinquetur lapis super lapidem, qui non destruatur."
+}
