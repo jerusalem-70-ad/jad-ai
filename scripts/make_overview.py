@@ -32,3 +32,16 @@ serializable_dict = {k: list(v) for k, v in by_passage.items()}
 save_path = os.path.join(OUT_DIR, "by_passage.json")
 with open(save_path, "w", encoding="utf-8") as fp:
     json.dump(serializable_dict, fp, indent=2)
+
+
+serializable_dict = {}
+for x in files:
+    occur_id = os.path.split(x)[-1].replace(".json", "")
+    with open(x, "r", encoding="utf-8") as fp:
+        item = json.load(fp)
+        if item:
+            serializable_dict[occur_id] = item
+save_path = os.path.join(OUT_DIR, "all_in_one.json")
+
+with open(save_path, "w", encoding="utf-8") as fp:
+    json.dump(serializable_dict, fp, indent=2)

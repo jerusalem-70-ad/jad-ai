@@ -1,28 +1,947 @@
 {
-  "John 8:42 (AI)": [
-    "jad_occurrence__503"
+  "Luke 19:40 (AI)": [
+    "jad_occurrence__550",
+    "jad_occurrence__1"
   ],
-  "John 10:30 (AI)": [
-    "jad_occurrence__503"
+  "Matthew 27:50-52 (AI)": [
+    "jad_occurrence__603",
+    "jad_occurrence__201",
+    "jad_occurrence__1",
+    "jad_occurrence__721",
+    "jad_occurrence__297",
+    "jad_occurrence__751",
+    "jad_occurrence__372",
+    "jad_occurrence__618",
+    "jad_occurrence__326",
+    "jad_occurrence__574",
+    "jad_occurrence__152",
+    "jad_occurrence__736",
+    "jad_occurrence__412",
+    "jad_occurrence__483",
+    "jad_occurrence__470",
+    "jad_occurrence__899",
+    "jad_occurrence__757",
+    "jad_occurrence__177",
+    "jad_occurrence__849",
+    "jad_occurrence__432",
+    "jad_occurrence__478",
+    "jad_occurrence__212",
+    "jad_occurrence__891",
+    "jad_occurrence__210",
+    "jad_occurrence__819",
+    "jad_occurrence__120"
   ],
-  "Matthew 15:24 (AI)": [
-    "jad_occurrence__503",
+  "Ezekiel 11:19 (AI)": [
+    "jad_occurrence__1"
+  ],
+  "Romans 11:25-26 (AI)": [
+    "jad_occurrence__200",
+    "jad_occurrence__368",
+    "jad_occurrence__1",
     "jad_occurrence__828"
   ],
-  "Psalm 55:13 (AI)": [
-    "jad_occurrence__503"
+  "Luke 19:41-42 (AI)": [
+    "jad_occurrence__45",
+    "jad_occurrence__1",
+    "jad_occurrence__761",
+    "jad_occurrence__638"
   ],
-  "Mark 1:15 (AI)": [
-    "jad_occurrence__503"
+  "Matthew 12:36 (AI)": [
+    "jad_occurrence__550",
+    "jad_occurrence__104"
   ],
-  "Isaiah 6:9-11 (AI)": [
-    "jad_occurrence__447"
+  "Galatians 5:15 (AI)": [
+    "jad_occurrence__105",
+    "jad_occurrence__535"
   ],
-  "1 Maccabees (AI)": [
-    "jad_occurrence__4"
+  "Daniel 9:24-27 (AI)": [
+    "jad_occurrence__85",
+    "jad_occurrence__900",
+    "jad_occurrence__906",
+    "jad_occurrence__876",
+    "jad_occurrence__547",
+    "jad_occurrence__107",
+    "jad_occurrence__155",
+    "jad_occurrence__756",
+    "jad_occurrence__156",
+    "jad_occurrence__879"
   ],
-  "Daniel 11:33-35 (AI)": [
-    "jad_occurrence__4"
+  "Isaiah 53:5 (AI)": [
+    "jad_occurrence__108"
+  ],
+  "1 Maccabees 2 (AI)": [
+    "jad_occurrence__109"
+  ],
+  "1 Maccabees 3 (AI)": [
+    "jad_occurrence__109"
+  ],
+  "1 Maccabees 4 (AI)": [
+    "jad_occurrence__109"
+  ],
+  "Luke 19:42 (AI)": [
+    "jad_occurrence__550",
+    "jad_occurrence__606",
+    "jad_occurrence__825",
+    "jad_occurrence__171",
+    "jad_occurrence__513",
+    "jad_occurrence__11"
+  ],
+  "Exodus 12:40 (AI)": [
+    "jad_occurrence__110",
+    "jad_occurrence__396",
+    "jad_occurrence__563",
+    "jad_occurrence__138"
+  ],
+  "1 Thessalonians 2:16 (AI)": [
+    "jad_occurrence__583",
+    "jad_occurrence__111",
+    "jad_occurrence__398"
+  ],
+  "Matthew 23:38 (AI)": [
+    "jad_occurrence__365",
+    "jad_occurrence__319",
+    "jad_occurrence__361",
+    "jad_occurrence__518",
+    "jad_occurrence__398",
+    "jad_occurrence__570",
+    "jad_occurrence__869",
+    "jad_occurrence__489",
+    "jad_occurrence__151",
+    "jad_occurrence__429",
+    "jad_occurrence__111",
+    "jad_occurrence__556",
+    "jad_occurrence__436"
+  ],
+  "Ezekiel 39:23-24 (AI)": [
+    "jad_occurrence__112"
+  ],
+  "Jeremiah 25:9 (AI)": [
+    "jad_occurrence__514",
+    "jad_occurrence__763",
+    "jad_occurrence__112"
+  ],
+  "Matthew 21:13 (AI)": [
+    "jad_occurrence__762",
+    "jad_occurrence__61",
+    "jad_occurrence__397",
+    "jad_occurrence__783",
+    "jad_occurrence__112"
+  ],
+  "Jeremiah 1:11-13 (AI)": [
+    "jad_occurrence__400",
+    "jad_occurrence__113"
+  ],
+  "Jeremiah 36:30 (AI)": [
+    "jad_occurrence__115"
+  ],
+  "Daniel 9:26 (AI)": [
+    "jad_occurrence__476",
+    "jad_occurrence__838",
+    "jad_occurrence__827",
+    "jad_occurrence__839",
+    "jad_occurrence__71",
+    "jad_occurrence__117",
+    "jad_occurrence__281",
+    "jad_occurrence__154",
+    "jad_occurrence__602"
+  ],
+  "Daniel 9:27 (AI)": [
+    "jad_occurrence__838",
+    "jad_occurrence__395",
+    "jad_occurrence__117",
+    "jad_occurrence__55",
+    "jad_occurrence__602"
+  ],
+  "2 Kings 6 (AI)": [
+    "jad_occurrence__118"
+  ],
+  "Luke 21:25 (AI)": [
+    "jad_occurrence__12"
+  ],
+  "Luke 21:20 (AI)": [
+    "jad_occurrence__788",
+    "jad_occurrence__12",
+    "jad_occurrence__261",
+    "jad_occurrence__334",
+    "jad_occurrence__743",
+    "jad_occurrence__814",
+    "jad_occurrence__24",
+    "jad_occurrence__284",
+    "jad_occurrence__276",
+    "jad_occurrence__35"
+  ],
+  "Jeremiah 31:2 (AI)": [
+    "jad_occurrence__120"
+  ],
+  "Hebrews 10:30 (AI)": [
+    "jad_occurrence__120"
+  ],
+  "Luke 21:20-24 (AI)": [
+    "jad_occurrence__165",
+    "jad_occurrence__699",
+    "jad_occurrence__120"
+  ],
+  "Daniel 9:2 (AI)": [
+    "jad_occurrence__120"
+  ],
+  "Jeremiah 15:17 (AI)": [
+    "jad_occurrence__120"
+  ],
+  "Judges 8:6-9 (AI)": [
+    "jad_occurrence__121"
+  ],
+  "1 Kings 2:23-24 (AI)": [
+    "jad_occurrence__121"
+  ],
+  "John 18:11 (AI)": [
+    "jad_occurrence__123"
+  ],
+  "Luke 22:51 (AI)": [
+    "jad_occurrence__123"
+  ],
+  "Matthew 24:1-2 (AI)": [
+    "jad_occurrence__170",
+    "jad_occurrence__44",
+    "jad_occurrence__124"
+  ],
+  "Hebrews 13:12 (AI)": [
+    "jad_occurrence__124",
+    "jad_occurrence__893",
+    "jad_occurrence__167",
+    "jad_occurrence__79",
+    "jad_occurrence__49"
+  ],
+  "Psalm 13:3 (AI)": [
+    "jad_occurrence__125"
+  ],
+  "Psalm 80:13 (AI)": [
+    "jad_occurrence__183",
+    "jad_occurrence__37",
+    "jad_occurrence__507",
+    "jad_occurrence__434",
+    "jad_occurrence__145",
+    "jad_occurrence__47",
+    "jad_occurrence__126",
+    "jad_occurrence__197",
+    "jad_occurrence__422",
+    "jad_occurrence__214"
+  ],
+  "2 Kings 2 (AI)": [
+    "jad_occurrence__127"
+  ],
+  "1 Samuel 17 (AI)": [
+    "jad_occurrence__127"
+  ],
+  "Matthew 24 (AI)": [
+    "jad_occurrence__128",
+    "jad_occurrence__57",
+    "jad_occurrence__56"
+  ],
+  "Zechariah 11:1 (AI)": [
+    "jad_occurrence__483",
+    "jad_occurrence__519",
+    "jad_occurrence__709",
+    "jad_occurrence__773",
+    "jad_occurrence__13"
+  ],
+  "Zechariah 9:9 (AI)": [
+    "jad_occurrence__13",
+    "jad_occurrence__773"
+  ],
+  "2 Kings 2:23-24 (AI)": [
+    "jad_occurrence__80",
+    "jad_occurrence__603",
+    "jad_occurrence__405",
+    "jad_occurrence__39",
+    "jad_occurrence__29",
+    "jad_occurrence__460",
+    "jad_occurrence__408",
+    "jad_occurrence__140",
+    "jad_occurrence__434",
+    "jad_occurrence__81",
+    "jad_occurrence__385",
+    "jad_occurrence__139",
+    "jad_occurrence__771",
+    "jad_occurrence__225",
+    "jad_occurrence__793",
+    "jad_occurrence__232",
+    "jad_occurrence__41",
+    "jad_occurrence__207",
+    "jad_occurrence__172",
+    "jad_occurrence__245",
+    "jad_occurrence__130",
+    "jad_occurrence__874",
+    "jad_occurrence__82",
+    "jad_occurrence__242",
+    "jad_occurrence__233",
+    "jad_occurrence__26"
+  ],
+  "Revelation 6:4 (AI)": [
+    "jad_occurrence__131"
+  ],
+  "Matthew 24:9 (AI)": [
+    "jad_occurrence__137"
+  ],
+  "Matthew 24:7 (AI)": [
+    "jad_occurrence__137",
+    "jad_occurrence__557"
+  ],
+  "Ezekiel 4:4-6 (AI)": [
+    "jad_occurrence__138"
+  ],
+  "Ezekiel 4:6 (AI)": [
+    "jad_occurrence__138"
+  ],
+  "John 1:12 (AI)": [
+    "jad_occurrence__139"
+  ],
+  "Luke 19:41 (AI)": [
+    "jad_occurrence__550",
+    "jad_occurrence__14",
+    "jad_occurrence__734",
+    "jad_occurrence__312",
+    "jad_occurrence__375",
+    "jad_occurrence__872"
+  ],
+  "Micah 3:12 (AI)": [
+    "jad_occurrence__14",
+    "jad_occurrence__570",
+    "jad_occurrence__325"
+  ],
+  "2 Chronicles 35:24-25 (AI)": [
+    "jad_occurrence__141"
+  ],
+  "Jeremiah 22:10 (AI)": [
+    "jad_occurrence__141"
+  ],
+  "Isaiah (AI)": [
+    "jad_occurrence__142",
+    "jad_occurrence__587",
+    "jad_occurrence__783"
+  ],
+  "Matthew 24:2 (AI)": [
+    "jad_occurrence__667",
+    "jad_occurrence__933",
+    "jad_occurrence__856",
+    "jad_occurrence__83",
+    "jad_occurrence__165",
+    "jad_occurrence__28",
+    "jad_occurrence__173",
+    "jad_occurrence__868",
+    "jad_occurrence__232",
+    "jad_occurrence__238",
+    "jad_occurrence__158",
+    "jad_occurrence__376",
+    "jad_occurrence__142",
+    "jad_occurrence__486",
+    "jad_occurrence__436",
+    "jad_occurrence__862"
+  ],
+  "Daniel 3:38 (AI)": [
+    "jad_occurrence__144"
+  ],
+  "Isaiah 3:1-3 (AI)": [
+    "jad_occurrence__144"
+  ],
+  "Lamentations 3:10 (AI)": [
+    "jad_occurrence__145"
+  ],
+  "Jeremiah 50:17 (AI)": [
+    "jad_occurrence__145"
+  ],
+  "Isaiah 1:8 (AI)": [
+    "jad_occurrence__792",
+    "jad_occurrence__89",
+    "jad_occurrence__145",
+    "jad_occurrence__868"
+  ],
+  "Lamentations 4:10 (AI)": [
+    "jad_occurrence__147",
+    "jad_occurrence__617"
+  ],
+  "Romans 10:2 (AI)": [
+    "jad_occurrence__147"
+  ],
+  "Luke 19:41-46 (AI)": [
+    "jad_occurrence__149"
+  ],
+  "Psalms (AI)": [
+    "jad_occurrence__150"
+  ],
+  "Jeremiah 12:7 (AI)": [
+    "jad_occurrence__151",
+    "jad_occurrence__570",
+    "jad_occurrence__436"
+  ],
+  "Matthew 23:27 (AI)": [
+    "jad_occurrence__152"
+  ],
+  "Daniel 9:22-23 (AI)": [
+    "jad_occurrence__156"
+  ],
+  "1 John 2:15-16 (AI)": [
+    "jad_occurrence__157"
+  ],
+  "Psalm 83:15 (AI)": [
+    "jad_occurrence__157"
+  ],
+  "Psalm 34:7 (AI)": [
+    "jad_occurrence__157"
+  ],
+  "Psalm 78:49 (AI)": [
+    "jad_occurrence__213",
+    "jad_occurrence__157",
+    "jad_occurrence__514"
+  ],
+  "Matthew 26:49 (AI)": [
+    "jad_occurrence__157"
+  ],
+  "Luke 23:21 (AI)": [
+    "jad_occurrence__157",
+    "jad_occurrence__73",
+    "jad_occurrence__249",
+    "jad_occurrence__18",
+    "jad_occurrence__19",
+    "jad_occurrence__385"
+  ],
+  "Proverbs 23:1 (AI)": [
+    "jad_occurrence__160"
+  ],
+  "Matthew 22:42 (AI)": [
+    "jad_occurrence__160"
+  ],
+  "Matthew 22:46 (AI)": [
+    "jad_occurrence__160"
+  ],
+  "Hebrews 7:24 (AI)": [
+    "jad_occurrence__160"
+  ],
+  "Philippians 2:8 (AI)": [
+    "jad_occurrence__160"
+  ],
+  "2 Corinthians 13:4 (AI)": [
+    "jad_occurrence__160"
+  ],
+  "Matthew 27:25 (AI)": [
+    "jad_occurrence__467",
+    "jad_occurrence__888",
+    "jad_occurrence__460",
+    "jad_occurrence__209",
+    "jad_occurrence__808",
+    "jad_occurrence__218",
+    "jad_occurrence__508",
+    "jad_occurrence__71",
+    "jad_occurrence__73",
+    "jad_occurrence__244",
+    "jad_occurrence__368",
+    "jad_occurrence__595",
+    "jad_occurrence__561",
+    "jad_occurrence__161",
+    "jad_occurrence__735",
+    "jad_occurrence__384",
+    "jad_occurrence__703",
+    "jad_occurrence__18",
+    "jad_occurrence__433",
+    "jad_occurrence__604",
+    "jad_occurrence__648"
+  ],
+  "Exodus 23:7 (AI)": [
+    "jad_occurrence__161"
+  ],
+  "Genesis 4:3-5 (AI)": [
+    "jad_occurrence__250",
+    "jad_occurrence__164"
+  ],
+  "1 Samuel 15:22 (AI)": [
+    "jad_occurrence__250",
+    "jad_occurrence__164"
+  ],
+  "Matthew 21:12-13 (AI)": [
+    "jad_occurrence__165",
+    "jad_occurrence__629"
+  ],
+  "Luke 19:41-44 (AI)": [
+    "jad_occurrence__667",
+    "jad_occurrence__629",
+    "jad_occurrence__743",
+    "jad_occurrence__165",
+    "jad_occurrence__865",
+    "jad_occurrence__259",
+    "jad_occurrence__51",
+    "jad_occurrence__845",
+    "jad_occurrence__613",
+    "jad_occurrence__284",
+    "jad_occurrence__258"
+  ],
+  "Jeremiah 52:12-14 (AI)": [
+    "jad_occurrence__165"
+  ],
+  "Zachariah 11:1 (AI)": [
+    "jad_occurrence__168"
+  ],
+  "Psalm 35:2 (AI)": [
+    "jad_occurrence__169"
+  ],
+  "Psalm 35:3 (AI)": [
+    "jad_occurrence__169"
+  ],
+  "Psalm 51:18 (AI)": [
+    "jad_occurrence__17"
+  ],
+  "Galatians 4:26 (AI)": [
+    "jad_occurrence__17",
+    "jad_occurrence__173",
+    "jad_occurrence__862"
+  ],
+  "Isaiah 14:12 (AI)": [
+    "jad_occurrence__17"
+  ],
+  "Matthew 24:3 (AI)": [
+    "jad_occurrence__666",
+    "jad_occurrence__170",
+    "jad_occurrence__304"
+  ],
+  "Matthew 24:4-5 (AI)": [
+    "jad_occurrence__170"
+  ],
+  "Luke 19:43-44 (AI)": [
+    "jad_occurrence__273",
+    "jad_occurrence__550",
+    "jad_occurrence__45",
+    "jad_occurrence__814",
+    "jad_occurrence__258",
+    "jad_occurrence__27",
+    "jad_occurrence__171",
+    "jad_occurrence__379",
+    "jad_occurrence__386"
+  ],
+  "Luke 19:44 (AI)": [
+    "jad_occurrence__550",
+    "jad_occurrence__660",
+    "jad_occurrence__171",
+    "jad_occurrence__175",
+    "jad_occurrence__158",
+    "jad_occurrence__258"
+  ],
+  "Luke 1:68 (AI)": [
+    "jad_occurrence__171"
+  ],
+  "Matthew 21:12 (AI)": [
+    "jad_occurrence__172",
+    "jad_occurrence__26",
+    "jad_occurrence__918"
+  ],
+  "Psalm 14:4 (AI)": [
+    "jad_occurrence__576",
+    "jad_occurrence__174"
+  ],
+  "Psalm 53:6 (AI)": [
+    "jad_occurrence__174"
+  ],
+  "John 11:48 (AI)": [
+    "jad_occurrence__551",
+    "jad_occurrence__312",
+    "jad_occurrence__680",
+    "jad_occurrence__252",
+    "jad_occurrence__468",
+    "jad_occurrence__860",
+    "jad_occurrence__811",
+    "jad_occurrence__254",
+    "jad_occurrence__265",
+    "jad_occurrence__729",
+    "jad_occurrence__352",
+    "jad_occurrence__774",
+    "jad_occurrence__230",
+    "jad_occurrence__307",
+    "jad_occurrence__928",
+    "jad_occurrence__61",
+    "jad_occurrence__861",
+    "jad_occurrence__734",
+    "jad_occurrence__174",
+    "jad_occurrence__198",
+    "jad_occurrence__520",
+    "jad_occurrence__206",
+    "jad_occurrence__920",
+    "jad_occurrence__308",
+    "jad_occurrence__320",
+    "jad_occurrence__911",
+    "jad_occurrence__242",
+    "jad_occurrence__309"
+  ],
+  "Psalm 14:6 (AI)": [
+    "jad_occurrence__174"
+  ],
+  "2 Corinthians 8:9 (AI)": [
+    "jad_occurrence__174"
+  ],
+  "John 19:15 (AI)": [
+    "jad_occurrence__603",
+    "jad_occurrence__467",
+    "jad_occurrence__175",
+    "jad_occurrence__487",
+    "jad_occurrence__860",
+    "jad_occurrence__86",
+    "jad_occurrence__265",
+    "jad_occurrence__692",
+    "jad_occurrence__218",
+    "jad_occurrence__352",
+    "jad_occurrence__882",
+    "jad_occurrence__340",
+    "jad_occurrence__73",
+    "jad_occurrence__38",
+    "jad_occurrence__826",
+    "jad_occurrence__595",
+    "jad_occurrence__712",
+    "jad_occurrence__476",
+    "jad_occurrence__282",
+    "jad_occurrence__18",
+    "jad_occurrence__82",
+    "jad_occurrence__791",
+    "jad_occurrence__253",
+    "jad_occurrence__548"
+  ],
+  "John 19:21 (AI)": [
+    "jad_occurrence__175"
+  ],
+  "Psalm 57 (AI)": [
+    "jad_occurrence__832",
+    "jad_occurrence__175"
+  ],
+  "John 8:44 (AI)": [
+    "jad_occurrence__500",
+    "jad_occurrence__175"
+  ],
+  "Matthew 24:15 (AI)": [
+    "jad_occurrence__887",
+    "jad_occurrence__465",
+    "jad_occurrence__175",
+    "jad_occurrence__557",
+    "jad_occurrence__741"
+  ],
+  "Luke 21:22 (AI)": [
+    "jad_occurrence__544",
+    "jad_occurrence__177"
+  ],
+  "Isaiah 64:10-11 (AI)": [
+    "jad_occurrence__202",
+    "jad_occurrence__177"
+  ],
+  "Isaiah 65:1 (AI)": [
+    "jad_occurrence__584",
+    "jad_occurrence__545",
+    "jad_occurrence__177"
+  ],
+  "Romans 10:21 (AI)": [
+    "jad_occurrence__177"
+  ],
+  "Matthew 27:20-21 (AI)": [
+    "jad_occurrence__178"
+  ],
+  "Luke 19:42-44 (AI)": [
+    "jad_occurrence__267",
+    "jad_occurrence__178"
+  ],
+  "Matthew 27:16-17 (AI)": [
+    "jad_occurrence__178"
+  ],
+  "Jeremiah 18:19 (AI)": [
+    "jad_occurrence__18"
+  ],
+  "Jeremiah 18:20 (AI)": [
+    "jad_occurrence__18"
+  ],
+  "Luke 23:34 (AI)": [
+    "jad_occurrence__823",
+    "jad_occurrence__18"
+  ],
+  "Jeremiah 18:21 (AI)": [
+    "jad_occurrence__218",
+    "jad_occurrence__18"
+  ],
+  "Exodus 15:1 (AI)": [
+    "jad_occurrence__181"
+  ],
+  "John 11:50 (AI)": [
+    "jad_occurrence__358",
+    "jad_occurrence__885",
+    "jad_occurrence__681",
+    "jad_occurrence__352",
+    "jad_occurrence__181"
+  ],
+  "Acts 13:46 (AI)": [
+    "jad_occurrence__182",
+    "jad_occurrence__859",
+    "jad_occurrence__387",
+    "jad_occurrence__806"
+  ],
+  "Ezekiel 16:13 (AI)": [
+    "jad_occurrence__183"
+  ],
+  "Psalm 45:2 (AI)": [
+    "jad_occurrence__183"
+  ],
+  "John 14:31 (AI)": [
+    "jad_occurrence__183"
+  ],
+  "Ezekiel 3:26 (AI)": [
+    "jad_occurrence__184"
+  ],
+  "Revelation 11:2 (AI)": [
+    "jad_occurrence__184"
+  ],
+  "Revelation 19:15 (AI)": [
+    "jad_occurrence__187"
+  ],
+  "Revelation 19:16 (AI)": [
+    "jad_occurrence__187"
+  ],
+  "Isaiah 5:1-2 (AI)": [
+    "jad_occurrence__187"
+  ],
+  "Deuteronomy 32:32 (AI)": [
+    "jad_occurrence__187"
+  ],
+  "Deuteronomy 32:34 (AI)": [
+    "jad_occurrence__187"
+  ],
+  "Daniel 7:4 (AI)": [
+    "jad_occurrence__188"
+  ],
+  "Daniel 7:5 (AI)": [
+    "jad_occurrence__188"
+  ],
+  "Daniel 7:6 (AI)": [
+    "jad_occurrence__188"
+  ],
+  "Daniel 7:7 (AI)": [
+    "jad_occurrence__188",
+    "jad_occurrence__195"
+  ],
+  "Joel 3:4-8 (AI)": [
+    "jad_occurrence__189"
+  ],
+  "Revelation 2:9 (AI)": [
+    "jad_occurrence__189"
+  ],
+  "Ezekiel 16:3 (AI)": [
+    "jad_occurrence__189"
+  ],
+  "John 7:16 (AI)": [
+    "jad_occurrence__19"
+  ],
+  "2 Kings 2:23 (AI)": [
+    "jad_occurrence__609",
+    "jad_occurrence__19"
+  ],
+  "Psalm 59:11 (AI)": [
+    "jad_occurrence__421",
+    "jad_occurrence__905",
+    "jad_occurrence__190"
+  ],
+  "Amos 3:12 (AI)": [
+    "jad_occurrence__190"
+  ],
+  "Psalm 80:14 (AI)": [
+    "jad_occurrence__256",
+    "jad_occurrence__191",
+    "jad_occurrence__422",
+    "jad_occurrence__727"
+  ],
+  "Isaiah 5:13 (AI)": [
+    "jad_occurrence__439",
+    "jad_occurrence__707",
+    "jad_occurrence__534",
+    "jad_occurrence__445",
+    "jad_occurrence__192"
+  ],
+  "John 6:9 (AI)": [
+    "jad_occurrence__192"
+  ],
+  "John 8:23-24 (AI)": [
+    "jad_occurrence__193"
+  ],
+  "John 8:21 (AI)": [
+    "jad_occurrence__193"
+  ],
+  "Job 9:5 (AI)": [
+    "jad_occurrence__194"
+  ],
+  "Job 9:6 (AI)": [
+    "jad_occurrence__194"
+  ],
+  "Job 9:7 (AI)": [
+    "jad_occurrence__194"
+  ],
+  "Ecclesiastes 3:4 (AI)": [
+    "jad_occurrence__195"
+  ],
+  "Deuteronomy 9:6 (AI)": [
+    "jad_occurrence__195"
+  ],
+  "2 Kings 17:6 (AI)": [
+    "jad_occurrence__195"
+  ],
+  "Matthew 11:16-17 (AI)": [
+    "jad_occurrence__195"
+  ],
+  "Romans 9:4-5 (AI)": [
+    "jad_occurrence__196"
+  ],
+  "Jeremiah 12:8 (AI)": [
+    "jad_occurrence__196"
+  ],
+  "Isaiah 29:1 (AI)": [
+    "jad_occurrence__196"
+  ],
+  "Jeremiah 17:13 (AI)": [
+    "jad_occurrence__198"
+  ],
+  "Jeremiah 17:17-18 (AI)": [
+    "jad_occurrence__198"
+  ],
+  "Daniel 9:26-27 (AI)": [
+    "jad_occurrence__838",
+    "jad_occurrence__684",
+    "jad_occurrence__199",
+    "jad_occurrence__212"
+  ],
+  "John 13:2 (AI)": [
+    "jad_occurrence__20"
+  ],
+  "Job 1:1 (AI)": [
+    "jad_occurrence__200"
+  ],
+  "Daniel 12:1 (AI)": [
+    "jad_occurrence__200"
+  ],
+  "Genesis 21:9-10 (AI)": [
+    "jad_occurrence__201"
+  ],
+  "Galatians 4:25-26 (AI)": [
+    "jad_occurrence__201"
+  ],
+  "Isaiah 1:10 (AI)": [
+    "jad_occurrence__688",
+    "jad_occurrence__495",
+    "jad_occurrence__202"
+  ],
+  "Isaiah 64:7 (AI)": [
+    "jad_occurrence__347",
+    "jad_occurrence__202"
+  ],
+  "2 Samuel 8:14 (AI)": [
+    "jad_occurrence__203"
+  ],
+  "Proverbs 17:2 (AI)": [
+    "jad_occurrence__203"
+  ],
+  "Hebrews 12:16 (AI)": [
+    "jad_occurrence__203"
+  ],
+  "Psalm 80:13-14 (AI)": [
+    "jad_occurrence__204"
+  ],
+  "Deuteronomy 32:24-25 (AI)": [
+    "jad_occurrence__205"
+  ],
+  "Psalm 35:1 (AI)": [
+    "jad_occurrence__206"
+  ],
+  "Matthew 27:28-30 (AI)": [
+    "jad_occurrence__207"
+  ],
+  "John 19:17 (AI)": [
+    "jad_occurrence__207"
+  ],
+  "Isaiah 6:10 (AI)": [
+    "jad_occurrence__208"
+  ],
+  "Isaiah 6:11 (AI)": [
+    "jad_occurrence__208",
+    "jad_occurrence__691"
+  ],
+  "Exodus 12:11 (AI)": [
+    "jad_occurrence__210"
+  ],
+  "2 Kings 25:8-9 (AI)": [
+    "jad_occurrence__530",
+    "jad_occurrence__210"
+  ],
+  "Deuteronomy 28:52-57 (AI)": [
+    "jad_occurrence__210"
+  ],
+  "Deuteronomy 28:66 (AI)": [
+    "jad_occurrence__212",
+    "jad_occurrence__74"
+  ],
+  "Matthew 22:7 (AI)": [
+    "jad_occurrence__363",
+    "jad_occurrence__213",
+    "jad_occurrence__286",
+    "jad_occurrence__641",
+    "jad_occurrence__65",
+    "jad_occurrence__58",
+    "jad_occurrence__26"
+  ],
+  "Matthew 22:8-9 (AI)": [
+    "jad_occurrence__213"
+  ],
+  "Isaiah 7:18 (AI)": [
+    "jad_occurrence__216"
+  ],
+  "2 Kings 24:7 (AI)": [
+    "jad_occurrence__216"
+  ],
+  "Jeremiah 8:1-3 (AI)": [
+    "jad_occurrence__217"
+  ],
+  "Jeremiah 16:17-18 (AI)": [
+    "jad_occurrence__219"
+  ],
+  "Isaiah 50:9 (AI)": [
+    "jad_occurrence__22"
+  ],
+  "Jeremiah 23:1 (AI)": [
+    "jad_occurrence__222"
+  ],
+  "Matthew 27:40 (AI)": [
+    "jad_occurrence__609",
+    "jad_occurrence__225",
+    "jad_occurrence__247",
+    "jad_occurrence__371",
+    "jad_occurrence__26"
+  ],
+  "Luke 13:7 (AI)": [
+    "jad_occurrence__309",
+    "jad_occurrence__227",
+    "jad_occurrence__308"
+  ],
+  "Ezekiel 5:1 (AI)": [
+    "jad_occurrence__228"
+  ],
+  "Genesis 9:27 (AI)": [
+    "jad_occurrence__229"
+  ],
+  "John 11:49-50 (AI)": [
+    "jad_occurrence__230"
+  ],
+  "1 Kings 17:19-21 (AI)": [
+    "jad_occurrence__230"
+  ],
+  "Matthew 23:37 (AI)": [
+    "jad_occurrence__365",
+    "jad_occurrence__550",
+    "jad_occurrence__319",
+    "jad_occurrence__667",
+    "jad_occurrence__455",
+    "jad_occurrence__577",
+    "jad_occurrence__232",
+    "jad_occurrence__375",
+    "jad_occurrence__872",
+    "jad_occurrence__561"
+  ],
+  "Psalm 88:11 (AI)": [
+    "jad_occurrence__234"
   ],
   "Galatians 4:22-24 (AI)": [
     "jad_occurrence__235"
@@ -30,331 +949,63 @@
   "1 Corinthians 3:17 (AI)": [
     "jad_occurrence__235"
   ],
-  "Matthew 13:24-30 (AI)": [
-    "jad_occurrence__368"
-  ],
-  "Romans 11:25-26 (AI)": [
-    "jad_occurrence__1",
-    "jad_occurrence__200",
-    "jad_occurrence__828",
-    "jad_occurrence__368"
-  ],
-  "Matthew 27:25 (AI)": [
-    "jad_occurrence__604",
-    "jad_occurrence__218",
-    "jad_occurrence__71",
-    "jad_occurrence__368",
-    "jad_occurrence__561",
-    "jad_occurrence__888",
-    "jad_occurrence__244",
-    "jad_occurrence__508",
-    "jad_occurrence__467",
-    "jad_occurrence__18",
-    "jad_occurrence__433",
-    "jad_occurrence__209",
-    "jad_occurrence__735",
-    "jad_occurrence__460",
-    "jad_occurrence__73",
-    "jad_occurrence__161",
-    "jad_occurrence__703",
-    "jad_occurrence__808",
-    "jad_occurrence__384",
-    "jad_occurrence__648",
-    "jad_occurrence__595"
-  ],
-  "Deuteronomy 32:22 (AI)": [
-    "jad_occurrence__338",
-    "jad_occurrence__339",
-    "jad_occurrence__785",
-    "jad_occurrence__716",
-    "jad_occurrence__330"
-  ],
-  "2 Kings 2:23-24 (AI)": [
-    "jad_occurrence__245",
-    "jad_occurrence__225",
-    "jad_occurrence__81",
-    "jad_occurrence__242",
-    "jad_occurrence__232",
-    "jad_occurrence__793",
-    "jad_occurrence__405",
-    "jad_occurrence__771",
-    "jad_occurrence__41",
-    "jad_occurrence__385",
-    "jad_occurrence__172",
-    "jad_occurrence__603",
-    "jad_occurrence__80",
-    "jad_occurrence__130",
-    "jad_occurrence__39",
-    "jad_occurrence__140",
-    "jad_occurrence__460",
-    "jad_occurrence__29",
-    "jad_occurrence__233",
-    "jad_occurrence__408",
-    "jad_occurrence__26",
-    "jad_occurrence__434",
-    "jad_occurrence__207",
-    "jad_occurrence__874",
-    "jad_occurrence__139",
-    "jad_occurrence__82"
-  ],
-  "Matthew 27:33 (AI)": [
-    "jad_occurrence__874",
-    "jad_occurrence__408",
-    "jad_occurrence__405",
-    "jad_occurrence__49"
-  ],
-  "1 Corinthians 12:8-10 (AI)": [
-    "jad_occurrence__915",
-    "jad_occurrence__918"
-  ],
-  "Psalm 55:22 (AI)": [
-    "jad_occurrence__915"
-  ],
-  "Psalm 131:1 (AI)": [
-    "jad_occurrence__915"
-  ],
-  "Acts 8:18-20 (AI)": [
-    "jad_occurrence__915"
-  ],
-  "Psalm 17:8 (AI)": [
-    "jad_occurrence__915"
-  ],
-  "Psalm 131:2 (AI)": [
-    "jad_occurrence__915"
-  ],
-  "Psalm 17:2 (AI)": [
-    "jad_occurrence__915"
-  ],
-  "Psalm 25:1 (AI)": [
-    "jad_occurrence__915"
-  ],
-  "Proverbs 20:21 (AI)": [
-    "jad_occurrence__915"
-  ],
-  "Psalm 51:19 (AI)": [
-    "jad_occurrence__915"
-  ],
-  "Matthew 23:37-38 (AI)": [
-    "jad_occurrence__361"
-  ],
-  "Matthew 23:38 (AI)": [
-    "jad_occurrence__111",
-    "jad_occurrence__869",
-    "jad_occurrence__398",
-    "jad_occurrence__429",
-    "jad_occurrence__361",
-    "jad_occurrence__365",
-    "jad_occurrence__518",
-    "jad_occurrence__151",
-    "jad_occurrence__570",
-    "jad_occurrence__319",
-    "jad_occurrence__436",
-    "jad_occurrence__556",
-    "jad_occurrence__489"
-  ],
-  "Matthew 23:39 (AI)": [
-    "jad_occurrence__869",
-    "jad_occurrence__361",
-    "jad_occurrence__365",
-    "jad_occurrence__698",
-    "jad_occurrence__665",
-    "jad_occurrence__556"
-  ],
-  "Isaiah 58:4 (AI)": [
-    "jad_occurrence__895",
-    "jad_occurrence__612"
-  ],
-  "Psalm 18:10 (AI)": [
-    "jad_occurrence__780"
-  ],
-  "Psalm 5:11 (AI)": [
-    "jad_occurrence__780"
-  ],
-  "Isaiah 4:6 (AI)": [
-    "jad_occurrence__780"
-  ],
-  "Micah 3:1 (AI)": [
-    "jad_occurrence__523"
-  ],
-  "Micah 3:5 (AI)": [
-    "jad_occurrence__523"
-  ],
-  "Luke 21:22 (AI)": [
-    "jad_occurrence__544",
-    "jad_occurrence__177"
-  ],
-  "Isaiah 58:3 (AI)": [
-    "jad_occurrence__533"
-  ],
-  "Matthew 18:31-34 (AI)": [
-    "jad_occurrence__533"
-  ],
-  "Matthew 18:32-35 (AI)": [
-    "jad_occurrence__533"
-  ],
-  "Ecclesiastes 1:2 (AI)": [
-    "jad_occurrence__854"
-  ],
-  "John 11:48 (AI)": [
-    "jad_occurrence__242",
-    "jad_occurrence__174",
-    "jad_occurrence__320",
-    "jad_occurrence__230",
-    "jad_occurrence__308",
-    "jad_occurrence__312",
-    "jad_occurrence__352",
-    "jad_occurrence__734",
-    "jad_occurrence__307",
-    "jad_occurrence__254",
+  "Luke 13:35 (AI)": [
     "jad_occurrence__61",
-    "jad_occurrence__206",
-    "jad_occurrence__861",
-    "jad_occurrence__680",
-    "jad_occurrence__265",
-    "jad_occurrence__920",
-    "jad_occurrence__928",
-    "jad_occurrence__309",
-    "jad_occurrence__468",
-    "jad_occurrence__198",
-    "jad_occurrence__774",
-    "jad_occurrence__729",
-    "jad_occurrence__911",
-    "jad_occurrence__520",
-    "jad_occurrence__860",
-    "jad_occurrence__811",
-    "jad_occurrence__551",
-    "jad_occurrence__252"
+    "jad_occurrence__237"
   ],
-  "Matthew 8:12 (AI)": [
-    "jad_occurrence__266",
-    "jad_occurrence__520",
-    "jad_occurrence__358"
+  "Psalm 7:11 (AI)": [
+    "jad_occurrence__238"
   ],
-  "John 11:49-51 (AI)": [
-    "jad_occurrence__520"
+  "2 Corinthians 6:2 (AI)": [
+    "jad_occurrence__788",
+    "jad_occurrence__24",
+    "jad_occurrence__814",
+    "jad_occurrence__550"
   ],
-  "Matthew 7:22 (AI)": [
-    "jad_occurrence__520",
-    "jad_occurrence__358"
+  "Luke 19:43 (AI)": [
+    "jad_occurrence__788",
+    "jad_occurrence__24",
+    "jad_occurrence__441"
   ],
-  "Acts 4:29 (AI)": [
-    "jad_occurrence__554"
+  "Matthew 8:29 (AI)": [
+    "jad_occurrence__240"
   ],
-  "Matthew 21:38 (AI)": [
-    "jad_occurrence__692",
-    "jad_occurrence__467",
-    "jad_occurrence__595"
+  "Matthew 28:18 (AI)": [
+    "jad_occurrence__815",
+    "jad_occurrence__241"
   ],
-  "John 19:15 (AI)": [
-    "jad_occurrence__340",
-    "jad_occurrence__218",
-    "jad_occurrence__476",
-    "jad_occurrence__282",
-    "jad_occurrence__712",
-    "jad_occurrence__175",
-    "jad_occurrence__548",
-    "jad_occurrence__882",
-    "jad_occurrence__352",
-    "jad_occurrence__603",
-    "jad_occurrence__467",
-    "jad_occurrence__38",
-    "jad_occurrence__18",
-    "jad_occurrence__826",
-    "jad_occurrence__265",
-    "jad_occurrence__487",
-    "jad_occurrence__73",
-    "jad_occurrence__253",
-    "jad_occurrence__692",
-    "jad_occurrence__860",
-    "jad_occurrence__86",
-    "jad_occurrence__791",
-    "jad_occurrence__82",
-    "jad_occurrence__595"
+  "Acts 5:38-39 (AI)": [
+    "jad_occurrence__242"
   ],
-  "Isaiah 8:6-8 (AI)": [
-    "jad_occurrence__335"
+  "Genesis 50:20 (AI)": [
+    "jad_occurrence__242"
   ],
-  "Matthew 1:23 (AI)": [
-    "jad_occurrence__335"
+  "Matthew 11:30 (AI)": [
+    "jad_occurrence__800",
+    "jad_occurrence__243"
   ],
-  "Zechariah 14:12 (AI)": [
-    "jad_occurrence__497",
-    "jad_occurrence__532"
+  "Judges 16 (AI)": [
+    "jad_occurrence__69",
+    "jad_occurrence__245"
   ],
-  "Psalm 40:2 (AI)": [
-    "jad_occurrence__497",
-    "jad_occurrence__532"
+  "Judges 15:4 (AI)": [
+    "jad_occurrence__245"
   ],
-  "Psalm 123:1 (AI)": [
-    "jad_occurrence__497",
-    "jad_occurrence__532"
+  "Matthew 27:29 (AI)": [
+    "jad_occurrence__26",
+    "jad_occurrence__245"
   ],
-  "2 Chronicles 36:18-19 (AI)": [
-    "jad_occurrence__44"
+  "Psalm 63:10 (AI)": [
+    "jad_occurrence__47",
+    "jad_occurrence__249"
   ],
-  "Daniel 1:1-2 (AI)": [
-    "jad_occurrence__44"
+  "Revelation 19:21 (AI)": [
+    "jad_occurrence__249"
   ],
-  "1 Maccabees 1:20-24 (AI)": [
-    "jad_occurrence__44"
-  ],
-  "Luke 21:6 (AI)": [
-    "jad_occurrence__654",
-    "jad_occurrence__44",
-    "jad_occurrence__865"
-  ],
-  "Matthew 24:1-2 (AI)": [
-    "jad_occurrence__44",
-    "jad_occurrence__170",
-    "jad_occurrence__124"
-  ],
-  "1 Kings 6 (AI)": [
-    "jad_occurrence__44"
-  ],
-  "Matthew 27:50-52 (AI)": [
-    "jad_occurrence__297",
-    "jad_occurrence__212",
-    "jad_occurrence__120",
-    "jad_occurrence__483",
-    "jad_occurrence__210",
-    "jad_occurrence__201",
-    "jad_occurrence__757",
-    "jad_occurrence__618",
-    "jad_occurrence__412",
-    "jad_occurrence__819",
-    "jad_occurrence__372",
-    "jad_occurrence__603",
-    "jad_occurrence__1",
-    "jad_occurrence__849",
-    "jad_occurrence__751",
-    "jad_occurrence__899",
-    "jad_occurrence__326",
-    "jad_occurrence__721",
-    "jad_occurrence__574",
-    "jad_occurrence__478",
-    "jad_occurrence__432",
-    "jad_occurrence__891",
-    "jad_occurrence__152",
-    "jad_occurrence__736",
-    "jad_occurrence__177",
-    "jad_occurrence__470"
-  ],
-  "Matthew 24:3 (AI)": [
-    "jad_occurrence__304",
-    "jad_occurrence__170",
-    "jad_occurrence__666"
-  ],
-  "Mark 13:3-4 (AI)": [
-    "jad_occurrence__666"
-  ],
-  "Ezra 1:1 (AI)": [
-    "jad_occurrence__687"
-  ],
-  "Haggai 1:1, 2:23 (AI)": [
-    "jad_occurrence__687"
-  ],
-  "Nehemiah 2:1 (AI)": [
-    "jad_occurrence__687"
+  "Luke 21:24 (AI)": [
+    "jad_occurrence__333",
+    "jad_occurrence__334",
+    "jad_occurrence__249"
   ],
   "Ezekiel 5:1-2 (AI)": [
     "jad_occurrence__654",
@@ -367,189 +1018,20 @@
   "Mark 13:2 (AI)": [
     "jad_occurrence__25"
   ],
-  "Amos 8:10 (AI)": [
-    "jad_occurrence__75"
+  "Matthew 10:22 (AI)": [
+    "jad_occurrence__252"
   ],
-  "Exodus 4:22 (AI)": [
-    "jad_occurrence__75"
+  "Mark 13:9 (AI)": [
+    "jad_occurrence__252"
   ],
-  "1 Samuel 23:1-13 (AI)": [
-    "jad_occurrence__75"
+  "John 19:30 (AI)": [
+    "jad_occurrence__253"
   ],
-  "Isaiah 65:1 (AI)": [
-    "jad_occurrence__177",
-    "jad_occurrence__545",
-    "jad_occurrence__584"
+  "Lamentations 1:15 (AI)": [
+    "jad_occurrence__253"
   ],
-  "1 Maccabees 2 (AI)": [
-    "jad_occurrence__109"
-  ],
-  "1 Maccabees 3 (AI)": [
-    "jad_occurrence__109"
-  ],
-  "1 Maccabees 4 (AI)": [
-    "jad_occurrence__109"
-  ],
-  "Matthew 24:2 (AI)": [
-    "jad_occurrence__238",
-    "jad_occurrence__158",
-    "jad_occurrence__856",
-    "jad_occurrence__28",
-    "jad_occurrence__376",
-    "jad_occurrence__862",
-    "jad_occurrence__232",
-    "jad_occurrence__933",
-    "jad_occurrence__868",
-    "jad_occurrence__436",
-    "jad_occurrence__142",
-    "jad_occurrence__83",
-    "jad_occurrence__667",
-    "jad_occurrence__173",
-    "jad_occurrence__486",
-    "jad_occurrence__165"
-  ],
-  "Psalm 74:3 (AI)": [
-    "jad_occurrence__856"
-  ],
-  "Luke 1:44 (AI)": [
-    "jad_occurrence__905"
-  ],
-  "John 5:2-3 (AI)": [
-    "jad_occurrence__905"
-  ],
-  "Romans 2:24 (AI)": [
-    "jad_occurrence__905",
-    "jad_occurrence__722"
-  ],
-  "Isaiah 1:8-9 (AI)": [
-    "jad_occurrence__905"
-  ],
-  "Isaiah 1:3-4 (AI)": [
-    "jad_occurrence__905"
-  ],
-  "Isaiah 1:20 (AI)": [
-    "jad_occurrence__905"
-  ],
-  "Psalm 59:11 (AI)": [
-    "jad_occurrence__905",
-    "jad_occurrence__190",
-    "jad_occurrence__421"
-  ],
-  "Isaiah 50:11 (AI)": [
-    "jad_occurrence__905",
-    "jad_occurrence__583"
-  ],
-  "Matthew 27:5 (AI)": [
-    "jad_occurrence__648"
-  ],
-  "Matthew 27:24 (AI)": [
-    "jad_occurrence__735",
-    "jad_occurrence__648"
-  ],
-  "Revelation 12:9 (AI)": [
-    "jad_occurrence__891"
-  ],
-  "Genesis 3:23-24 (AI)": [
-    "jad_occurrence__891"
-  ],
-  "Genesis 7:21-23 (AI)": [
-    "jad_occurrence__891"
-  ],
-  "Genesis 11:7-9 (AI)": [
-    "jad_occurrence__381",
-    "jad_occurrence__891"
-  ],
-  "Joshua 6:21 (AI)": [
-    "jad_occurrence__891"
-  ],
-  "Genesis 19:24-25 (AI)": [
-    "jad_occurrence__891"
-  ],
-  "Exodus 14:28 (AI)": [
-    "jad_occurrence__891"
-  ],
-  "Numbers 16:32 (AI)": [
-    "jad_occurrence__891"
-  ],
-  "Ezekiel 4:4-6 (AI)": [
-    "jad_occurrence__138"
-  ],
-  "Ezekiel 4:6 (AI)": [
-    "jad_occurrence__138"
-  ],
-  "Exodus 12:40 (AI)": [
-    "jad_occurrence__110",
-    "jad_occurrence__563",
-    "jad_occurrence__396",
-    "jad_occurrence__138"
-  ],
-  "Daniel 9:26-27 (AI)": [
-    "jad_occurrence__838",
-    "jad_occurrence__199",
-    "jad_occurrence__212",
-    "jad_occurrence__684"
-  ],
-  "Isaiah 24:16 (AI)": [
-    "jad_occurrence__684"
-  ],
-  "Ezekiel 39:23-24 (AI)": [
-    "jad_occurrence__112"
-  ],
-  "Jeremiah 25:9 (AI)": [
-    "jad_occurrence__763",
-    "jad_occurrence__514",
-    "jad_occurrence__112"
-  ],
-  "Matthew 21:13 (AI)": [
-    "jad_occurrence__783",
-    "jad_occurrence__61",
-    "jad_occurrence__397",
-    "jad_occurrence__112",
-    "jad_occurrence__762"
-  ],
-  "John 11:49-50 (AI)": [
-    "jad_occurrence__230"
-  ],
-  "1 Kings 17:19-21 (AI)": [
-    "jad_occurrence__230"
-  ],
-  "Ezekiel 3:26 (AI)": [
-    "jad_occurrence__184"
-  ],
-  "Revelation 11:2 (AI)": [
-    "jad_occurrence__184"
-  ],
-  "Luke 19:41-44 (AI)": [
-    "jad_occurrence__613",
-    "jad_occurrence__743",
-    "jad_occurrence__629",
-    "jad_occurrence__165",
-    "jad_occurrence__865",
-    "jad_occurrence__667",
-    "jad_occurrence__258",
-    "jad_occurrence__845",
-    "jad_occurrence__259",
-    "jad_occurrence__284",
-    "jad_occurrence__51"
-  ],
-  "Luke 19:43-44 (AI)": [
-    "jad_occurrence__273",
-    "jad_occurrence__171",
-    "jad_occurrence__45",
-    "jad_occurrence__550",
-    "jad_occurrence__258",
-    "jad_occurrence__27",
-    "jad_occurrence__386",
-    "jad_occurrence__379",
-    "jad_occurrence__814"
-  ],
-  "Luke 19:44 (AI)": [
-    "jad_occurrence__171",
-    "jad_occurrence__158",
-    "jad_occurrence__660",
-    "jad_occurrence__550",
-    "jad_occurrence__258",
-    "jad_occurrence__175"
+  "1 Samuel 4:17 (AI)": [
+    "jad_occurrence__253"
   ],
   "Psalm 24:8 (AI)": [
     "jad_occurrence__254"
@@ -557,266 +1039,57 @@
   "Matthew 27:16-26 (AI)": [
     "jad_occurrence__254"
   ],
-  "Jeremiah 12:7 (AI)": [
-    "jad_occurrence__570",
-    "jad_occurrence__436",
-    "jad_occurrence__151"
+  "Psalm 80:12-13 (AI)": [
+    "jad_occurrence__256"
   ],
-  "Psalm 55:9-10 (AI)": [
-    "jad_occurrence__570"
+  "Romans 2:5 (AI)": [
+    "jad_occurrence__26"
   ],
-  "Micah 3:12 (AI)": [
-    "jad_occurrence__570",
-    "jad_occurrence__14",
-    "jad_occurrence__325"
+  "Luke 21:21 (AI)": [
+    "jad_occurrence__261"
   ],
-  "Nehemiah (AI)": [
-    "jad_occurrence__749"
+  "Luke 19:14 (AI)": [
+    "jad_occurrence__810",
+    "jad_occurrence__264"
   ],
-  "Daniel (AI)": [
-    "jad_occurrence__837",
-    "jad_occurrence__749",
-    "jad_occurrence__671"
+  "Matthew 8:12 (AI)": [
+    "jad_occurrence__520",
+    "jad_occurrence__358",
+    "jad_occurrence__266"
   ],
-  "Psalm 2:8 (AI)": [
-    "jad_occurrence__758",
-    "jad_occurrence__846"
-  ],
-  "Romans 10:18 (AI)": [
-    "jad_occurrence__758",
-    "jad_occurrence__846",
-    "jad_occurrence__744"
-  ],
-  "Ecclesiastes 3:4 (AI)": [
-    "jad_occurrence__195"
-  ],
-  "Deuteronomy 9:6 (AI)": [
-    "jad_occurrence__195"
-  ],
-  "2 Kings 17:6 (AI)": [
-    "jad_occurrence__195"
-  ],
-  "Daniel 7:7 (AI)": [
-    "jad_occurrence__195",
-    "jad_occurrence__188"
-  ],
-  "Matthew 11:16-17 (AI)": [
-    "jad_occurrence__195"
-  ],
-  "Matthew 25:41 (AI)": [
-    "jad_occurrence__420",
-    "jad_occurrence__870",
-    "jad_occurrence__583",
+  "Jeremiah 8:7 (AI)": [
+    "jad_occurrence__267",
     "jad_occurrence__550",
-    "jad_occurrence__495",
-    "jad_occurrence__244"
+    "jad_occurrence__45",
+    "jad_occurrence__413"
   ],
-  "Ezekiel 5:1-4 (AI)": [
-    "jad_occurrence__244"
+  "Psalm 71:16 (AI)": [
+    "jad_occurrence__268"
   ],
-  "John 8:48 (AI)": [
-    "jad_occurrence__799"
+  "Ecclesiastes 11:9 (AI)": [
+    "jad_occurrence__270"
   ],
-  "Acts 25:1 (AI)": [
-    "jad_occurrence__158"
+  "Ecclesiastes 12:1 (AI)": [
+    "jad_occurrence__270"
   ],
-  "Acts 28:30-31 (AI)": [
-    "jad_occurrence__158"
+  "Ecclesiastes 12:6-7 (AI)": [
+    "jad_occurrence__270"
   ],
-  "1 Corinthians 1:1, 2 Timothy 4:20 (AI)": [
-    "jad_occurrence__158"
+  "Luke 24:44 (AI)": [
+    "jad_occurrence__273"
   ],
-  "Galatians 1:19 (AI)": [
-    "jad_occurrence__158"
+  "Matthew 10:16-18 (AI)": [
+    "jad_occurrence__273"
   ],
-  "Romans 9:27 (AI)": [
-    "jad_occurrence__158"
+  "Matthew 7 (AI)": [
+    "jad_occurrence__274"
   ],
-  "Luke 13:32 (AI)": [
-    "jad_occurrence__47",
-    "jad_occurrence__372",
-    "jad_occurrence__673",
-    "jad_occurrence__783"
+  "Luke 4:18 (AI)": [
+    "jad_occurrence__276"
   ],
-  "Song of Solomon 2:15 (AI)": [
-    "jad_occurrence__372",
-    "jad_occurrence__673"
-  ],
-  "Zephaniah 1:11-13 (AI)": [
-    "jad_occurrence__496"
-  ],
-  "Zephaniah 1:12 (AI)": [
-    "jad_occurrence__527",
-    "jad_occurrence__496",
-    "jad_occurrence__593"
-  ],
-  "Daniel 13:56 (AI)": [
-    "jad_occurrence__496"
-  ],
-  "Genesis 3:14 (AI)": [
-    "jad_occurrence__920"
-  ],
-  "Psalms 35:20 (AI)": [
-    "jad_occurrence__920"
-  ],
-  "Deuteronomy 32:24 (AI)": [
-    "jad_occurrence__920"
-  ],
-  "Luke 13:6-9 (AI)": [
-    "jad_occurrence__59"
-  ],
-  "Ezekiel 21:14 (AI)": [
-    "jad_occurrence__538"
-  ],
-  "Ezekiel 33:12 (AI)": [
-    "jad_occurrence__538"
-  ],
-  "Isaiah 3:26 (AI)": [
-    "jad_occurrence__538"
-  ],
-  "Matthew 22:7 (AI)": [
-    "jad_occurrence__213",
-    "jad_occurrence__26",
-    "jad_occurrence__641",
-    "jad_occurrence__286",
-    "jad_occurrence__65",
-    "jad_occurrence__58",
-    "jad_occurrence__363"
-  ],
-  "Matthew 22:8-10 (AI)": [
-    "jad_occurrence__58"
-  ],
-  "Psalm 80:13-14 (AI)": [
-    "jad_occurrence__204"
-  ],
-  "Psalm 13:3 (AI)": [
-    "jad_occurrence__125"
-  ],
-  "Matthew 27:20-21 (AI)": [
-    "jad_occurrence__178"
-  ],
-  "Luke 19:42-44 (AI)": [
-    "jad_occurrence__178",
-    "jad_occurrence__267"
-  ],
-  "Matthew 27:16-17 (AI)": [
-    "jad_occurrence__178"
-  ],
-  "Isaiah 53:7 (AI)": [
-    "jad_occurrence__280",
-    "jad_occurrence__664"
-  ],
-  "John 15:20 (AI)": [
-    "jad_occurrence__682"
-  ],
-  "John 11:48-50 (AI)": [
-    "jad_occurrence__635",
-    "jad_occurrence__682"
-  ],
-  "2 Kings 25:9 (AI)": [
-    "jad_occurrence__493",
-    "jad_occurrence__514"
-  ],
-  "Psalm 78:49 (AI)": [
-    "jad_occurrence__213",
-    "jad_occurrence__514",
-    "jad_occurrence__157"
-  ],
-  "Jeremiah 17:13 (AI)": [
-    "jad_occurrence__198"
-  ],
-  "Jeremiah 17:17-18 (AI)": [
-    "jad_occurrence__198"
-  ],
-  "Jeremiah 6:9 (AI)": [
-    "jad_occurrence__677"
-  ],
-  "Isaiah 5:5 (AI)": [
-    "jad_occurrence__614",
-    "jad_occurrence__677"
-  ],
-  "Matthew 7:24-27 (AI)": [
-    "jad_occurrence__495"
-  ],
-  "Isaiah 1:10 (AI)": [
-    "jad_occurrence__688",
-    "jad_occurrence__495",
-    "jad_occurrence__202"
-  ],
-  "Zephaniah 1:14-15 (AI)": [
-    "jad_occurrence__527",
-    "jad_occurrence__495"
-  ],
-  "1 Thessalonians 2:16 (AI)": [
-    "jad_occurrence__111",
-    "jad_occurrence__398",
-    "jad_occurrence__583"
-  ],
-  "Psalm 136:1 (AI)": [
-    "jad_occurrence__700"
-  ],
-  "Isaiah 63:10 (AI)": [
-    "jad_occurrence__700"
-  ],
-  "Isaiah 63:11 (AI)": [
-    "jad_occurrence__700"
-  ],
-  "Ezekiel 24:1-2 (AI)": [
-    "jad_occurrence__530",
-    "jad_occurrence__400"
-  ],
-  "Jeremiah 1:11-13 (AI)": [
-    "jad_occurrence__113",
-    "jad_occurrence__400"
-  ],
-  "Isaiah 1:3 (AI)": [
-    "jad_occurrence__710",
-    "jad_occurrence__566"
-  ],
-  "Matthew 26:52 (AI)": [
-    "jad_occurrence__553",
-    "jad_occurrence__664"
-  ],
-  "Matthew 26:53 (AI)": [
-    "jad_occurrence__553",
-    "jad_occurrence__664"
-  ],
-  "Matthew 26:54 (AI)": [
-    "jad_occurrence__553"
-  ],
-  "Matthew 26:55 (AI)": [
-    "jad_occurrence__553",
-    "jad_occurrence__664"
-  ],
-  "James 5:3 (AI)": [
-    "jad_occurrence__302"
-  ],
-  "James 5:7 (AI)": [
-    "jad_occurrence__302"
-  ],
-  "Isaiah 52:10 (AI)": [
-    "jad_occurrence__569"
-  ],
-  "Matthew 28:19 (AI)": [
-    "jad_occurrence__569",
-    "jad_occurrence__336",
-    "jad_occurrence__741"
-  ],
-  "Acts 9:15 (AI)": [
-    "jad_occurrence__569"
-  ],
-  "Ephesians 6:11 (AI)": [
-    "jad_occurrence__569"
-  ],
-  "Luke 19 (AI)": [
-    "jad_occurrence__60"
-  ],
-  "Psalm 79 (AI)": [
-    "jad_occurrence__60"
-  ],
-  "Mark 15:13-14 (AI)": [
-    "jad_occurrence__705",
-    "jad_occurrence__782"
+  "Isaiah 61:1 (AI)": [
+    "jad_occurrence__788",
+    "jad_occurrence__276"
   ],
   "Acts 5:41 (AI)": [
     "jad_occurrence__285",
@@ -829,278 +1102,101 @@
     "jad_occurrence__27",
     "jad_occurrence__28"
   ],
-  "Psalm 69:23 (AI)": [
-    "jad_occurrence__419"
+  "Isaiah 53:7 (AI)": [
+    "jad_occurrence__664",
+    "jad_occurrence__280"
   ],
-  "Psalm 69:24 (AI)": [
-    "jad_occurrence__419"
+  "Isaiah 5:2 (AI)": [
+    "jad_occurrence__281"
   ],
-  "Psalm 69:25 (AI)": [
-    "jad_occurrence__835",
-    "jad_occurrence__716",
-    "jad_occurrence__419"
+  "Jeremiah 5:10 (AI)": [
+    "jad_occurrence__282"
   ],
-  "Luke 21:25 (AI)": [
-    "jad_occurrence__12"
+  "Isaiah 3:8 (AI)": [
+    "jad_occurrence__282"
   ],
-  "Luke 21:20 (AI)": [
-    "jad_occurrence__743",
-    "jad_occurrence__788",
-    "jad_occurrence__35",
-    "jad_occurrence__12",
-    "jad_occurrence__24",
-    "jad_occurrence__276",
-    "jad_occurrence__334",
-    "jad_occurrence__261",
+  "Matthew 23:32 (AI)": [
+    "jad_occurrence__804",
+    "jad_occurrence__283"
+  ],
+  "Luke 21:23-24 (AI)": [
     "jad_occurrence__284",
-    "jad_occurrence__814"
+    "jad_occurrence__713",
+    "jad_occurrence__743"
   ],
-  "Galatians 5:15 (AI)": [
-    "jad_occurrence__105",
-    "jad_occurrence__535"
+  "Revelation 21:2 (AI)": [
+    "jad_occurrence__286"
   ],
-  "Psalm 145:17 (AI)": [
-    "jad_occurrence__70"
+  "Matthew 27:39-43 (AI)": [
+    "jad_occurrence__29"
   ],
-  "Hebrews 13:12 (AI)": [
-    "jad_occurrence__893",
-    "jad_occurrence__79",
-    "jad_occurrence__49",
-    "jad_occurrence__124",
-    "jad_occurrence__167"
+  "Matthew 27:45-50 (AI)": [
+    "jad_occurrence__291"
   ],
-  "1 Samuel 2:10 (AI)": [
-    "jad_occurrence__501",
-    "jad_occurrence__529"
-  ],
-  "Luke 1:69 (AI)": [
-    "jad_occurrence__529"
-  ],
-  "Zechariah 1:20-21 (AI)": [
-    "jad_occurrence__529"
-  ],
-  "Exodus 23:7 (AI)": [
-    "jad_occurrence__161"
-  ],
-  "Daniel 9:26 (AI)": [
-    "jad_occurrence__839",
-    "jad_occurrence__281",
-    "jad_occurrence__71",
-    "jad_occurrence__602",
-    "jad_occurrence__476",
-    "jad_occurrence__154",
-    "jad_occurrence__117",
-    "jad_occurrence__838",
-    "jad_occurrence__827"
-  ],
-  "Romans 2:5 (AI)": [
-    "jad_occurrence__26"
-  ],
-  "Matthew 27:40 (AI)": [
-    "jad_occurrence__609",
-    "jad_occurrence__225",
-    "jad_occurrence__26",
-    "jad_occurrence__371",
-    "jad_occurrence__247"
-  ],
-  "Matthew 27:29 (AI)": [
-    "jad_occurrence__26",
-    "jad_occurrence__245"
-  ],
-  "Matthew 21:12 (AI)": [
-    "jad_occurrence__26",
-    "jad_occurrence__918",
-    "jad_occurrence__172"
-  ],
-  "Psalms 78:49 (AI)": [
-    "jad_occurrence__34",
-    "jad_occurrence__363"
-  ],
-  "Luke 19:41-42 (AI)": [
-    "jad_occurrence__45",
-    "jad_occurrence__1",
-    "jad_occurrence__761",
-    "jad_occurrence__638"
-  ],
-  "Matthew 23:35 (AI)": [
-    "jad_occurrence__350",
-    "jad_occurrence__670",
-    "jad_occurrence__899",
-    "jad_occurrence__345",
-    "jad_occurrence__561"
-  ],
-  "Matthew 1:11 (AI)": [
-    "jad_occurrence__685"
-  ],
-  "1 Samuel 10:1 (AI)": [
-    "jad_occurrence__685"
-  ],
-  "1 Samuel 10:24 (AI)": [
-    "jad_occurrence__685"
-  ],
-  "2 Chronicles 26:16 (AI)": [
-    "jad_occurrence__685"
-  ],
-  "Leviticus 8:12 (AI)": [
-    "jad_occurrence__685"
-  ],
-  "Numbers 3:6-10 (AI)": [
-    "jad_occurrence__685"
-  ],
-  "2 Samuel 2:11 (AI)": [
-    "jad_occurrence__685"
-  ],
-  "Micah 3:1-3 (AI)": [
-    "jad_occurrence__510"
-  ],
-  "Micah 3:4 (AI)": [
-    "jad_occurrence__510"
-  ],
-  "Micah 3:5-7 (AI)": [
-    "jad_occurrence__510"
+  "Psalm 79:14 (AI)": [
+    "jad_occurrence__292"
   ],
   "John 18:6 (AI)": [
     "jad_occurrence__298"
   ],
   "Matthew 27:45 (AI)": [
-    "jad_occurrence__833",
-    "jad_occurrence__298"
+    "jad_occurrence__298",
+    "jad_occurrence__833"
   ],
   "Matthew 27:51-52 (AI)": [
-    "jad_occurrence__833",
-    "jad_occurrence__298"
+    "jad_occurrence__298",
+    "jad_occurrence__833"
   ],
-  "Luke 4:18 (AI)": [
-    "jad_occurrence__276"
+  "Acts 25 (AI)": [
+    "jad_occurrence__3"
   ],
-  "Isaiah 61:1 (AI)": [
-    "jad_occurrence__788",
-    "jad_occurrence__276"
+  "Acts 12 (AI)": [
+    "jad_occurrence__3"
   ],
-  "Philippians 2 (AI)": [
-    "jad_occurrence__72"
+  "James 5:3 (AI)": [
+    "jad_occurrence__302"
   ],
-  "Jeremiah 15 (AI)": [
-    "jad_occurrence__72"
+  "James 5:7 (AI)": [
+    "jad_occurrence__302"
   ],
-  "John 19 (AI)": [
-    "jad_occurrence__72"
+  "Acts 7:51 (AI)": [
+    "jad_occurrence__303"
   ],
-  "Exodus 12 (AI)": [
-    "jad_occurrence__72"
+  "1 Samuel 31:2 (AI)": [
+    "jad_occurrence__304"
   ],
-  "Isaiah 53 (AI)": [
-    "jad_occurrence__72"
+  "Matthew 24:20 (AI)": [
+    "jad_occurrence__459",
+    "jad_occurrence__364",
+    "jad_occurrence__304"
   ],
-  "Isaiah 11:11 (AI)": [
-    "jad_occurrence__87"
+  "Genesis 1:20-25 (AI)": [
+    "jad_occurrence__305"
   ],
-  "Isaiah 62:6 (AI)": [
-    "jad_occurrence__331"
+  "Genesis 1:26-27 (AI)": [
+    "jad_occurrence__305"
   ],
-  "Matthew 18:32-34 (AI)": [
-    "jad_occurrence__663"
+  "John 19:34 (AI)": [
+    "jad_occurrence__305"
   ],
-  "Romans 11:8 (AI)": [
-    "jad_occurrence__674"
+  "Matthew 23:13 (AI)": [
+    "jad_occurrence__309",
+    "jad_occurrence__307"
   ],
-  "Romans 11:9-10 (AI)": [
-    "jad_occurrence__674"
+  "Luke 23:29-30 (AI)": [
+    "jad_occurrence__310"
   ],
-  "Luke 4:18-19 (AI)": [
-    "jad_occurrence__568",
-    "jad_occurrence__453"
+  "Matthew 24:16 (AI)": [
+    "jad_occurrence__310"
   ],
-  "Isaiah 5:2, 4 (AI)": [
-    "jad_occurrence__453"
+  "Matthew 24:19 (AI)": [
+    "jad_occurrence__465",
+    "jad_occurrence__310",
+    "jad_occurrence__459",
+    "jad_occurrence__557"
   ],
-  "Luke 6:25 (AI)": [
-    "jad_occurrence__453"
-  ],
-  "Isaiah 5:26-27 (AI)": [
-    "jad_occurrence__590",
-    "jad_occurrence__902"
-  ],
-  "Daniel 9:24-27 (AI)": [
-    "jad_occurrence__107",
-    "jad_occurrence__547",
-    "jad_occurrence__879",
-    "jad_occurrence__900",
-    "jad_occurrence__156",
-    "jad_occurrence__85",
-    "jad_occurrence__756",
-    "jad_occurrence__155",
-    "jad_occurrence__876",
-    "jad_occurrence__906"
-  ],
-  "Luke 4:9 (AI)": [
-    "jad_occurrence__935"
-  ],
-  "Acts 7:56 (AI)": [
-    "jad_occurrence__935"
-  ],
-  "Numbers 25 (AI)": [
-    "jad_occurrence__894"
-  ],
-  "Zechariah (AI)": [
-    "jad_occurrence__894",
-    "jad_occurrence__671"
-  ],
-  "Jeremiah 25 (AI)": [
-    "jad_occurrence__894"
-  ],
-  "Lamentations 4:10 (AI)": [
-    "jad_occurrence__617",
-    "jad_occurrence__147"
-  ],
-  "Luke 19:42 (AI)": [
-    "jad_occurrence__171",
-    "jad_occurrence__606",
-    "jad_occurrence__11",
-    "jad_occurrence__513",
-    "jad_occurrence__550",
-    "jad_occurrence__825"
-  ],
-  "Joel 2:11 (AI)": [
-    "jad_occurrence__435"
-  ],
-  "Romans 2:9 (AI)": [
-    "jad_occurrence__324"
-  ],
-  "Luke 19:40 (AI)": [
-    "jad_occurrence__1",
-    "jad_occurrence__550"
-  ],
-  "Ezekiel 11:19 (AI)": [
-    "jad_occurrence__1"
-  ],
-  "John 7:20 (AI)": [
-    "jad_occurrence__421"
-  ],
-  "Matthew 28:13 (AI)": [
-    "jad_occurrence__421"
-  ],
-  "Job 31:31 (AI)": [
-    "jad_occurrence__576"
-  ],
-  "Psalm 14:4 (AI)": [
-    "jad_occurrence__174",
-    "jad_occurrence__576"
-  ],
-  "Matthew 23:14 (AI)": [
-    "jad_occurrence__576"
-  ],
-  "Matthew 5:7 (AI)": [
-    "jad_occurrence__576"
-  ],
-  "2 Samuel 24:2 (AI)": [
-    "jad_occurrence__765"
-  ],
-  "2 Samuel 24:8-9 (AI)": [
-    "jad_occurrence__765"
-  ],
-  "Genesis 26:2-4 (AI)": [
-    "jad_occurrence__765"
+  "Matthew 16:18 (AI)": [
+    "jad_occurrence__311"
   ],
   "Hosea 2:15 (AI)": [
     "jad_occurrence__314"
@@ -1111,852 +1207,19 @@
   "Matthew 27:3-5 (AI)": [
     "jad_occurrence__314"
   ],
-  "Zechariah 14:3 (AI)": [
-    "jad_occurrence__531",
-    "jad_occurrence__327"
-  ],
-  "Zechariah 13:7-8 (AI)": [
-    "jad_occurrence__327"
-  ],
-  "Zechariah 14:2 (AI)": [
-    "jad_occurrence__531",
-    "jad_occurrence__327"
-  ],
-  "1 Chronicles 22:8 (AI)": [
-    "jad_occurrence__809"
-  ],
-  "Isaiah 29:1-3 (AI)": [
-    "jad_occurrence__454"
-  ],
-  "Isaiah 29:5-6 (AI)": [
-    "jad_occurrence__454"
-  ],
-  "Isaiah 29:7-8 (AI)": [
-    "jad_occurrence__454"
-  ],
-  "Genesis 49:17 (AI)": [
-    "jad_occurrence__805"
-  ],
-  "Isaiah 51:17 (AI)": [
-    "jad_occurrence__487"
-  ],
-  "Matthew 27:22 (AI)": [
-    "jad_occurrence__414",
-    "jad_occurrence__487"
-  ],
-  "Psalm 75:8 (AI)": [
-    "jad_occurrence__487"
-  ],
-  "Psalm 118:24 (AI)": [
-    "jad_occurrence__836"
-  ],
-  "Joel 2:32 (AI)": [
-    "jad_occurrence__836"
-  ],
-  "Ecclesiasticus 2:10 (AI)": [
-    "jad_occurrence__836"
-  ],
-  "Psalm 80:13 (AI)": [
-    "jad_occurrence__47",
-    "jad_occurrence__145",
-    "jad_occurrence__197",
-    "jad_occurrence__507",
-    "jad_occurrence__214",
-    "jad_occurrence__434",
-    "jad_occurrence__126",
-    "jad_occurrence__183",
-    "jad_occurrence__37",
-    "jad_occurrence__422"
-  ],
-  "Amos 5:1-2 (AI)": [
-    "jad_occurrence__319"
-  ],
-  "Matthew 23:37 (AI)": [
-    "jad_occurrence__365",
-    "jad_occurrence__577",
-    "jad_occurrence__232",
-    "jad_occurrence__455",
-    "jad_occurrence__319",
-    "jad_occurrence__550",
-    "jad_occurrence__561",
-    "jad_occurrence__667",
-    "jad_occurrence__872",
-    "jad_occurrence__375"
-  ],
-  "Matthew 23:13-15 (AI)": [
-    "jad_occurrence__319"
-  ],
-  "Galatians 4:26 (AI)": [
-    "jad_occurrence__862",
-    "jad_occurrence__17",
-    "jad_occurrence__173"
-  ],
-  "Matthew 8:31-32 (AI)": [
-    "jad_occurrence__884"
-  ],
-  "Acts 10:4 (AI)": [
-    "jad_occurrence__884"
-  ],
-  "2 Corinthians 12:7-9 (AI)": [
-    "jad_occurrence__884"
-  ],
-  "Luke 1:8-13 (AI)": [
-    "jad_occurrence__884"
-  ],
-  "Philippians 4:3 (AI)": [
-    "jad_occurrence__747"
-  ],
-  "Acts 6:7 (AI)": [
-    "jad_occurrence__838"
-  ],
-  "Daniel 9:27 (AI)": [
-    "jad_occurrence__55",
-    "jad_occurrence__602",
-    "jad_occurrence__395",
-    "jad_occurrence__117",
-    "jad_occurrence__838"
-  ],
-  "Isaiah 3:5 (AI)": [
-    "jad_occurrence__535"
-  ],
-  "Romans 10:2 (AI)": [
-    "jad_occurrence__147"
-  ],
-  "Acts 5:37 (AI)": [
-    "jad_occurrence__873"
-  ],
-  "Matthew 27:39-40 (AI)": [
-    "jad_occurrence__41"
-  ],
-  "Daniel 9:24 (AI)": [
-    "jad_occurrence__610",
-    "jad_occurrence__429",
-    "jad_occurrence__797",
-    "jad_occurrence__892",
-    "jad_occurrence__602"
-  ],
-  "Habakkuk 3:17 (AI)": [
-    "jad_occurrence__429"
-  ],
-  "Psalm 87:1 (AI)": [
-    "jad_occurrence__769",
-    "jad_occurrence__429"
-  ],
-  "Psalm 7:11 (AI)": [
-    "jad_occurrence__238"
-  ],
-  "Matthew 27:48 (AI)": [
-    "jad_occurrence__698"
-  ],
-  "John 1:11 (AI)": [
-    "jad_occurrence__840",
-    "jad_occurrence__698"
-  ],
-  "Genesis 3:6 (AI)": [
-    "jad_occurrence__382"
-  ],
-  "Acts 15:5 (AI)": [
-    "jad_occurrence__382"
-  ],
-  "Galatians 2:11-14 (AI)": [
-    "jad_occurrence__382"
-  ],
-  "Genesis 4:15 (AI)": [
-    "jad_occurrence__382",
-    "jad_occurrence__889"
-  ],
-  "1 Peter 3:20-21 (AI)": [
-    "jad_occurrence__382"
-  ],
-  "Romans 11:1-2 (AI)": [
-    "jad_occurrence__565"
-  ],
-  "Isaiah 1:9 (AI)": [
-    "jad_occurrence__354",
-    "jad_occurrence__688",
-    "jad_occurrence__565"
-  ],
-  "Acts 2:41 (AI)": [
-    "jad_occurrence__374",
-    "jad_occurrence__565"
-  ],
-  "Acts 4:4 (AI)": [
-    "jad_occurrence__374",
-    "jad_occurrence__565"
-  ],
-  "Romans 5:12 (AI)": [
-    "jad_occurrence__659"
-  ],
-  "Romans 7:24 (AI)": [
-    "jad_occurrence__659"
-  ],
-  "Song of Solomon 8:6 (AI)": [
-    "jad_occurrence__659"
-  ],
-  "Psalm 79:13 (AI)": [
-    "jad_occurrence__803"
-  ],
-  "Psalm 96:12 (AI)": [
-    "jad_occurrence__803"
-  ],
-  "1 Chronicles 16:1 (AI)": [
-    "jad_occurrence__803"
-  ],
-  "Genesis 19:24-26 (AI)": [
-    "jad_occurrence__933"
-  ],
-  "1 Timothy 1:17 (AI)": [
-    "jad_occurrence__531"
-  ],
-  "John 4:24 (AI)": [
-    "jad_occurrence__531"
-  ],
-  "Acts 7:51 (AI)": [
-    "jad_occurrence__303"
-  ],
-  "Psalm 88:11 (AI)": [
-    "jad_occurrence__234"
-  ],
-  "Isaiah 10:16 (AI)": [
-    "jad_occurrence__810"
-  ],
-  "1 Kings 12:16 (AI)": [
-    "jad_occurrence__810"
-  ],
-  "Hosea 10:3 (AI)": [
-    "jad_occurrence__810"
-  ],
-  "Luke 19:14 (AI)": [
-    "jad_occurrence__264",
-    "jad_occurrence__810"
-  ],
-  "Zechariah 8:19 (AI)": [
-    "jad_occurrence__731"
-  ],
-  "Exodus 32:19 (AI)": [
-    "jad_occurrence__731"
-  ],
-  "Jeremiah 39:2 (AI)": [
-    "jad_occurrence__731"
-  ],
-  "Numbers 14:26-35 (AI)": [
-    "jad_occurrence__462",
-    "jad_occurrence__731"
-  ],
-  "1 Samuel 1:22 (AI)": [
-    "jad_occurrence__508"
-  ],
-  "Psalm 16:5 (AI)": [
-    "jad_occurrence__508"
-  ],
-  "Amos 8:9 (AI)": [
-    "jad_occurrence__407",
-    "jad_occurrence__851"
-  ],
-  "Jeremiah 15:9 (AI)": [
-    "jad_occurrence__407",
-    "jad_occurrence__851"
-  ],
-  "John 14:6 (AI)": [
-    "jad_occurrence__607",
-    "jad_occurrence__414",
-    "jad_occurrence__608"
-  ],
-  "Psalm 63:9 (AI)": [
-    "jad_occurrence__372"
-  ],
-  "2 Kings 2 (AI)": [
-    "jad_occurrence__127"
-  ],
-  "1 Samuel 17 (AI)": [
-    "jad_occurrence__127"
-  ],
-  "Romans 1:26-27 (AI)": [
-    "jad_occurrence__457"
-  ],
-  "Philippians 3:19 (AI)": [
-    "jad_occurrence__457"
-  ],
-  "Matthew 10:40 (AI)": [
-    "jad_occurrence__457"
-  ],
-  "Matthew 24:12 (AI)": [
-    "jad_occurrence__392"
-  ],
-  "Luke 18:8 (AI)": [
-    "jad_occurrence__392",
-    "jad_occurrence__668"
-  ],
-  "Proverbs 24:16 (AI)": [
-    "jad_occurrence__874"
-  ],
-  "Luke 19:38 (AI)": [
-    "jad_occurrence__550"
-  ],
-  "Luke 19:39 (AI)": [
-    "jad_occurrence__550"
-  ],
-  "Luke 19:41 (AI)": [
-    "jad_occurrence__734",
-    "jad_occurrence__14",
-    "jad_occurrence__550",
-    "jad_occurrence__312",
-    "jad_occurrence__872",
-    "jad_occurrence__375"
-  ],
-  "Isaiah 64:1 (AI)": [
-    "jad_occurrence__550"
-  ],
-  "Ezekiel 5:1-3 (AI)": [
-    "jad_occurrence__550"
-  ],
-  "Ezekiel 5:12 (AI)": [
-    "jad_occurrence__670",
-    "jad_occurrence__550"
-  ],
-  "Psalm 106:4 (AI)": [
-    "jad_occurrence__550"
-  ],
-  "Luke 19:46 (AI)": [
-    "jad_occurrence__550"
-  ],
-  "Mark 11:17 (AI)": [
-    "jad_occurrence__550",
-    "jad_occurrence__667"
-  ],
-  "Galatians 4:19 (AI)": [
-    "jad_occurrence__550"
-  ],
-  "2 Corinthians 12:21 (AI)": [
-    "jad_occurrence__550"
-  ],
-  "Jeremiah 8:7 (AI)": [
-    "jad_occurrence__45",
-    "jad_occurrence__413",
-    "jad_occurrence__267",
-    "jad_occurrence__550"
-  ],
-  "Luke 19:47 (AI)": [
-    "jad_occurrence__550"
-  ],
-  "Psalm 141:2 (AI)": [
-    "jad_occurrence__74",
-    "jad_occurrence__550"
-  ],
-  "John 15:5 (AI)": [
-    "jad_occurrence__670",
-    "jad_occurrence__550"
-  ],
-  "John 12:35 (AI)": [
-    "jad_occurrence__550"
-  ],
-  "Matthew 5:25-26 (AI)": [
-    "jad_occurrence__550"
-  ],
-  "Galatians 6:10 (AI)": [
-    "jad_occurrence__550"
-  ],
-  "2 Corinthians 6:2 (AI)": [
-    "jad_occurrence__788",
-    "jad_occurrence__24",
-    "jad_occurrence__550",
-    "jad_occurrence__814"
-  ],
-  "Ecclesiastes 9:10 (AI)": [
-    "jad_occurrence__550"
-  ],
-  "Matthew 12:36 (AI)": [
-    "jad_occurrence__104",
-    "jad_occurrence__550"
-  ],
-  "Matthew 18:24 (AI)": [
-    "jad_occurrence__550"
-  ],
-  "Genesis 3:19 (AI)": [
-    "jad_occurrence__550"
-  ],
-  "Psalm 105:27 (AI)": [
-    "jad_occurrence__550"
-  ],
-  "Sirach 7:40 (AI)": [
-    "jad_occurrence__550"
-  ],
-  "Sirach 11:27 (AI)": [
-    "jad_occurrence__550"
-  ],
-  "Luke 10:16 (AI)": [
-    "jad_occurrence__550"
-  ],
-  "John 11:49-52 (AI)": [
-    "jad_occurrence__351"
-  ],
-  "Isaiah 5:13 (AI)": [
-    "jad_occurrence__192",
-    "jad_occurrence__534",
-    "jad_occurrence__445",
-    "jad_occurrence__707",
-    "jad_occurrence__439"
-  ],
-  "John 6:9 (AI)": [
-    "jad_occurrence__192"
-  ],
-  "Matthew 24:23-25 (AI)": [
-    "jad_occurrence__866"
-  ],
-  "Mark 13:21-23 (AI)": [
-    "jad_occurrence__866"
-  ],
-  "2 Thessalonians 2:9-10 (AI)": [
-    "jad_occurrence__866"
-  ],
-  "Acts 25 (AI)": [
-    "jad_occurrence__3"
-  ],
-  "Acts 12 (AI)": [
-    "jad_occurrence__3"
-  ],
-  "Isaiah 58:1 (AI)": [
-    "jad_occurrence__506",
-    "jad_occurrence__505"
-  ],
-  "Revelation 6:12 (AI)": [
-    "jad_occurrence__600"
-  ],
-  "Matthew 16:18 (AI)": [
-    "jad_occurrence__311"
-  ],
-  "Zachariah 11:1 (AI)": [
-    "jad_occurrence__168"
-  ],
-  "Psalm 80:14 (AI)": [
-    "jad_occurrence__422",
-    "jad_occurrence__256",
-    "jad_occurrence__191",
-    "jad_occurrence__727"
-  ],
-  "Hosea 10:8 (AI)": [
-    "jad_occurrence__572",
-    "jad_occurrence__343"
-  ],
-  "Luke 23:30 (AI)": [
-    "jad_occurrence__572",
-    "jad_occurrence__704"
-  ],
-  "Revelation 6:16 (AI)": [
-    "jad_occurrence__572"
-  ],
-  "Matthew 27:53 (AI)": [
-    "jad_occurrence__736"
-  ],
-  "Matthew 27:54 (AI)": [
-    "jad_occurrence__721",
-    "jad_occurrence__736"
-  ],
-  "Luke 23:46 (AI)": [
-    "jad_occurrence__736"
-  ],
-  "2 Kings (AI)": [
-    "jad_occurrence__837",
-    "jad_occurrence__342"
-  ],
-  "2 Chronicles (AI)": [
-    "jad_occurrence__342"
-  ],
-  "Isaiah 9:20-21 (AI)": [
-    "jad_occurrence__342"
-  ],
-  "Isaiah 9:19-20 (AI)": [
-    "jad_occurrence__342"
-  ],
-  "Lamentations 1:1-2 (AI)": [
-    "jad_occurrence__704"
-  ],
-  "Matthew 21:9 (AI)": [
-    "jad_occurrence__374"
-  ],
-  "Matthew 27:45-50 (AI)": [
-    "jad_occurrence__291"
-  ],
-  "Luke 13:7 (AI)": [
-    "jad_occurrence__227",
-    "jad_occurrence__309",
-    "jad_occurrence__308"
-  ],
-  "Jeremiah 1:10 (AI)": [
-    "jad_occurrence__5",
-    "jad_occurrence__355"
-  ],
-  "Isaiah 64:7 (AI)": [
-    "jad_occurrence__347",
-    "jad_occurrence__202"
-  ],
-  "Jeremiah 9:21 (AI)": [
-    "jad_occurrence__875"
-  ],
-  "Jeremiah 9:15-16 (AI)": [
-    "jad_occurrence__875"
-  ],
-  "Jeremiah 15:2-3 (AI)": [
-    "jad_occurrence__875"
-  ],
-  "Amos 8:8 (AI)": [
-    "jad_occurrence__320"
-  ],
-  "Amos 9:5 (AI)": [
-    "jad_occurrence__320"
-  ],
-  "John 3:18 (AI)": [
-    "jad_occurrence__734"
-  ],
   "Psalm 2:4 (AI)": [
     "jad_occurrence__734",
     "jad_occurrence__315"
   ],
-  "Matthew 10:22 (AI)": [
-    "jad_occurrence__252"
-  ],
-  "Mark 13:9 (AI)": [
-    "jad_occurrence__252"
-  ],
-  "Luke 21:20-24 (AI)": [
-    "jad_occurrence__699",
-    "jad_occurrence__165",
-    "jad_occurrence__120"
-  ],
-  "Matthew 25:32 (AI)": [
-    "jad_occurrence__699"
-  ],
-  "Galatians 6:14 (AI)": [
-    "jad_occurrence__39"
-  ],
-  "Matthew 8:29 (AI)": [
-    "jad_occurrence__240"
-  ],
-  "Amos 8:11 (AI)": [
-    "jad_occurrence__439",
-    "jad_occurrence__534",
-    "jad_occurrence__445"
-  ],
-  "Psalm 59:14 (AI)": [
-    "jad_occurrence__445"
-  ],
-  "Philippians 1:18 (AI)": [
-    "jad_occurrence__468"
-  ],
-  "Exodus 32:32 (AI)": [
-    "jad_occurrence__787",
-    "jad_occurrence__468"
-  ],
-  "Matthew 23:2-3 (AI)": [
-    "jad_occurrence__887",
-    "jad_occurrence__468",
-    "jad_occurrence__886"
-  ],
-  "Jeremiah 13:1-11 (AI)": [
-    "jad_occurrence__594"
-  ],
-  "Deuteronomy 32:39 (AI)": [
-    "jad_occurrence__594"
-  ],
-  "Psalm 101:8 (AI)": [
-    "jad_occurrence__594"
-  ],
-  "Luke 23:43 (AI)": [
-    "jad_occurrence__618"
-  ],
-  "John 19:18 (AI)": [
-    "jad_occurrence__618"
-  ],
-  "Luke 13:35 (AI)": [
-    "jad_occurrence__237",
-    "jad_occurrence__61"
-  ],
-  "Zechariah 11:1 (AI)": [
-    "jad_occurrence__13",
-    "jad_occurrence__483",
-    "jad_occurrence__773",
-    "jad_occurrence__709",
-    "jad_occurrence__519"
-  ],
-  "Zechariah 11:3 (AI)": [
-    "jad_occurrence__519"
-  ],
-  "Zechariah 11:4 (AI)": [
-    "jad_occurrence__519"
-  ],
-  "Zechariah 11:5 (AI)": [
-    "jad_occurrence__519"
-  ],
-  "Psalm 2:6 (AI)": [
-    "jad_occurrence__864"
-  ],
-  "Psalm 87:1-2 (AI)": [
-    "jad_occurrence__864"
-  ],
-  "Psalm 147:12-13 (AI)": [
-    "jad_occurrence__864"
-  ],
-  "Isaiah 14:14 (AI)": [
-    "jad_occurrence__808"
-  ],
-  "Psalm 78:3 (AI)": [
-    "jad_occurrence__61"
-  ],
-  "Judges 16 (AI)": [
-    "jad_occurrence__245",
-    "jad_occurrence__69"
-  ],
-  "Luke 21:20-21 (AI)": [
-    "jad_occurrence__260"
-  ],
-  "1 Kings 18:42-44 (AI)": [
-    "jad_occurrence__604"
-  ],
-  "Isaiah 59:17 (AI)": [
-    "jad_occurrence__789"
-  ],
-  "Matthew 24:4-5 (AI)": [
-    "jad_occurrence__170"
-  ],
-  "Acts 1:9 (AI)": [
-    "jad_occurrence__27"
-  ],
-  "Isaiah 42:15 (AI)": [
-    "jad_occurrence__504"
-  ],
-  "2 Kings 25:8-10 (AI)": [
-    "jad_occurrence__462"
-  ],
-  "2 Kings 25:25 (AI)": [
-    "jad_occurrence__462"
-  ],
-  "Jeremiah 41:1-3 (AI)": [
-    "jad_occurrence__462",
-    "jad_occurrence__493"
-  ],
-  "Ezekiel 33:21 (AI)": [
-    "jad_occurrence__462",
-    "jad_occurrence__493"
-  ],
-  "John 9:24 (AI)": [
-    "jad_occurrence__606"
-  ],
-  "John 7:12 (AI)": [
-    "jad_occurrence__606"
-  ],
-  "Jeremiah (AI)": [
-    "jad_occurrence__837",
-    "jad_occurrence__671",
-    "jad_occurrence__831"
-  ],
-  "Daniel 9:1-2 (AI)": [
-    "jad_occurrence__671"
-  ],
-  "Zechariah 1:12 (AI)": [
-    "jad_occurrence__671"
-  ],
-  "Jeremiah 41:1-18 (AI)": [
-    "jad_occurrence__479"
-  ],
-  "Matthew 22:21 (AI)": [
-    "jad_occurrence__713"
-  ],
-  "Wisdom of Solomon 5:3-6 (AI)": [
-    "jad_occurrence__713"
-  ],
-  "Acts 2:43-47 (AI)": [
-    "jad_occurrence__713"
-  ],
-  "Luke 21:23-24 (AI)": [
-    "jad_occurrence__743",
-    "jad_occurrence__713",
-    "jad_occurrence__284"
-  ],
-  "2 Timothy 2:4 (AI)": [
-    "jad_occurrence__551"
-  ],
-  "Psalms 53:5 (AI)": [
-    "jad_occurrence__551"
-  ],
-  "Zechariah 9:9 (AI)": [
-    "jad_occurrence__13",
-    "jad_occurrence__773"
-  ],
-  "Acts 7:54-60 (AI)": [
-    "jad_occurrence__475"
-  ],
-  "Revelation 1:9 (AI)": [
-    "jad_occurrence__470",
-    "jad_occurrence__475"
-  ],
-  "John 21:22-23 (AI)": [
-    "jad_occurrence__475"
-  ],
-  "Luke 16:16 (AI)": [
-    "jad_occurrence__578"
-  ],
-  "Wisdom 2:12 (AI)": [
-    "jad_occurrence__578"
-  ],
-  "Philippians 4:13 (AI)": [
-    "jad_occurrence__578"
-  ],
-  "Ephesians 4:13 (AI)": [
-    "jad_occurrence__578"
-  ],
-  "Psalm 80:12-13 (AI)": [
-    "jad_occurrence__256"
-  ],
-  "Romans 13:8-10 (AI)": [
-    "jad_occurrence__717"
-  ],
-  "Isaiah 1:15 (AI)": [
-    "jad_occurrence__388",
-    "jad_occurrence__397"
-  ],
-  "Hebrews 4:14 (AI)": [
-    "jad_occurrence__657"
-  ],
-  "Joel 3:4-8 (AI)": [
-    "jad_occurrence__189"
-  ],
-  "Revelation 2:9 (AI)": [
-    "jad_occurrence__189"
-  ],
-  "Ezekiel 16:3 (AI)": [
-    "jad_occurrence__189"
-  ],
-  "John 19:24 (AI)": [
-    "jad_occurrence__446"
-  ],
-  "Isaiah 5:25 (AI)": [
-    "jad_occurrence__446"
-  ],
-  "Luke 24:46-47 (AI)": [
-    "jad_occurrence__521"
-  ],
-  "Acts 2:38 (AI)": [
-    "jad_occurrence__521"
-  ],
-  "Romans 6:3 (AI)": [
-    "jad_occurrence__521"
-  ],
-  "Jonah 4:9 (AI)": [
-    "jad_occurrence__521"
-  ],
-  "Matthew 24:16-18 (AI)": [
-    "jad_occurrence__557",
-    "jad_occurrence__36"
-  ],
-  "Revelation (AI)": [
-    "jad_occurrence__36"
-  ],
-  "Matthew 24:15-18 (AI)": [
-    "jad_occurrence__36"
-  ],
-  "Isaiah 1:26 (AI)": [
-    "jad_occurrence__623"
-  ],
-  "Luke 19:30 (AI)": [
-    "jad_occurrence__623"
-  ],
-  "Romans 3:22-23 (AI)": [
-    "jad_occurrence__623"
-  ],
-  "Isaiah 10:5-15 (AI)": [
-    "jad_occurrence__763"
-  ],
-  "Daniel 4:30-33 (AI)": [
-    "jad_occurrence__763"
-  ],
-  "Psalm 79:6 (AI)": [
-    "jad_occurrence__763"
-  ],
-  "Psalm 74:11 (AI)": [
-    "jad_occurrence__763"
-  ],
-  "Genesis 15:16 (AI)": [
-    "jad_occurrence__763"
-  ],
-  "Exodus 12:41 (AI)": [
-    "jad_occurrence__563",
-    "jad_occurrence__396"
-  ],
-  "2 Kings 20:20 (AI)": [
-    "jad_occurrence__591"
-  ],
-  "1 Kings 1:33-34 (AI)": [
-    "jad_occurrence__591"
-  ],
-  "John 9:7 (AI)": [
-    "jad_occurrence__591"
-  ],
-  "1 Kings 2:24-25 (AI)": [
-    "jad_occurrence__333"
-  ],
-  "1 Kings 2:28-34 (AI)": [
-    "jad_occurrence__333"
-  ],
-  "1 Kings 2:26-27 (AI)": [
-    "jad_occurrence__333"
-  ],
-  "1 Kings 2:12 (AI)": [
-    "jad_occurrence__333"
-  ],
-  "Luke 21:24 (AI)": [
-    "jad_occurrence__249",
-    "jad_occurrence__333",
-    "jad_occurrence__334"
-  ],
-  "Job 1:1 (AI)": [
-    "jad_occurrence__200"
-  ],
-  "Daniel 12:1 (AI)": [
-    "jad_occurrence__200"
-  ],
-  "Isaiah 5:14 (AI)": [
-    "jad_occurrence__707"
-  ],
-  "Isaiah 5:15 (AI)": [
-    "jad_occurrence__707"
-  ],
-  "Isaiah 5:16 (AI)": [
-    "jad_occurrence__707"
-  ],
-  "Isaiah 5:17 (AI)": [
-    "jad_occurrence__707"
-  ],
-  "John 21:15 (AI)": [
-    "jad_occurrence__707"
-  ],
-  "Jeremiah 3:15 (AI)": [
-    "jad_occurrence__707"
-  ],
-  "2 Kings 6 (AI)": [
-    "jad_occurrence__118"
-  ],
-  "Matthew 24:19 (AI)": [
-    "jad_occurrence__465",
-    "jad_occurrence__310",
-    "jad_occurrence__557",
-    "jad_occurrence__459"
-  ],
-  "Matthew 24:20 (AI)": [
-    "jad_occurrence__364",
-    "jad_occurrence__459",
-    "jad_occurrence__304"
-  ],
-  "Matthew 24:22 (AI)": [
-    "jad_occurrence__459"
-  ],
-  "Matthew 24:23 (AI)": [
-    "jad_occurrence__459"
-  ],
-  "Matthew 24:24-25 (AI)": [
-    "jad_occurrence__459"
-  ],
-  "Psalms 119:91 (AI)": [
-    "jad_occurrence__459"
+  "Matthew 27:2 (AI)": [
+    "jad_occurrence__315"
+  ],
+  "John 19:10 (AI)": [
+    "jad_occurrence__315"
+  ],
+  "Matthew 19:28 (AI)": [
+    "jad_occurrence__362",
+    "jad_occurrence__315"
   ],
   "Joel 2:2-3 (AI)": [
     "jad_occurrence__316"
@@ -1967,137 +1230,51 @@
   "Joel 2:1-2 (AI)": [
     "jad_occurrence__316"
   ],
-  "Revelation 21:2 (AI)": [
-    "jad_occurrence__286"
+  "Amos 1:6-8 (AI)": [
+    "jad_occurrence__317"
   ],
-  "Acts 11:28 (AI)": [
-    "jad_occurrence__819"
+  "Amos 3:6 (AI)": [
+    "jad_occurrence__318",
+    "jad_occurrence__484"
   ],
-  "Amos 6:7-10 (AI)": [
-    "jad_occurrence__492"
+  "1 John 5:19 (AI)": [
+    "jad_occurrence__318"
   ],
-  "Matthew 8:22 (AI)": [
-    "jad_occurrence__492"
+  "Amos 3:7 (AI)": [
+    "jad_occurrence__318"
   ],
-  "Ecclesiastes 11:9 (AI)": [
-    "jad_occurrence__270"
+  "Amos 5:1-2 (AI)": [
+    "jad_occurrence__319"
   ],
-  "Ecclesiastes 12:1 (AI)": [
-    "jad_occurrence__270"
+  "Matthew 23:13-15 (AI)": [
+    "jad_occurrence__319"
   ],
-  "Ecclesiastes 12:6-7 (AI)": [
-    "jad_occurrence__270"
+  "Amos 8:8 (AI)": [
+    "jad_occurrence__320"
   ],
-  "Psalm 73:18 (AI)": [
-    "jad_occurrence__824"
+  "Amos 9:5 (AI)": [
+    "jad_occurrence__320"
   ],
-  "Psalms 2:8 (AI)": [
-    "jad_occurrence__744"
+  "Amos 4:11 (AI)": [
+    "jad_occurrence__321"
   ],
-  "Isaiah 64:11 (AI)": [
-    "jad_occurrence__330"
+  "Amos 4:12 (AI)": [
+    "jad_occurrence__321"
   ],
-  "Isaiah 8:14 (AI)": [
-    "jad_occurrence__903"
+  "Joshua 7:14 (AI)": [
+    "jad_occurrence__321"
   ],
-  "1 Peter 2:8 (AI)": [
-    "jad_occurrence__903"
+  "Jeremiah 23:14 (AI)": [
+    "jad_occurrence__321"
   ],
-  "Psalm 118:22 (AI)": [
-    "jad_occurrence__903"
+  "Romans 2:9 (AI)": [
+    "jad_occurrence__324"
   ],
-  "Matthew 24:7 (AI)": [
-    "jad_occurrence__137",
-    "jad_occurrence__557"
+  "Micah 5:1 (AI)": [
+    "jad_occurrence__325"
   ],
-  "Matthew 24:8-9 (AI)": [
-    "jad_occurrence__557"
-  ],
-  "Matthew 24:10 (AI)": [
-    "jad_occurrence__557"
-  ],
-  "Matthew 24:11 (AI)": [
-    "jad_occurrence__557"
-  ],
-  "Matthew 24:12-14 (AI)": [
-    "jad_occurrence__557"
-  ],
-  "Matthew 24:15 (AI)": [
-    "jad_occurrence__741",
-    "jad_occurrence__175",
-    "jad_occurrence__887",
-    "jad_occurrence__557",
-    "jad_occurrence__465"
-  ],
-  "1 Kings 9:7-8 (AI)": [
-    "jad_occurrence__851"
-  ],
-  "Ephesians 2:14 (AI)": [
-    "jad_occurrence__414"
-  ],
-  "1 Corinthians 2:8 (AI)": [
-    "jad_occurrence__414"
-  ],
-  "Psalm 17:13 (AI)": [
-    "jad_occurrence__416"
-  ],
-  "Mark 15:33-34 (AI)": [
-    "jad_occurrence__478"
-  ],
-  "John 11:43-44 (AI)": [
-    "jad_occurrence__478"
-  ],
-  "Matthew 24:19-21 (AI)": [
-    "jad_occurrence__743",
-    "jad_occurrence__886"
-  ],
-  "Ezekiel 18:23,32 (AI)": [
-    "jad_occurrence__743"
-  ],
-  "1 Corinthians 10:4 (AI)": [
-    "jad_occurrence__579"
-  ],
-  "Isaiah 2:11-12 (AI)": [
-    "jad_occurrence__579"
-  ],
-  "James 4:6 (AI)": [
-    "jad_occurrence__579"
-  ],
-  "Daniel 7:4 (AI)": [
-    "jad_occurrence__188"
-  ],
-  "Daniel 7:5 (AI)": [
-    "jad_occurrence__188"
-  ],
-  "Daniel 7:6 (AI)": [
-    "jad_occurrence__188"
-  ],
-  "Matthew 26:56 (AI)": [
-    "jad_occurrence__664"
-  ],
-  "Isaiah 1:8 (AI)": [
-    "jad_occurrence__89",
-    "jad_occurrence__145",
-    "jad_occurrence__792",
-    "jad_occurrence__868"
-  ],
-  "Isaiah 7:1-2 (AI)": [
-    "jad_occurrence__448"
-  ],
-  "2 Kings 15:32, 15:34, 15:37 (AI)": [
-    "jad_occurrence__448"
-  ],
-  "2 Kings 16:1-4 (AI)": [
-    "jad_occurrence__448"
-  ],
-  "2 Kings 16:10-11 (AI)": [
-    "jad_occurrence__448"
-  ],
-  "2 Kings 16:5 (AI)": [
-    "jad_occurrence__448"
-  ],
-  "Revelation 6:4 (AI)": [
-    "jad_occurrence__131"
+  "Micah 4:1-2 (AI)": [
+    "jad_occurrence__325"
   ],
   "John 12:32 (AI)": [
     "jad_occurrence__326"
@@ -2117,41 +1294,292 @@
   "Zephaniah 1:7 (AI)": [
     "jad_occurrence__326"
   ],
-  "Luke 23:34 (AI)": [
-    "jad_occurrence__18",
-    "jad_occurrence__823"
+  "Zechariah 14:3 (AI)": [
+    "jad_occurrence__327",
+    "jad_occurrence__531"
   ],
-  "Jeremiah 12 (AI)": [
-    "jad_occurrence__73"
+  "Zechariah 13:7-8 (AI)": [
+    "jad_occurrence__327"
   ],
-  "Luke 23:21 (AI)": [
-    "jad_occurrence__157",
-    "jad_occurrence__73",
-    "jad_occurrence__249",
-    "jad_occurrence__18",
-    "jad_occurrence__19",
-    "jad_occurrence__385"
+  "Zechariah 14:2 (AI)": [
+    "jad_occurrence__327",
+    "jad_occurrence__531"
   ],
-  "Isaiah 57 (AI)": [
-    "jad_occurrence__73"
+  "Matthew 27:6-10 (AI)": [
+    "jad_occurrence__328"
   ],
-  "Isaiah 3 (AI)": [
-    "jad_occurrence__73"
+  "Zechariah 7:5 (AI)": [
+    "jad_occurrence__328"
   ],
-  "Luke 23:18 (AI)": [
-    "jad_occurrence__73"
+  "Deuteronomy 32:22 (AI)": [
+    "jad_occurrence__785",
+    "jad_occurrence__338",
+    "jad_occurrence__716",
+    "jad_occurrence__339",
+    "jad_occurrence__330"
   ],
-  "Isaiah 5 (AI)": [
-    "jad_occurrence__73"
+  "Isaiah 64:11 (AI)": [
+    "jad_occurrence__330"
   ],
-  "Isaiah 14 (AI)": [
-    "jad_occurrence__73"
+  "Isaiah 62:6 (AI)": [
+    "jad_occurrence__331"
   ],
-  "Ezekiel 7:22 (AI)": [
-    "jad_occurrence__397"
+  "Romans 9:1-2 (AI)": [
+    "jad_occurrence__332"
   ],
-  "Joshua 23:9 (AI)": [
-    "jad_occurrence__566"
+  "1 Kings 2:24-25 (AI)": [
+    "jad_occurrence__333"
+  ],
+  "1 Kings 2:28-34 (AI)": [
+    "jad_occurrence__333"
+  ],
+  "1 Kings 2:26-27 (AI)": [
+    "jad_occurrence__333"
+  ],
+  "1 Kings 2:12 (AI)": [
+    "jad_occurrence__333"
+  ],
+  "Luke 21:23 (AI)": [
+    "jad_occurrence__350",
+    "jad_occurrence__334"
+  ],
+  "Isaiah 8:6-8 (AI)": [
+    "jad_occurrence__335"
+  ],
+  "Matthew 1:23 (AI)": [
+    "jad_occurrence__335"
+  ],
+  "Isaiah 52:11-12 (AI)": [
+    "jad_occurrence__336"
+  ],
+  "Matthew 28:19 (AI)": [
+    "jad_occurrence__569",
+    "jad_occurrence__336",
+    "jad_occurrence__741"
+  ],
+  "Psalm 34:16 (AI)": [
+    "jad_occurrence__337"
+  ],
+  "John 3:5 (AI)": [
+    "jad_occurrence__338"
+  ],
+  "Zechariah 12:11 (AI)": [
+    "jad_occurrence__338"
+  ],
+  "Zechariah 12:10 (AI)": [
+    "jad_occurrence__338",
+    "jad_occurrence__928"
+  ],
+  "Psalms 78:49 (AI)": [
+    "jad_occurrence__363",
+    "jad_occurrence__34"
+  ],
+  "Psalm 64:3 (AI)": [
+    "jad_occurrence__340"
+  ],
+  "Psalm 57:5 (AI)": [
+    "jad_occurrence__340"
+  ],
+  "Luke 2:35 (AI)": [
+    "jad_occurrence__340"
+  ],
+  "Isaiah 5:18 (AI)": [
+    "jad_occurrence__340"
+  ],
+  "Amos 1:12 (AI)": [
+    "jad_occurrence__341"
+  ],
+  "2 Kings (AI)": [
+    "jad_occurrence__837",
+    "jad_occurrence__342"
+  ],
+  "2 Chronicles (AI)": [
+    "jad_occurrence__342"
+  ],
+  "Isaiah 9:20-21 (AI)": [
+    "jad_occurrence__342"
+  ],
+  "Isaiah 9:19-20 (AI)": [
+    "jad_occurrence__342"
+  ],
+  "Hosea 10:8 (AI)": [
+    "jad_occurrence__343",
+    "jad_occurrence__572"
+  ],
+  "Luke 23:28-29 (AI)": [
+    "jad_occurrence__735",
+    "jad_occurrence__344"
+  ],
+  "Matthew 23:35 (AI)": [
+    "jad_occurrence__345",
+    "jad_occurrence__670",
+    "jad_occurrence__899",
+    "jad_occurrence__561",
+    "jad_occurrence__350"
+  ],
+  "Joel 2:10-11 (AI)": [
+    "jad_occurrence__349"
+  ],
+  "Matthew 27:50 (AI)": [
+    "jad_occurrence__349",
+    "jad_occurrence__613"
+  ],
+  "Matthew 27:46 (AI)": [
+    "jad_occurrence__349"
+  ],
+  "Matthew 24:15-19 (AI)": [
+    "jad_occurrence__35"
+  ],
+  "Mark 13:14-17 (AI)": [
+    "jad_occurrence__35"
+  ],
+  "John 11:49-52 (AI)": [
+    "jad_occurrence__351"
+  ],
+  "Isaiah 5:24-25 (AI)": [
+    "jad_occurrence__353"
+  ],
+  "Isaiah 1:9 (AI)": [
+    "jad_occurrence__688",
+    "jad_occurrence__565",
+    "jad_occurrence__354"
+  ],
+  "Genesis 19:24 (AI)": [
+    "jad_occurrence__481",
+    "jad_occurrence__354"
+  ],
+  "Romans 9:29 (AI)": [
+    "jad_occurrence__354"
+  ],
+  "Romans 11:25 (AI)": [
+    "jad_occurrence__354"
+  ],
+  "Jeremiah 1:10 (AI)": [
+    "jad_occurrence__5",
+    "jad_occurrence__355"
+  ],
+  "John 11:47 (AI)": [
+    "jad_occurrence__358",
+    "jad_occurrence__599"
+  ],
+  "John 11:45 (AI)": [
+    "jad_occurrence__358"
+  ],
+  "Matthew 7:22 (AI)": [
+    "jad_occurrence__520",
+    "jad_occurrence__358"
+  ],
+  "Luke 1:8-9 (AI)": [
+    "jad_occurrence__358"
+  ],
+  "John 10:16 (AI)": [
+    "jad_occurrence__358"
+  ],
+  "Matthew 24:16-18 (AI)": [
+    "jad_occurrence__36",
+    "jad_occurrence__557"
+  ],
+  "Revelation (AI)": [
+    "jad_occurrence__36"
+  ],
+  "Matthew 24:15-18 (AI)": [
+    "jad_occurrence__36"
+  ],
+  "Matthew 23:37-38 (AI)": [
+    "jad_occurrence__361"
+  ],
+  "Matthew 23:39 (AI)": [
+    "jad_occurrence__365",
+    "jad_occurrence__361",
+    "jad_occurrence__698",
+    "jad_occurrence__869",
+    "jad_occurrence__556",
+    "jad_occurrence__665"
+  ],
+  "Isaiah 2:3 (AI)": [
+    "jad_occurrence__366"
+  ],
+  "Matthew 10:32 (AI)": [
+    "jad_occurrence__367"
+  ],
+  "Matthew 13:24-30 (AI)": [
+    "jad_occurrence__368"
+  ],
+  "Psalm 80:12 (AI)": [
+    "jad_occurrence__37",
+    "jad_occurrence__422"
+  ],
+  "1 Corinthians 14:20 (AI)": [
+    "jad_occurrence__371"
+  ],
+  "Matthew 18:3 (AI)": [
+    "jad_occurrence__371"
+  ],
+  "Psalm 63:9 (AI)": [
+    "jad_occurrence__372"
+  ],
+  "Luke 13:32 (AI)": [
+    "jad_occurrence__372",
+    "jad_occurrence__673",
+    "jad_occurrence__47",
+    "jad_occurrence__783"
+  ],
+  "Song of Solomon 2:15 (AI)": [
+    "jad_occurrence__372",
+    "jad_occurrence__673"
+  ],
+  "Psalm 80:12-14 (AI)": [
+    "jad_occurrence__373"
+  ],
+  "Matthew 21:9 (AI)": [
+    "jad_occurrence__374"
+  ],
+  "Acts 2:41 (AI)": [
+    "jad_occurrence__374",
+    "jad_occurrence__565"
+  ],
+  "Acts 4:4 (AI)": [
+    "jad_occurrence__374",
+    "jad_occurrence__565"
+  ],
+  "Psalm (AI)": [
+    "jad_occurrence__378"
+  ],
+  "Matthew 24:35 (AI)": [
+    "jad_occurrence__379"
+  ],
+  "Revelation 21:1 (AI)": [
+    "jad_occurrence__379"
+  ],
+  "Psalm 102:27 (AI)": [
+    "jad_occurrence__379"
+  ],
+  "2 Peter 3:9 (AI)": [
+    "jad_occurrence__379"
+  ],
+  "Isaiah 1:11 (AI)": [
+    "jad_occurrence__379"
+  ],
+  "Isaiah 1:13 (AI)": [
+    "jad_occurrence__379"
+  ],
+  "John 16:28 (AI)": [
+    "jad_occurrence__380"
+  ],
+  "John 10:17-18 (AI)": [
+    "jad_occurrence__380"
+  ],
+  "Acts 2:37 (AI)": [
+    "jad_occurrence__380"
+  ],
+  "Proverbs 1:28-29 (AI)": [
+    "jad_occurrence__380"
+  ],
+  "Psalms 110:1 (AI)": [
+    "jad_occurrence__380"
+  ],
+  "John 14:2-3 (AI)": [
+    "jad_occurrence__380"
   ],
   "Galatians 2:11 (AI)": [
     "jad_occurrence__381"
@@ -2162,140 +1590,144 @@
   "Genesis 9:13 (AI)": [
     "jad_occurrence__381"
   ],
+  "Genesis 11:7-9 (AI)": [
+    "jad_occurrence__381",
+    "jad_occurrence__891"
+  ],
   "Genesis 8:11 (AI)": [
     "jad_occurrence__381"
   ],
-  "Acts 5:38-39 (AI)": [
-    "jad_occurrence__242"
+  "Genesis 3:6 (AI)": [
+    "jad_occurrence__382"
   ],
-  "Genesis 50:20 (AI)": [
-    "jad_occurrence__242"
+  "Acts 15:5 (AI)": [
+    "jad_occurrence__382"
   ],
-  "John 11:47 (AI)": [
-    "jad_occurrence__599",
-    "jad_occurrence__358"
+  "Galatians 2:11-14 (AI)": [
+    "jad_occurrence__382"
   ],
-  "John 11:45 (AI)": [
-    "jad_occurrence__358"
+  "Genesis 4:15 (AI)": [
+    "jad_occurrence__889",
+    "jad_occurrence__382"
   ],
-  "John 11:50 (AI)": [
-    "jad_occurrence__181",
-    "jad_occurrence__352",
-    "jad_occurrence__358",
-    "jad_occurrence__681",
-    "jad_occurrence__885"
+  "1 Peter 3:20-21 (AI)": [
+    "jad_occurrence__382"
   ],
-  "Luke 1:8-9 (AI)": [
-    "jad_occurrence__358"
+  "Mark 15:34 (AI)": [
+    "jad_occurrence__385"
   ],
-  "John 10:16 (AI)": [
-    "jad_occurrence__358"
+  "2 Kings 4:1-7 (AI)": [
+    "jad_occurrence__385",
+    "jad_occurrence__603"
   ],
-  "Exodus 12:11 (AI)": [
-    "jad_occurrence__210"
+  "Luke 23:28-31 (AI)": [
+    "jad_occurrence__473",
+    "jad_occurrence__386"
   ],
-  "2 Kings 25:8-9 (AI)": [
-    "jad_occurrence__210",
+  "Isaiah 1:15 (AI)": [
+    "jad_occurrence__397",
+    "jad_occurrence__388"
+  ],
+  "Job 1:20 (AI)": [
+    "jad_occurrence__389"
+  ],
+  "Mark 15:33 (AI)": [
+    "jad_occurrence__389"
+  ],
+  "Isaiah 9:2 (AI)": [
+    "jad_occurrence__389"
+  ],
+  "Galatians 6:14 (AI)": [
+    "jad_occurrence__39"
+  ],
+  "Matthew 24:12 (AI)": [
+    "jad_occurrence__392"
+  ],
+  "Luke 18:8 (AI)": [
+    "jad_occurrence__668",
+    "jad_occurrence__392"
+  ],
+  "Isaiah 19:19 (AI)": [
+    "jad_occurrence__50",
+    "jad_occurrence__737",
+    "jad_occurrence__393",
+    "jad_occurrence__896"
+  ],
+  "Exodus 12:41 (AI)": [
+    "jad_occurrence__396",
+    "jad_occurrence__563"
+  ],
+  "Ezekiel 7:22 (AI)": [
+    "jad_occurrence__397"
+  ],
+  "1 Maccabees (AI)": [
+    "jad_occurrence__4"
+  ],
+  "Daniel 11:33-35 (AI)": [
+    "jad_occurrence__4"
+  ],
+  "Ezekiel 24:1-2 (AI)": [
+    "jad_occurrence__400",
     "jad_occurrence__530"
   ],
-  "Deuteronomy 28:52-57 (AI)": [
-    "jad_occurrence__210"
+  "Matthew 24:6-8 (AI)": [
+    "jad_occurrence__402"
   ],
-  "Acts 12:1-2 (AI)": [
-    "jad_occurrence__470",
-    "jad_occurrence__613",
-    "jad_occurrence__777"
+  "John 11:47-48 (AI)": [
+    "jad_occurrence__917",
+    "jad_occurrence__404",
+    "jad_occurrence__598"
   ],
-  "1 Corinthians 1:18 (AI)": [
-    "jad_occurrence__771"
+  "John 12:19 (AI)": [
+    "jad_occurrence__404"
   ],
-  "Genesis 9:20-25 (AI)": [
-    "jad_occurrence__771"
+  "1 Samuel 2:30 (AI)": [
+    "jad_occurrence__404"
   ],
-  "Matthew 28:18 (AI)": [
-    "jad_occurrence__241",
-    "jad_occurrence__815"
+  "Philippians 2:6-8 (AI)": [
+    "jad_occurrence__405"
   ],
-  "Habakkuk 3:3 (AI)": [
-    "jad_occurrence__715"
+  "Matthew 27:33 (AI)": [
+    "jad_occurrence__408",
+    "jad_occurrence__49",
+    "jad_occurrence__874",
+    "jad_occurrence__405"
   ],
-  "Matthew 27:34 (AI)": [
-    "jad_occurrence__432"
+  "Daniel 9:25-26 (AI)": [
+    "jad_occurrence__406"
   ],
-  "1 Corinthians 10:17 (AI)": [
-    "jad_occurrence__524"
+  "Amos 8:9 (AI)": [
+    "jad_occurrence__851",
+    "jad_occurrence__407"
   ],
-  "Isaiah 9:6 (AI)": [
-    "jad_occurrence__861",
-    "jad_occurrence__524"
+  "Jeremiah 15:9 (AI)": [
+    "jad_occurrence__851",
+    "jad_occurrence__407"
   ],
-  "Matthew 21:38-39 (AI)": [
-    "jad_occurrence__524",
-    "jad_occurrence__455"
+  "Isaiah 50:1 (AI)": [
+    "jad_occurrence__409"
   ],
-  "Psalm 103:9 (AI)": [
-    "jad_occurrence__524"
+  "Hosea 2:2 (AI)": [
+    "jad_occurrence__409"
   ],
-  "Amos 4:11 (AI)": [
-    "jad_occurrence__321"
+  "Jeremiah 12:7-8 (AI)": [
+    "jad_occurrence__409",
+    "jad_occurrence__665"
   ],
-  "Amos 4:12 (AI)": [
-    "jad_occurrence__321"
+  "Isaiah 1:7 (AI)": [
+    "jad_occurrence__409"
   ],
-  "Joshua 7:14 (AI)": [
-    "jad_occurrence__321"
+  "Matthew 27:39-40 (AI)": [
+    "jad_occurrence__41"
   ],
-  "Jeremiah 23:14 (AI)": [
-    "jad_occurrence__321"
+  "Joshua 6:1-27 (AI)": [
+    "jad_occurrence__655",
+    "jad_occurrence__575",
+    "jad_occurrence__410"
   ],
-  "Psalms (AI)": [
-    "jad_occurrence__150"
-  ],
-  "1 Samuel 31:2 (AI)": [
-    "jad_occurrence__304"
-  ],
-  "Acts 2:37-38 (AI)": [
-    "jad_occurrence__209"
-  ],
-  "Psalm 18:45 (AI)": [
-    "jad_occurrence__500"
-  ],
-  "John 8:44 (AI)": [
-    "jad_occurrence__175",
-    "jad_occurrence__500"
-  ],
-  "Isaiah 66:6 (AI)": [
-    "jad_occurrence__489"
-  ],
-  "Jeremiah 29:10-14 (AI)": [
-    "jad_occurrence__830"
-  ],
-  "Amos 1:3, 1:6, 1:9, 1:11 (AI)": [
-    "jad_occurrence__830"
-  ],
-  "Matthew 24:15-19 (AI)": [
-    "jad_occurrence__35"
-  ],
-  "Mark 13:14-17 (AI)": [
-    "jad_occurrence__35"
-  ],
-  "Exodus 38:1-7 (AI)": [
-    "jad_occurrence__794"
-  ],
-  "2 Chronicles 4:2-5 (AI)": [
-    "jad_occurrence__794"
-  ],
-  "John 11 (AI)": [
-    "jad_occurrence__42"
-  ],
-  "Psalm 14:5 (AI)": [
-    "jad_occurrence__42"
-  ],
-  "Genesis 37 (AI)": [
-    "jad_occurrence__42"
-  ],
-  "Jeremiah 8:1-3 (AI)": [
-    "jad_occurrence__217"
+  "1 Kings 16:34 (AI)": [
+    "jad_occurrence__575",
+    "jad_occurrence__410"
   ],
   "Luke 19:42-47 (AI)": [
     "jad_occurrence__413"
@@ -2318,101 +1750,172 @@
   "Matthew 25:40 (AI)": [
     "jad_occurrence__413"
   ],
-  "Joshua 6:1-27 (AI)": [
-    "jad_occurrence__655",
-    "jad_occurrence__410",
-    "jad_occurrence__575"
+  "Matthew 27:22 (AI)": [
+    "jad_occurrence__414",
+    "jad_occurrence__487"
   ],
-  "1 Kings 16:34 (AI)": [
-    "jad_occurrence__410",
-    "jad_occurrence__575"
+  "John 14:6 (AI)": [
+    "jad_occurrence__607",
+    "jad_occurrence__608",
+    "jad_occurrence__414"
   ],
-  "1 John 2:15-16 (AI)": [
-    "jad_occurrence__157"
+  "Ephesians 2:14 (AI)": [
+    "jad_occurrence__414"
   ],
-  "Psalm 83:15 (AI)": [
-    "jad_occurrence__157"
+  "1 Corinthians 2:8 (AI)": [
+    "jad_occurrence__414"
   ],
-  "Psalm 34:7 (AI)": [
-    "jad_occurrence__157"
+  "Psalm 28:5 (AI)": [
+    "jad_occurrence__415"
   ],
-  "Matthew 26:49 (AI)": [
-    "jad_occurrence__157"
+  "Psalm 28:6 (AI)": [
+    "jad_occurrence__415"
   ],
-  "Matthew 24:15-16 (AI)": [
-    "jad_occurrence__886"
+  "Psalm 17:13 (AI)": [
+    "jad_occurrence__416"
   ],
-  "Numbers 18:7 (AI)": [
-    "jad_occurrence__876"
+  "Psalm 74:1 (AI)": [
+    "jad_occurrence__424",
+    "jad_occurrence__418"
   ],
-  "Revelation 22:11 (AI)": [
-    "jad_occurrence__804"
+  "Romans 12:15 (AI)": [
+    "jad_occurrence__418"
   ],
-  "Matthew 23:32 (AI)": [
-    "jad_occurrence__804",
-    "jad_occurrence__283"
+  "Psalm 69:23 (AI)": [
+    "jad_occurrence__419"
   ],
-  "Matthew 24 (AI)": [
-    "jad_occurrence__56",
-    "jad_occurrence__57",
-    "jad_occurrence__128"
+  "Psalm 69:24 (AI)": [
+    "jad_occurrence__419"
   ],
-  "Luke 13:3 (AI)": [
-    "jad_occurrence__775"
+  "Psalm 69:25 (AI)": [
+    "jad_occurrence__835",
+    "jad_occurrence__419",
+    "jad_occurrence__716"
   ],
-  "Isaiah (AI)": [
-    "jad_occurrence__587",
-    "jad_occurrence__783",
-    "jad_occurrence__142"
+  "John 11 (AI)": [
+    "jad_occurrence__42"
   ],
-  "Matthew 19:28 (AI)": [
-    "jad_occurrence__362",
-    "jad_occurrence__315"
+  "Psalm 14:5 (AI)": [
+    "jad_occurrence__42"
   ],
-  "Psalm 35:1 (AI)": [
-    "jad_occurrence__206"
+  "Genesis 37 (AI)": [
+    "jad_occurrence__42"
   ],
-  "Daniel 3:38 (AI)": [
-    "jad_occurrence__144"
+  "Colossians 2:3 (AI)": [
+    "jad_occurrence__420"
   ],
-  "Isaiah 3:1-3 (AI)": [
-    "jad_occurrence__144"
+  "Psalm 68:1 (AI)": [
+    "jad_occurrence__827",
+    "jad_occurrence__420"
   ],
-  "Genesis 21:9-10 (AI)": [
-    "jad_occurrence__201"
+  "Psalm 139:8 (AI)": [
+    "jad_occurrence__420"
   ],
-  "Galatians 4:25-26 (AI)": [
-    "jad_occurrence__201"
+  "Matthew 25:41 (AI)": [
+    "jad_occurrence__550",
+    "jad_occurrence__870",
+    "jad_occurrence__583",
+    "jad_occurrence__495",
+    "jad_occurrence__420",
+    "jad_occurrence__244"
   ],
-  "Romans 3:12 (AI)": [
-    "jad_occurrence__450"
+  "John 7:20 (AI)": [
+    "jad_occurrence__421"
   ],
-  "Luke 24:13 (AI)": [
-    "jad_occurrence__592"
+  "Matthew 28:13 (AI)": [
+    "jad_occurrence__421"
   ],
-  "Luke 24:13-31 (AI)": [
-    "jad_occurrence__592"
+  "Psalm 80:11 (AI)": [
+    "jad_occurrence__422"
   ],
-  "Luke 21 (AI)": [
-    "jad_occurrence__56"
+  "Psalm 80:16 (AI)": [
+    "jad_occurrence__422"
   ],
-  "Mark 23 (AI)": [
-    "jad_occurrence__56"
+  "Exodus 3:10 (AI)": [
+    "jad_occurrence__422"
   ],
-  "Psalm 51:18 (AI)": [
-    "jad_occurrence__17"
+  "Psalm 137:1 (AI)": [
+    "jad_occurrence__916",
+    "jad_occurrence__424"
   ],
-  "Isaiah 14:12 (AI)": [
-    "jad_occurrence__17"
+  "Psalm 78:1 (AI)": [
+    "jad_occurrence__424"
   ],
-  "Psalm 80:15 (AI)": [
-    "jad_occurrence__727"
+  "Galatians 5:17 (AI)": [
+    "jad_occurrence__424"
   ],
-  "Psalms 14:5 (AI)": [
-    "jad_occurrence__861"
+  "Daniel 9:24 (AI)": [
+    "jad_occurrence__610",
+    "jad_occurrence__797",
+    "jad_occurrence__429",
+    "jad_occurrence__892",
+    "jad_occurrence__602"
   ],
-  "Psalms 14:6 (AI)": [
-    "jad_occurrence__861"
+  "Habakkuk 3:17 (AI)": [
+    "jad_occurrence__429"
+  ],
+  "Psalm 87:1 (AI)": [
+    "jad_occurrence__429",
+    "jad_occurrence__769"
+  ],
+  "Zechariah 11:1-2 (AI)": [
+    "jad_occurrence__430"
+  ],
+  "Matthew 27:22-23 (AI)": [
+    "jad_occurrence__434",
+    "jad_occurrence__80"
+  ],
+  "Joel 2:11 (AI)": [
+    "jad_occurrence__435"
+  ],
+  "Revelation 3:20 (AI)": [
+    "jad_occurrence__436"
+  ],
+  "Isaiah 6:9-10 (AI)": [
+    "jad_occurrence__437"
+  ],
+  "Isaiah 6:11-12 (AI)": [
+    "jad_occurrence__437"
+  ],
+  "Job 9:34 (AI)": [
+    "jad_occurrence__438"
+  ],
+  "Job 1:11 (AI)": [
+    "jad_occurrence__438"
+  ],
+  "Isaiah 29:9 (AI)": [
+    "jad_occurrence__439"
+  ],
+  "Amos 8:11 (AI)": [
+    "jad_occurrence__439",
+    "jad_occurrence__534",
+    "jad_occurrence__445"
+  ],
+  "Deuteronomy 8:3 (AI)": [
+    "jad_occurrence__439"
+  ],
+  "John 4:14 (AI)": [
+    "jad_occurrence__439"
+  ],
+  "Psalm 23:2 (AI)": [
+    "jad_occurrence__439"
+  ],
+  "2 Chronicles 36:18-19 (AI)": [
+    "jad_occurrence__44"
+  ],
+  "Daniel 1:1-2 (AI)": [
+    "jad_occurrence__44"
+  ],
+  "1 Maccabees 1:20-24 (AI)": [
+    "jad_occurrence__44"
+  ],
+  "Luke 21:6 (AI)": [
+    "jad_occurrence__865",
+    "jad_occurrence__654",
+    "jad_occurrence__44"
+  ],
+  "1 Kings 6 (AI)": [
+    "jad_occurrence__44"
   ],
   "Isaiah 29:5-7 (AI)": [
     "jad_occurrence__440"
@@ -2423,25 +1926,1079 @@
   "Isaiah 29:7 (AI)": [
     "jad_occurrence__440"
   ],
-  "Isaiah 52:11-12 (AI)": [
-    "jad_occurrence__336"
+  "Isaiah 29:1-2 (AI)": [
+    "jad_occurrence__441"
   ],
-  "Deuteronomy 28:66 (AI)": [
-    "jad_occurrence__74",
-    "jad_occurrence__212"
+  "Isaiah 26:5 (AI)": [
+    "jad_occurrence__443"
   ],
-  "Acts 17:28 (AI)": [
-    "jad_occurrence__74"
+  "Ezekiel 6:3-4 (AI)": [
+    "jad_occurrence__444"
   ],
-  "Matthew 27:22-23 (AI)": [
-    "jad_occurrence__434",
-    "jad_occurrence__80"
+  "Luke 14:28-30 (AI)": [
+    "jad_occurrence__444"
+  ],
+  "Psalm 59:14 (AI)": [
+    "jad_occurrence__445"
+  ],
+  "John 19:24 (AI)": [
+    "jad_occurrence__446"
+  ],
+  "Isaiah 5:25 (AI)": [
+    "jad_occurrence__446"
+  ],
+  "Isaiah 6:9-11 (AI)": [
+    "jad_occurrence__447"
+  ],
+  "Isaiah 7:1-2 (AI)": [
+    "jad_occurrence__448"
+  ],
+  "2 Kings 15:32, 15:34, 15:37 (AI)": [
+    "jad_occurrence__448"
+  ],
+  "2 Kings 16:1-4 (AI)": [
+    "jad_occurrence__448"
+  ],
+  "2 Kings 16:10-11 (AI)": [
+    "jad_occurrence__448"
+  ],
+  "2 Kings 16:5 (AI)": [
+    "jad_occurrence__448"
+  ],
+  "Psalm 50:19 (AI)": [
+    "jad_occurrence__449"
+  ],
+  "Romans 3:12 (AI)": [
+    "jad_occurrence__450"
+  ],
+  "Luke 4:18-19 (AI)": [
+    "jad_occurrence__568",
+    "jad_occurrence__453"
+  ],
+  "Isaiah 5:2, 4 (AI)": [
+    "jad_occurrence__453"
+  ],
+  "Luke 6:25 (AI)": [
+    "jad_occurrence__453"
+  ],
+  "Isaiah 29:1-3 (AI)": [
+    "jad_occurrence__454"
+  ],
+  "Isaiah 29:5-6 (AI)": [
+    "jad_occurrence__454"
+  ],
+  "Isaiah 29:7-8 (AI)": [
+    "jad_occurrence__454"
+  ],
+  "Matthew 21:38-39 (AI)": [
+    "jad_occurrence__455",
+    "jad_occurrence__524"
+  ],
+  "Luke 10:11 (AI)": [
+    "jad_occurrence__455"
+  ],
+  "Luke 14:11 (AI)": [
+    "jad_occurrence__455"
+  ],
+  "Zechariah 1:18-21 (AI)": [
+    "jad_occurrence__5",
+    "jad_occurrence__456"
+  ],
+  "Zechariah 6:1-3 (AI)": [
+    "jad_occurrence__456"
+  ],
+  "Romans 1:26-27 (AI)": [
+    "jad_occurrence__457"
+  ],
+  "Philippians 3:19 (AI)": [
+    "jad_occurrence__457"
+  ],
+  "Matthew 10:40 (AI)": [
+    "jad_occurrence__457"
+  ],
+  "Matthew 24:22 (AI)": [
+    "jad_occurrence__459"
+  ],
+  "Matthew 24:23 (AI)": [
+    "jad_occurrence__459"
+  ],
+  "Matthew 24:24-25 (AI)": [
+    "jad_occurrence__459"
+  ],
+  "Psalms 119:91 (AI)": [
+    "jad_occurrence__459"
+  ],
+  "Psalm 51:17 (AI)": [
+    "jad_occurrence__460"
+  ],
+  "Numbers 14:26-35 (AI)": [
+    "jad_occurrence__731",
+    "jad_occurrence__462"
+  ],
+  "2 Kings 25:8-10 (AI)": [
+    "jad_occurrence__462"
+  ],
+  "2 Kings 25:25 (AI)": [
+    "jad_occurrence__462"
+  ],
+  "Jeremiah 41:1-3 (AI)": [
+    "jad_occurrence__493",
+    "jad_occurrence__462"
+  ],
+  "Ezekiel 33:21 (AI)": [
+    "jad_occurrence__493",
+    "jad_occurrence__462"
+  ],
+  "2 Kings 2:23-25 (AI)": [
+    "jad_occurrence__651",
+    "jad_occurrence__466"
+  ],
+  "Revelation 11:8 (AI)": [
+    "jad_occurrence__466"
+  ],
+  "Psalms 46:4 (AI)": [
+    "jad_occurrence__466"
+  ],
+  "Isaiah 49:20 (AI)": [
+    "jad_occurrence__466"
+  ],
+  "Isaiah 53:9 (AI)": [
+    "jad_occurrence__466"
+  ],
+  "Matthew 21:38 (AI)": [
+    "jad_occurrence__595",
+    "jad_occurrence__467",
+    "jad_occurrence__692"
+  ],
+  "Philippians 1:18 (AI)": [
+    "jad_occurrence__468"
+  ],
+  "Exodus 32:32 (AI)": [
+    "jad_occurrence__787",
+    "jad_occurrence__468"
+  ],
+  "Matthew 23:2-3 (AI)": [
+    "jad_occurrence__887",
+    "jad_occurrence__886",
+    "jad_occurrence__468"
+  ],
+  "Psalm 79:1 (AI)": [
+    "jad_occurrence__47"
+  ],
+  "Acts 12:1-2 (AI)": [
+    "jad_occurrence__777",
+    "jad_occurrence__613",
+    "jad_occurrence__470"
+  ],
+  "Revelation 1:9 (AI)": [
+    "jad_occurrence__475",
+    "jad_occurrence__470"
+  ],
+  "2 Kings 2:24 (AI)": [
+    "jad_occurrence__609",
+    "jad_occurrence__472",
+    "jad_occurrence__738"
+  ],
+  "Amos 3:8 (AI)": [
+    "jad_occurrence__472"
+  ],
+  "Psalms 10:7-8 (AI)": [
+    "jad_occurrence__472"
+  ],
+  "Acts 7:54-60 (AI)": [
+    "jad_occurrence__475"
+  ],
+  "John 21:22-23 (AI)": [
+    "jad_occurrence__475"
+  ],
+  "John 9:29 (AI)": [
+    "jad_occurrence__476"
+  ],
+  "Mark 15:33-34 (AI)": [
+    "jad_occurrence__478"
+  ],
+  "John 11:43-44 (AI)": [
+    "jad_occurrence__478"
+  ],
+  "Jeremiah 41:1-18 (AI)": [
+    "jad_occurrence__479"
+  ],
+  "Isaiah 3:6-7 (AI)": [
+    "jad_occurrence__482"
+  ],
+  "Isaiah 3:7 (AI)": [
+    "jad_occurrence__482"
+  ],
+  "Mark 16:15 (AI)": [
+    "jad_occurrence__484"
   ],
   "Isaiah 61:1-2 (AI)": [
     "jad_occurrence__485"
   ],
+  "Isaiah 51:17 (AI)": [
+    "jad_occurrence__487"
+  ],
+  "Psalm 75:8 (AI)": [
+    "jad_occurrence__487"
+  ],
+  "Isaiah 66:10-11 (AI)": [
+    "jad_occurrence__488"
+  ],
+  "Isaiah 66:6 (AI)": [
+    "jad_occurrence__489"
+  ],
+  "2 Samuel 5:7-9 (AI)": [
+    "jad_occurrence__49"
+  ],
+  "John 19:41-42 (AI)": [
+    "jad_occurrence__49"
+  ],
+  "Isaiah 65:10-12 (AI)": [
+    "jad_occurrence__490"
+  ],
+  "Joshua 7:26 (AI)": [
+    "jad_occurrence__490"
+  ],
+  "Joshua 8 (AI)": [
+    "jad_occurrence__491"
+  ],
+  "Joshua 7 (AI)": [
+    "jad_occurrence__491"
+  ],
+  "Amos 6:7-10 (AI)": [
+    "jad_occurrence__492"
+  ],
+  "Matthew 8:22 (AI)": [
+    "jad_occurrence__492"
+  ],
+  "Numbers 13-14 (AI)": [
+    "jad_occurrence__493"
+  ],
+  "2 Kings 25:9 (AI)": [
+    "jad_occurrence__493",
+    "jad_occurrence__514"
+  ],
+  "Matthew 7:24-27 (AI)": [
+    "jad_occurrence__495"
+  ],
+  "Zephaniah 1:14-15 (AI)": [
+    "jad_occurrence__527",
+    "jad_occurrence__495"
+  ],
+  "Zephaniah 1:11-13 (AI)": [
+    "jad_occurrence__496"
+  ],
+  "Zephaniah 1:12 (AI)": [
+    "jad_occurrence__527",
+    "jad_occurrence__496",
+    "jad_occurrence__593"
+  ],
+  "Daniel 13:56 (AI)": [
+    "jad_occurrence__496"
+  ],
+  "Zechariah 14:12 (AI)": [
+    "jad_occurrence__532",
+    "jad_occurrence__497"
+  ],
+  "Psalm 40:2 (AI)": [
+    "jad_occurrence__532",
+    "jad_occurrence__497"
+  ],
+  "Psalm 123:1 (AI)": [
+    "jad_occurrence__532",
+    "jad_occurrence__497"
+  ],
+  "1 Corinthians 15:32 (AI)": [
+    "jad_occurrence__498"
+  ],
+  "Matthew 23:8 (AI)": [
+    "jad_occurrence__499"
+  ],
+  "Psalm 18:45 (AI)": [
+    "jad_occurrence__500"
+  ],
+  "Psalm 21:10 (AI)": [
+    "jad_occurrence__501",
+    "jad_occurrence__826"
+  ],
+  "1 Samuel 2:10 (AI)": [
+    "jad_occurrence__529",
+    "jad_occurrence__501"
+  ],
+  "John 8:42 (AI)": [
+    "jad_occurrence__503"
+  ],
+  "John 10:30 (AI)": [
+    "jad_occurrence__503"
+  ],
+  "Matthew 15:24 (AI)": [
+    "jad_occurrence__828",
+    "jad_occurrence__503"
+  ],
+  "Psalm 55:13 (AI)": [
+    "jad_occurrence__503"
+  ],
+  "Mark 1:15 (AI)": [
+    "jad_occurrence__503"
+  ],
+  "Isaiah 42:15 (AI)": [
+    "jad_occurrence__504"
+  ],
+  "Isaiah 58:1 (AI)": [
+    "jad_occurrence__506",
+    "jad_occurrence__505"
+  ],
+  "Micah 1:6 (AI)": [
+    "jad_occurrence__507"
+  ],
+  "1 Samuel 1:22 (AI)": [
+    "jad_occurrence__508"
+  ],
+  "Psalm 16:5 (AI)": [
+    "jad_occurrence__508"
+  ],
+  "Micah 3:1-3 (AI)": [
+    "jad_occurrence__510"
+  ],
+  "Micah 3:4 (AI)": [
+    "jad_occurrence__510"
+  ],
+  "Micah 3:5-7 (AI)": [
+    "jad_occurrence__510"
+  ],
   "Psalms 87:1 (AI)": [
     "jad_occurrence__518"
+  ],
+  "Zechariah 11:3 (AI)": [
+    "jad_occurrence__519"
+  ],
+  "Zechariah 11:4 (AI)": [
+    "jad_occurrence__519"
+  ],
+  "Zechariah 11:5 (AI)": [
+    "jad_occurrence__519"
+  ],
+  "John 11:49-51 (AI)": [
+    "jad_occurrence__520"
+  ],
+  "Luke 24:46-47 (AI)": [
+    "jad_occurrence__521"
+  ],
+  "Acts 2:38 (AI)": [
+    "jad_occurrence__521"
+  ],
+  "Romans 6:3 (AI)": [
+    "jad_occurrence__521"
+  ],
+  "Jonah 4:9 (AI)": [
+    "jad_occurrence__521"
+  ],
+  "Micah 3:1 (AI)": [
+    "jad_occurrence__523"
+  ],
+  "Micah 3:5 (AI)": [
+    "jad_occurrence__523"
+  ],
+  "1 Corinthians 10:17 (AI)": [
+    "jad_occurrence__524"
+  ],
+  "Isaiah 9:6 (AI)": [
+    "jad_occurrence__524",
+    "jad_occurrence__861"
+  ],
+  "Psalm 103:9 (AI)": [
+    "jad_occurrence__524"
+  ],
+  "Matthew 22:16 (AI)": [
+    "jad_occurrence__525"
+  ],
+  "Matthew 27:30 (AI)": [
+    "jad_occurrence__525"
+  ],
+  "Micah 5:2 (AI)": [
+    "jad_occurrence__525"
+  ],
+  "Zephaniah 1:11 (AI)": [
+    "jad_occurrence__526"
+  ],
+  "Zephaniah 1:13 (AI)": [
+    "jad_occurrence__527"
+  ],
+  "Zephaniah 1:17 (AI)": [
+    "jad_occurrence__527"
+  ],
+  "Luke 1:69 (AI)": [
+    "jad_occurrence__529"
+  ],
+  "Zechariah 1:20-21 (AI)": [
+    "jad_occurrence__529"
+  ],
+  "Numbers 14:29-30 (AI)": [
+    "jad_occurrence__530"
+  ],
+  "Jeremiah 40:8-9 (AI)": [
+    "jad_occurrence__530"
+  ],
+  "Zechariah 8:20-21 (AI)": [
+    "jad_occurrence__530"
+  ],
+  "1 Timothy 1:17 (AI)": [
+    "jad_occurrence__531"
+  ],
+  "John 4:24 (AI)": [
+    "jad_occurrence__531"
+  ],
+  "Isaiah 58:3 (AI)": [
+    "jad_occurrence__533"
+  ],
+  "Matthew 18:31-34 (AI)": [
+    "jad_occurrence__533"
+  ],
+  "Matthew 18:32-35 (AI)": [
+    "jad_occurrence__533"
+  ],
+  "Isaiah 3:5 (AI)": [
+    "jad_occurrence__535"
+  ],
+  "Isaiah 6:5 (AI)": [
+    "jad_occurrence__540"
+  ],
+  "Isaiah 59:19 (AI)": [
+    "jad_occurrence__543"
+  ],
+  "Matthew 27:9 (AI)": [
+    "jad_occurrence__548"
+  ],
+  "Genesis 37:28 (AI)": [
+    "jad_occurrence__548"
+  ],
+  "Philippians 2:7 (AI)": [
+    "jad_occurrence__548"
+  ],
+  "Psalm 94:1 (AI)": [
+    "jad_occurrence__548"
+  ],
+  "Romans 6:10 (AI)": [
+    "jad_occurrence__548"
+  ],
+  "Deuteronomy 32:28-30 (AI)": [
+    "jad_occurrence__548"
+  ],
+  "Exodus 12:1-28 (AI)": [
+    "jad_occurrence__549"
+  ],
+  "Joshua 1:1-6 (AI)": [
+    "jad_occurrence__549",
+    "jad_occurrence__843"
+  ],
+  "Matthew 27:24-25 (AI)": [
+    "jad_occurrence__549"
+  ],
+  "Luke 19:38 (AI)": [
+    "jad_occurrence__550"
+  ],
+  "Luke 19:39 (AI)": [
+    "jad_occurrence__550"
+  ],
+  "Isaiah 64:1 (AI)": [
+    "jad_occurrence__550"
+  ],
+  "Ezekiel 5:1-3 (AI)": [
+    "jad_occurrence__550"
+  ],
+  "Ezekiel 5:12 (AI)": [
+    "jad_occurrence__550",
+    "jad_occurrence__670"
+  ],
+  "Psalm 106:4 (AI)": [
+    "jad_occurrence__550"
+  ],
+  "Luke 19:46 (AI)": [
+    "jad_occurrence__550"
+  ],
+  "Mark 11:17 (AI)": [
+    "jad_occurrence__550",
+    "jad_occurrence__667"
+  ],
+  "Galatians 4:19 (AI)": [
+    "jad_occurrence__550"
+  ],
+  "2 Corinthians 12:21 (AI)": [
+    "jad_occurrence__550"
+  ],
+  "Luke 19:47 (AI)": [
+    "jad_occurrence__550"
+  ],
+  "Psalm 141:2 (AI)": [
+    "jad_occurrence__550",
+    "jad_occurrence__74"
+  ],
+  "John 15:5 (AI)": [
+    "jad_occurrence__550",
+    "jad_occurrence__670"
+  ],
+  "John 12:35 (AI)": [
+    "jad_occurrence__550"
+  ],
+  "Matthew 5:25-26 (AI)": [
+    "jad_occurrence__550"
+  ],
+  "Galatians 6:10 (AI)": [
+    "jad_occurrence__550"
+  ],
+  "Ecclesiastes 9:10 (AI)": [
+    "jad_occurrence__550"
+  ],
+  "Matthew 18:24 (AI)": [
+    "jad_occurrence__550"
+  ],
+  "Genesis 3:19 (AI)": [
+    "jad_occurrence__550"
+  ],
+  "Psalm 105:27 (AI)": [
+    "jad_occurrence__550"
+  ],
+  "Sirach 7:40 (AI)": [
+    "jad_occurrence__550"
+  ],
+  "Sirach 11:27 (AI)": [
+    "jad_occurrence__550"
+  ],
+  "Luke 10:16 (AI)": [
+    "jad_occurrence__550"
+  ],
+  "2 Timothy 2:4 (AI)": [
+    "jad_occurrence__551"
+  ],
+  "Psalms 53:5 (AI)": [
+    "jad_occurrence__551"
+  ],
+  "Matthew 26:52 (AI)": [
+    "jad_occurrence__664",
+    "jad_occurrence__553"
+  ],
+  "Matthew 26:53 (AI)": [
+    "jad_occurrence__664",
+    "jad_occurrence__553"
+  ],
+  "Matthew 26:54 (AI)": [
+    "jad_occurrence__553"
+  ],
+  "Matthew 26:55 (AI)": [
+    "jad_occurrence__664",
+    "jad_occurrence__553"
+  ],
+  "Acts 4:29 (AI)": [
+    "jad_occurrence__554"
+  ],
+  "Matthew 22:5-13 (AI)": [
+    "jad_occurrence__555"
+  ],
+  "Matthew 24:8-9 (AI)": [
+    "jad_occurrence__557"
+  ],
+  "Matthew 24:10 (AI)": [
+    "jad_occurrence__557"
+  ],
+  "Matthew 24:11 (AI)": [
+    "jad_occurrence__557"
+  ],
+  "Matthew 24:12-14 (AI)": [
+    "jad_occurrence__557"
+  ],
+  "Luke 21 (AI)": [
+    "jad_occurrence__56"
+  ],
+  "Mark 23 (AI)": [
+    "jad_occurrence__56"
+  ],
+  "Amos 6:8 (AI)": [
+    "jad_occurrence__562"
+  ],
+  "Amos 6:6 (AI)": [
+    "jad_occurrence__562"
+  ],
+  "Amos 6:9-10 (AI)": [
+    "jad_occurrence__562"
+  ],
+  "Psalm 51:3 (AI)": [
+    "jad_occurrence__564"
+  ],
+  "Romans 11:1-2 (AI)": [
+    "jad_occurrence__565"
+  ],
+  "Joshua 23:9 (AI)": [
+    "jad_occurrence__566"
+  ],
+  "Isaiah 1:3 (AI)": [
+    "jad_occurrence__710",
+    "jad_occurrence__566"
+  ],
+  "Matthew 9:2 (AI)": [
+    "jad_occurrence__567"
+  ],
+  "Isaiah 40:3-5 (AI)": [
+    "jad_occurrence__567"
+  ],
+  "Isaiah 32:9 (AI)": [
+    "jad_occurrence__568"
+  ],
+  "Isaiah 52:10 (AI)": [
+    "jad_occurrence__569"
+  ],
+  "Acts 9:15 (AI)": [
+    "jad_occurrence__569"
+  ],
+  "Ephesians 6:11 (AI)": [
+    "jad_occurrence__569"
+  ],
+  "Ezekiel 16 (AI)": [
+    "jad_occurrence__57"
+  ],
+  "Psalm 55:9-10 (AI)": [
+    "jad_occurrence__570"
+  ],
+  "John 7:37 (AI)": [
+    "jad_occurrence__571"
+  ],
+  "Luke 23:30 (AI)": [
+    "jad_occurrence__572",
+    "jad_occurrence__704"
+  ],
+  "Revelation 6:16 (AI)": [
+    "jad_occurrence__572"
+  ],
+  "Job 31:31 (AI)": [
+    "jad_occurrence__576"
+  ],
+  "Matthew 23:14 (AI)": [
+    "jad_occurrence__576"
+  ],
+  "Matthew 5:7 (AI)": [
+    "jad_occurrence__576"
+  ],
+  "Luke 11:50-51 (AI)": [
+    "jad_occurrence__577"
+  ],
+  "Ezekiel 36:21-25 (AI)": [
+    "jad_occurrence__577"
+  ],
+  "Psalm 51:10 (AI)": [
+    "jad_occurrence__577"
+  ],
+  "Luke 16:16 (AI)": [
+    "jad_occurrence__578"
+  ],
+  "Wisdom 2:12 (AI)": [
+    "jad_occurrence__578"
+  ],
+  "Philippians 4:13 (AI)": [
+    "jad_occurrence__578"
+  ],
+  "Ephesians 4:13 (AI)": [
+    "jad_occurrence__578"
+  ],
+  "1 Corinthians 10:4 (AI)": [
+    "jad_occurrence__579"
+  ],
+  "Isaiah 2:11-12 (AI)": [
+    "jad_occurrence__579"
+  ],
+  "James 4:6 (AI)": [
+    "jad_occurrence__579"
+  ],
+  "Matthew 22:8-10 (AI)": [
+    "jad_occurrence__58"
+  ],
+  "Psalms 74:19 (AI)": [
+    "jad_occurrence__738",
+    "jad_occurrence__580"
+  ],
+  "Jeremiah 49:24-27 (AI)": [
+    "jad_occurrence__582"
+  ],
+  "Isaiah 17:4 (AI)": [
+    "jad_occurrence__582"
+  ],
+  "Isaiah 50:11 (AI)": [
+    "jad_occurrence__583",
+    "jad_occurrence__905"
+  ],
+  "Romans 9:3 (AI)": [
+    "jad_occurrence__586"
+  ],
+  "Jeremiah 29:4-7 (AI)": [
+    "jad_occurrence__586"
+  ],
+  "Psalm 137:4 (AI)": [
+    "jad_occurrence__587"
+  ],
+  "Genesis 49:10 (AI)": [
+    "jad_occurrence__917",
+    "jad_occurrence__878",
+    "jad_occurrence__587"
+  ],
+  "Matthew 8:20 (AI)": [
+    "jad_occurrence__588",
+    "jad_occurrence__885"
+  ],
+  "Psalm 68:18 (AI)": [
+    "jad_occurrence__588"
+  ],
+  "Luke 13:6-9 (AI)": [
+    "jad_occurrence__59"
+  ],
+  "Isaiah 5:26-27 (AI)": [
+    "jad_occurrence__590",
+    "jad_occurrence__902"
+  ],
+  "1 Kings 20:11 (AI)": [
+    "jad_occurrence__590"
+  ],
+  "2 Kings 20:20 (AI)": [
+    "jad_occurrence__591"
+  ],
+  "1 Kings 1:33-34 (AI)": [
+    "jad_occurrence__591"
+  ],
+  "John 9:7 (AI)": [
+    "jad_occurrence__591"
+  ],
+  "Luke 24:13 (AI)": [
+    "jad_occurrence__592"
+  ],
+  "Luke 24:13-31 (AI)": [
+    "jad_occurrence__592"
+  ],
+  "Jeremiah 13:1-11 (AI)": [
+    "jad_occurrence__594"
+  ],
+  "Deuteronomy 32:39 (AI)": [
+    "jad_occurrence__594"
+  ],
+  "Psalm 101:8 (AI)": [
+    "jad_occurrence__594"
+  ],
+  "John 11:53 (AI)": [
+    "jad_occurrence__598"
+  ],
+  "Psalm 22:19-21 (AI)": [
+    "jad_occurrence__598"
+  ],
+  "John 19:2-3 (AI)": [
+    "jad_occurrence__599"
+  ],
+  "Luke 19 (AI)": [
+    "jad_occurrence__60"
+  ],
+  "Psalm 79 (AI)": [
+    "jad_occurrence__60"
+  ],
+  "Revelation 6:12 (AI)": [
+    "jad_occurrence__600"
+  ],
+  "Isaiah 45:1 (AI)": [
+    "jad_occurrence__602"
+  ],
+  "1 Kings 18:42-44 (AI)": [
+    "jad_occurrence__604"
+  ],
+  "John 9:24 (AI)": [
+    "jad_occurrence__606"
+  ],
+  "John 7:12 (AI)": [
+    "jad_occurrence__606"
+  ],
+  "Psalm 78:3 (AI)": [
+    "jad_occurrence__61"
+  ],
+  "Isaiah 53:1 (AI)": [
+    "jad_occurrence__610"
+  ],
+  "Numbers 25:9 (AI)": [
+    "jad_occurrence__611"
+  ],
+  "Zechariah 1:12-13 (AI)": [
+    "jad_occurrence__611"
+  ],
+  "Jeremiah 25:11-12 (AI)": [
+    "jad_occurrence__611"
+  ],
+  "Isaiah 58:4 (AI)": [
+    "jad_occurrence__612",
+    "jad_occurrence__895"
+  ],
+  "John 19:1-11 (AI)": [
+    "jad_occurrence__613"
+  ],
+  "Matthew 14:1-12 (AI)": [
+    "jad_occurrence__613",
+    "jad_occurrence__777"
+  ],
+  "Isaiah 5:5 (AI)": [
+    "jad_occurrence__677",
+    "jad_occurrence__614"
+  ],
+  "Luke 23:43 (AI)": [
+    "jad_occurrence__618"
+  ],
+  "John 19:18 (AI)": [
+    "jad_occurrence__618"
+  ],
+  "Judith 10:10-13 (AI)": [
+    "jad_occurrence__621"
+  ],
+  "Judith 11:17 (AI)": [
+    "jad_occurrence__621"
+  ],
+  "Isaiah 1:26 (AI)": [
+    "jad_occurrence__623"
+  ],
+  "Luke 19:30 (AI)": [
+    "jad_occurrence__623"
+  ],
+  "Romans 3:22-23 (AI)": [
+    "jad_occurrence__623"
+  ],
+  "Matthew 21:18-19 (AI)": [
+    "jad_occurrence__629"
+  ],
+  "Matthew 21:8-11 (AI)": [
+    "jad_occurrence__629"
+  ],
+  "Luke 19:39-40 (AI)": [
+    "jad_occurrence__629"
+  ],
+  "John 7:48-49 (AI)": [
+    "jad_occurrence__635"
+  ],
+  "John 11:48-50 (AI)": [
+    "jad_occurrence__682",
+    "jad_occurrence__635"
+  ],
+  "Matthew 27:5 (AI)": [
+    "jad_occurrence__648"
+  ],
+  "Matthew 27:24 (AI)": [
+    "jad_occurrence__735",
+    "jad_occurrence__648"
+  ],
+  "Romans 11:11-12 (AI)": [
+    "jad_occurrence__65"
+  ],
+  "Luke 13 (AI)": [
+    "jad_occurrence__66"
+  ],
+  "Psalms 79:13 (AI)": [
+    "jad_occurrence__68"
+  ],
+  "Psalm 145:17 (AI)": [
+    "jad_occurrence__70"
+  ],
+  "Exodus 14 (AI)": [
+    "jad_occurrence__912",
+    "jad_occurrence__71"
+  ],
+  "Exodus 16:4 (AI)": [
+    "jad_occurrence__71"
+  ],
+  "Exodus 17:6 (AI)": [
+    "jad_occurrence__71"
+  ],
+  "Philippians 2 (AI)": [
+    "jad_occurrence__72"
+  ],
+  "Jeremiah 15 (AI)": [
+    "jad_occurrence__72"
+  ],
+  "John 19 (AI)": [
+    "jad_occurrence__72"
+  ],
+  "Exodus 12 (AI)": [
+    "jad_occurrence__72"
+  ],
+  "Isaiah 53 (AI)": [
+    "jad_occurrence__72"
+  ],
+  "Jeremiah 12 (AI)": [
+    "jad_occurrence__73"
+  ],
+  "Isaiah 57 (AI)": [
+    "jad_occurrence__73"
+  ],
+  "Isaiah 3 (AI)": [
+    "jad_occurrence__73"
+  ],
+  "Luke 23:18 (AI)": [
+    "jad_occurrence__73"
+  ],
+  "Isaiah 5 (AI)": [
+    "jad_occurrence__73"
+  ],
+  "Isaiah 14 (AI)": [
+    "jad_occurrence__73"
+  ],
+  "Acts 17:28 (AI)": [
+    "jad_occurrence__74"
+  ],
+  "Amos 8:10 (AI)": [
+    "jad_occurrence__75"
+  ],
+  "Exodus 4:22 (AI)": [
+    "jad_occurrence__75"
+  ],
+  "1 Samuel 23:1-13 (AI)": [
+    "jad_occurrence__75"
+  ],
+  "Matthew 4:17 (AI)": [
+    "jad_occurrence__76"
+  ],
+  "Ezekiel 18:32 (AI)": [
+    "jad_occurrence__76"
+  ],
+  "Matthew 27:62-66 (AI)": [
+    "jad_occurrence__77"
+  ],
+  "Genesis 9:20-27 (AI)": [
+    "jad_occurrence__81"
+  ],
+  "2 Samuel 15:1-10, 2 Samuel 16:21-22 (AI)": [
+    "jad_occurrence__81"
+  ],
+  "Daniel 9 (AI)": [
+    "jad_occurrence__86"
+  ],
+  "Psalm 17 (AI)": [
+    "jad_occurrence__86"
+  ],
+  "Matthew 10 (AI)": [
+    "jad_occurrence__86"
+  ],
+  "Psalm 117 (AI)": [
+    "jad_occurrence__86"
+  ],
+  "Isaiah 11:11 (AI)": [
+    "jad_occurrence__87"
+  ],
+  "Isaiah 14:1-2 (AI)": [
+    "jad_occurrence__88"
+  ],
+  "Isaiah 60:10 (AI)": [
+    "jad_occurrence__88"
+  ],
+  "Isaiah 14:3 (AI)": [
+    "jad_occurrence__88"
+  ],
+  "Isaiah 14:4 (AI)": [
+    "jad_occurrence__88"
+  ],
+  "Luke 10:30-37 (AI)": [
+    "jad_occurrence__89"
+  ],
+  "Acts 1:9 (AI)": [
+    "jad_occurrence__27"
+  ],
+  "Acts 25:1 (AI)": [
+    "jad_occurrence__158"
+  ],
+  "Acts 28:30-31 (AI)": [
+    "jad_occurrence__158"
+  ],
+  "1 Corinthians 1:1, 2 Timothy 4:20 (AI)": [
+    "jad_occurrence__158"
+  ],
+  "Galatians 1:19 (AI)": [
+    "jad_occurrence__158"
+  ],
+  "Romans 9:27 (AI)": [
+    "jad_occurrence__158"
+  ],
+  "Acts 2:37-38 (AI)": [
+    "jad_occurrence__209"
+  ],
+  "Ezekiel 5:1-4 (AI)": [
+    "jad_occurrence__244"
+  ],
+  "Luke 21:20-21 (AI)": [
+    "jad_occurrence__260"
+  ],
+  "Ezekiel 21:14 (AI)": [
+    "jad_occurrence__538"
+  ],
+  "Ezekiel 33:12 (AI)": [
+    "jad_occurrence__538"
+  ],
+  "Isaiah 3:26 (AI)": [
+    "jad_occurrence__538"
+  ],
+  "Luke 1:78 (AI)": [
+    "jad_occurrence__654"
+  ],
+  "Joshua 7-8 (AI)": [
+    "jad_occurrence__655"
+  ],
+  "Luke 19:1-10 (AI)": [
+    "jad_occurrence__655"
+  ],
+  "Joshua 2:1-21 (AI)": [
+    "jad_occurrence__655"
+  ],
+  "Matthew 24:14 (AI)": [
+    "jad_occurrence__656"
+  ],
+  "Psalm 76:1 (AI)": [
+    "jad_occurrence__656"
+  ],
+  "2 Thessalonians 2:3-4 (AI)": [
+    "jad_occurrence__656"
+  ],
+  "Hebrews 4:14 (AI)": [
+    "jad_occurrence__657"
+  ],
+  "John 11:42-54 (AI)": [
+    "jad_occurrence__658"
+  ],
+  "Romans 5:12 (AI)": [
+    "jad_occurrence__659"
+  ],
+  "Romans 7:24 (AI)": [
+    "jad_occurrence__659"
+  ],
+  "Song of Solomon 8:6 (AI)": [
+    "jad_occurrence__659"
+  ],
+  "John 12:31 (AI)": [
+    "jad_occurrence__661"
+  ],
+  "Matthew 12:21 (AI)": [
+    "jad_occurrence__661"
+  ],
+  "Isaiah 11:10 (AI)": [
+    "jad_occurrence__661"
+  ],
+  "Matthew 18:32-34 (AI)": [
+    "jad_occurrence__663"
+  ],
+  "Mark 13:3-4 (AI)": [
+    "jad_occurrence__666"
+  ],
+  "Jeremiah 7:11 (AI)": [
+    "jad_occurrence__667"
+  ],
+  "2 Timothy 3:5 (AI)": [
+    "jad_occurrence__668"
+  ],
+  "Hosea 4:1 (AI)": [
+    "jad_occurrence__668"
+  ],
+  "Hosea 4:2 (AI)": [
+    "jad_occurrence__668"
+  ],
+  "Isaiah 23:4 (AI)": [
+    "jad_occurrence__668"
+  ],
+  "Ezekiel 16:51 (AI)": [
+    "jad_occurrence__668"
   ],
   "Revelation 10:11 (AI)": [
     "jad_occurrence__670"
@@ -2464,40 +3021,160 @@
   "Habakkuk 2:5 (AI)": [
     "jad_occurrence__670"
   ],
-  "Isaiah 61:2-3 (AI)": [
-    "jad_occurrence__788"
+  "Jeremiah (AI)": [
+    "jad_occurrence__837",
+    "jad_occurrence__831",
+    "jad_occurrence__671"
   ],
-  "Luke 19:43 (AI)": [
-    "jad_occurrence__788",
-    "jad_occurrence__441",
-    "jad_occurrence__24"
+  "Daniel (AI)": [
+    "jad_occurrence__837",
+    "jad_occurrence__749",
+    "jad_occurrence__671"
+  ],
+  "Zechariah (AI)": [
+    "jad_occurrence__894",
+    "jad_occurrence__671"
+  ],
+  "Daniel 9:1-2 (AI)": [
+    "jad_occurrence__671"
+  ],
+  "Zechariah 1:12 (AI)": [
+    "jad_occurrence__671"
+  ],
+  "Matthew 27:34 (AI)": [
+    "jad_occurrence__432"
+  ],
+  "Matthew 3:9 (AI)": [
+    "jad_occurrence__660"
+  ],
+  "Psalm 146:4 (AI)": [
+    "jad_occurrence__660"
+  ],
+  "Romans 11:8 (AI)": [
+    "jad_occurrence__674"
+  ],
+  "Romans 11:9-10 (AI)": [
+    "jad_occurrence__674"
+  ],
+  "Jeremiah 6:9 (AI)": [
+    "jad_occurrence__677"
+  ],
+  "Romans 15:17-19 (AI)": [
+    "jad_occurrence__679"
+  ],
+  "Romans 15:28-29 (AI)": [
+    "jad_occurrence__679"
+  ],
+  "John 15:20 (AI)": [
+    "jad_occurrence__682"
+  ],
+  "Isaiah 24:16 (AI)": [
+    "jad_occurrence__684"
+  ],
+  "Matthew 1:11 (AI)": [
+    "jad_occurrence__685"
+  ],
+  "1 Samuel 10:1 (AI)": [
+    "jad_occurrence__685"
+  ],
+  "1 Samuel 10:24 (AI)": [
+    "jad_occurrence__685"
+  ],
+  "2 Chronicles 26:16 (AI)": [
+    "jad_occurrence__685"
+  ],
+  "Leviticus 8:12 (AI)": [
+    "jad_occurrence__685"
+  ],
+  "Numbers 3:6-10 (AI)": [
+    "jad_occurrence__685"
+  ],
+  "2 Samuel 2:11 (AI)": [
+    "jad_occurrence__685"
+  ],
+  "Ezra 1:1 (AI)": [
+    "jad_occurrence__687"
+  ],
+  "Haggai 1:1, 2:23 (AI)": [
+    "jad_occurrence__687"
+  ],
+  "Nehemiah 2:1 (AI)": [
+    "jad_occurrence__687"
+  ],
+  "Genesis 19:4 (AI)": [
+    "jad_occurrence__688"
+  ],
+  "Isaiah 9:12 (AI)": [
+    "jad_occurrence__689",
+    "jad_occurrence__693"
+  ],
+  "Isaiah 9:13 (AI)": [
+    "jad_occurrence__689"
+  ],
+  "Isaiah 9:14 (AI)": [
+    "jad_occurrence__689"
+  ],
+  "Isaiah 9:16 (AI)": [
+    "jad_occurrence__689"
+  ],
+  "Isaiah 6:12 (AI)": [
+    "jad_occurrence__691"
+  ],
+  "Isaiah 6:13 (AI)": [
+    "jad_occurrence__691"
+  ],
+  "Isaiah 18:2 (AI)": [
+    "jad_occurrence__694"
+  ],
+  "Isaiah 8:7 (AI)": [
+    "jad_occurrence__694"
+  ],
+  "Matthew 24:29 (AI)": [
+    "jad_occurrence__694"
   ],
   "Jeremiah 11:16 (AI)": [
     "jad_occurrence__695"
   ],
-  "Matthew 9:2 (AI)": [
-    "jad_occurrence__567"
+  "Isaiah 15:4 (AI)": [
+    "jad_occurrence__696"
   ],
-  "Isaiah 40:3-5 (AI)": [
-    "jad_occurrence__567"
+  "Isaiah 5:7 (AI)": [
+    "jad_occurrence__840",
+    "jad_occurrence__696"
   ],
-  "Isaiah 13:19 (AI)": [
-    "jad_occurrence__881"
+  "Psalm 74:6-7 (AI)": [
+    "jad_occurrence__697"
   ],
-  "Ezra 1:1-4 (AI)": [
-    "jad_occurrence__881"
+  "Jeremiah 50:11 (AI)": [
+    "jad_occurrence__697"
   ],
-  "Job 12:21-24 (AI)": [
-    "jad_occurrence__881"
+  "Matthew 13:39 (AI)": [
+    "jad_occurrence__697"
   ],
-  "Revelation 18:5 (AI)": [
-    "jad_occurrence__881"
+  "Isaiah 26:19 (AI)": [
+    "jad_occurrence__697"
   ],
-  "1 Kings 21:3 (AI)": [
-    "jad_occurrence__881"
+  "Matthew 27:48 (AI)": [
+    "jad_occurrence__698"
   ],
-  "Acts 20:24 (AI)": [
-    "jad_occurrence__881"
+  "John 1:11 (AI)": [
+    "jad_occurrence__840",
+    "jad_occurrence__698"
+  ],
+  "Matthew 25:32 (AI)": [
+    "jad_occurrence__699"
+  ],
+  "Psalm 136:1 (AI)": [
+    "jad_occurrence__700"
+  ],
+  "Isaiah 63:10 (AI)": [
+    "jad_occurrence__700"
+  ],
+  "Isaiah 63:11 (AI)": [
+    "jad_occurrence__700"
+  ],
+  "Romans 11:12 (AI)": [
+    "jad_occurrence__701"
   ],
   "Isaiah 63:3-4 (AI)": [
     "jad_occurrence__702"
@@ -2508,107 +3185,42 @@
   "Matthew 24:36 (AI)": [
     "jad_occurrence__702"
   ],
-  "Isaiah 5:24-25 (AI)": [
-    "jad_occurrence__353"
+  "Lamentations 1:1-2 (AI)": [
+    "jad_occurrence__704"
   ],
-  "2 Timothy 3:1-5 (AI)": [
-    "jad_occurrence__767"
+  "Matthew 26:66 (AI)": [
+    "jad_occurrence__705"
   ],
-  "Isaiah 53:5 (AI)": [
-    "jad_occurrence__108"
+  "Mark 15:13-14 (AI)": [
+    "jad_occurrence__782",
+    "jad_occurrence__705"
   ],
-  "Numbers 22:38 (AI)": [
-    "jad_occurrence__885"
+  "Mark 14:58 (AI)": [
+    "jad_occurrence__705"
   ],
-  "Matthew 20:28 (AI)": [
-    "jad_occurrence__885"
+  "Hebrews 6:4-6 (AI)": [
+    "jad_occurrence__705"
   ],
-  "Matthew 8:20 (AI)": [
-    "jad_occurrence__885",
-    "jad_occurrence__588"
+  "Isaiah 3:3 (AI)": [
+    "jad_occurrence__706"
   ],
-  "John 11:47-48 (AI)": [
-    "jad_occurrence__917",
-    "jad_occurrence__598",
-    "jad_occurrence__404"
+  "Isaiah 5:14 (AI)": [
+    "jad_occurrence__707"
   ],
-  "John 11:53 (AI)": [
-    "jad_occurrence__598"
+  "Isaiah 5:15 (AI)": [
+    "jad_occurrence__707"
   ],
-  "Psalm 22:19-21 (AI)": [
-    "jad_occurrence__598"
+  "Isaiah 5:16 (AI)": [
+    "jad_occurrence__707"
   ],
-  "Jeremiah 18:19 (AI)": [
-    "jad_occurrence__18"
+  "Isaiah 5:17 (AI)": [
+    "jad_occurrence__707"
   ],
-  "Jeremiah 18:20 (AI)": [
-    "jad_occurrence__18"
+  "John 21:15 (AI)": [
+    "jad_occurrence__707"
   ],
-  "Jeremiah 18:21 (AI)": [
-    "jad_occurrence__18",
-    "jad_occurrence__218"
-  ],
-  "Luke 19:41-46 (AI)": [
-    "jad_occurrence__149"
-  ],
-  "Sirach 27:12 (AI)": [
-    "jad_occurrence__846"
-  ],
-  "Ezekiel 18:23 (AI)": [
-    "jad_occurrence__846",
-    "jad_occurrence__719"
-  ],
-  "2 Chronicles 3:1 (AI)": [
-    "jad_occurrence__899"
-  ],
-  "1 Chronicles 28:11 (AI)": [
-    "jad_occurrence__899"
-  ],
-  "Luke 2:28 (AI)": [
-    "jad_occurrence__899"
-  ],
-  "Luke 1:9 (AI)": [
-    "jad_occurrence__899"
-  ],
-  "John 7:37 (AI)": [
-    "jad_occurrence__571"
-  ],
-  "Psalm 68:18 (AI)": [
-    "jad_occurrence__588"
-  ],
-  "Lamentations 1:12 (AI)": [
-    "jad_occurrence__781"
-  ],
-  "Luke 23:28-29 (AI)": [
-    "jad_occurrence__735",
-    "jad_occurrence__344"
-  ],
-  "Matthew 23:38-39 (AI)": [
-    "jad_occurrence__904"
-  ],
-  "Exodus 32:1-4 (AI)": [
-    "jad_occurrence__849"
-  ],
-  "Exodus 32:19-20 (AI)": [
-    "jad_occurrence__849"
-  ],
-  "Deuteronomy 28:13 (AI)": [
-    "jad_occurrence__849"
-  ],
-  "Psalm 18:25-26 (AI)": [
-    "jad_occurrence__867"
-  ],
-  "Psalm 44:3 (AI)": [
-    "jad_occurrence__867"
-  ],
-  "Isaiah 32:9 (AI)": [
-    "jad_occurrence__568"
-  ],
-  "Matthew 27:2 (AI)": [
-    "jad_occurrence__315"
-  ],
-  "John 19:10 (AI)": [
-    "jad_occurrence__315"
+  "Jeremiah 3:15 (AI)": [
+    "jad_occurrence__707"
   ],
   "2 Samuel 7:10 (AI)": [
     "jad_occurrence__709"
@@ -2625,949 +3237,20 @@
   "Ezekiel 21:3 (AI)": [
     "jad_occurrence__709"
   ],
-  "2 Timothy 3:5 (AI)": [
-    "jad_occurrence__668"
+  "Matthew 22:21 (AI)": [
+    "jad_occurrence__713"
   ],
-  "Hosea 4:1 (AI)": [
-    "jad_occurrence__668"
+  "Wisdom of Solomon 5:3-6 (AI)": [
+    "jad_occurrence__713"
   ],
-  "Hosea 4:2 (AI)": [
-    "jad_occurrence__668"
-  ],
-  "Isaiah 23:4 (AI)": [
-    "jad_occurrence__668"
-  ],
-  "Ezekiel 16:51 (AI)": [
-    "jad_occurrence__668"
-  ],
-  "Psalm 74:1-12 (AI)": [
-    "jad_occurrence__725"
-  ],
-  "Luke 21:23 (AI)": [
-    "jad_occurrence__350",
-    "jad_occurrence__334"
-  ],
-  "Psalms 74:19 (AI)": [
-    "jad_occurrence__580",
-    "jad_occurrence__738"
-  ],
-  "Psalm 34:16 (AI)": [
-    "jad_occurrence__337"
-  ],
-  "Matthew 27:6-10 (AI)": [
-    "jad_occurrence__328"
-  ],
-  "Zechariah 7:5 (AI)": [
-    "jad_occurrence__328"
-  ],
-  "Psalm 51:3 (AI)": [
-    "jad_occurrence__564"
-  ],
-  "Amos 6:8 (AI)": [
-    "jad_occurrence__562"
-  ],
-  "Amos 6:6 (AI)": [
-    "jad_occurrence__562"
-  ],
-  "Amos 6:9-10 (AI)": [
-    "jad_occurrence__562"
-  ],
-  "Jeremiah 7:11 (AI)": [
-    "jad_occurrence__667"
-  ],
-  "Psalm 35:1-3 (AI)": [
-    "jad_occurrence__863"
-  ],
-  "Psalm 3:2 (AI)": [
-    "jad_occurrence__863"
-  ],
-  "Romans 6:21 (AI)": [
-    "jad_occurrence__863"
-  ],
-  "John 19:6 (AI)": [
-    "jad_occurrence__863"
-  ],
-  "Judges 15:4 (AI)": [
-    "jad_occurrence__245"
-  ],
-  "2 Kings 2:23 (AI)": [
-    "jad_occurrence__609",
-    "jad_occurrence__19"
-  ],
-  "2 Kings 2:24 (AI)": [
-    "jad_occurrence__609",
-    "jad_occurrence__738",
-    "jad_occurrence__472"
-  ],
-  "Daniel 9:17 (AI)": [
-    "jad_occurrence__797"
-  ],
-  "Daniel 9:18-19 (AI)": [
-    "jad_occurrence__797"
-  ],
-  "Daniel 9:21 (AI)": [
-    "jad_occurrence__797"
-  ],
-  "Daniel 9:23 (AI)": [
-    "jad_occurrence__797"
-  ],
-  "Daniel 9:25 (AI)": [
-    "jad_occurrence__797"
-  ],
-  "Luke 21:21 (AI)": [
-    "jad_occurrence__261"
-  ],
-  "Psalm 28:5 (AI)": [
-    "jad_occurrence__415"
-  ],
-  "Psalm 28:6 (AI)": [
-    "jad_occurrence__415"
-  ],
-  "John 16:28 (AI)": [
-    "jad_occurrence__380"
-  ],
-  "John 10:17-18 (AI)": [
-    "jad_occurrence__380"
-  ],
-  "Acts 2:37 (AI)": [
-    "jad_occurrence__380"
-  ],
-  "Proverbs 1:28-29 (AI)": [
-    "jad_occurrence__380"
-  ],
-  "Psalms 110:1 (AI)": [
-    "jad_occurrence__380"
-  ],
-  "John 14:2-3 (AI)": [
-    "jad_occurrence__380"
-  ],
-  "Isaiah 45:1 (AI)": [
-    "jad_occurrence__602"
-  ],
-  "Numbers 25:9 (AI)": [
-    "jad_occurrence__611"
-  ],
-  "Zechariah 1:12-13 (AI)": [
-    "jad_occurrence__611"
-  ],
-  "Jeremiah 25:11-12 (AI)": [
-    "jad_occurrence__611"
-  ],
-  "Matthew 3:9 (AI)": [
-    "jad_occurrence__660"
-  ],
-  "Psalm 146:4 (AI)": [
-    "jad_occurrence__660"
-  ],
-  "Lamentations 3:10 (AI)": [
-    "jad_occurrence__145"
-  ],
-  "Jeremiah 50:17 (AI)": [
-    "jad_occurrence__145"
-  ],
-  "Ezekiel 16:13 (AI)": [
-    "jad_occurrence__183"
-  ],
-  "Psalm 45:2 (AI)": [
-    "jad_occurrence__183"
-  ],
-  "John 14:31 (AI)": [
-    "jad_occurrence__183"
-  ],
-  "Numbers 13-14 (AI)": [
-    "jad_occurrence__493"
-  ],
-  "Psalm 80:11 (AI)": [
-    "jad_occurrence__422"
-  ],
-  "Psalm 80:12 (AI)": [
-    "jad_occurrence__422",
-    "jad_occurrence__37"
-  ],
-  "Psalm 80:16 (AI)": [
-    "jad_occurrence__422"
-  ],
-  "Exodus 3:10 (AI)": [
-    "jad_occurrence__422"
-  ],
-  "Isaiah 53:1 (AI)": [
-    "jad_occurrence__610"
-  ],
-  "Amos 3:12 (AI)": [
-    "jad_occurrence__190"
-  ],
-  "Isaiah 1:24 (AI)": [
-    "jad_occurrence__719"
-  ],
-  "1 Timothy 2:4 (AI)": [
-    "jad_occurrence__719"
-  ],
-  "Acts 13:46 (AI)": [
-    "jad_occurrence__806",
-    "jad_occurrence__387",
-    "jad_occurrence__859",
-    "jad_occurrence__182"
-  ],
-  "Psalm 35:2 (AI)": [
-    "jad_occurrence__169"
-  ],
-  "Psalm 35:3 (AI)": [
-    "jad_occurrence__169"
-  ],
-  "2 Kings 4:1-7 (AI)": [
-    "jad_occurrence__603",
-    "jad_occurrence__385"
-  ],
-  "Matthew 27:28-30 (AI)": [
-    "jad_occurrence__207"
-  ],
-  "John 19:17 (AI)": [
-    "jad_occurrence__207"
-  ],
-  "Jeremiah 12:7-8 (AI)": [
-    "jad_occurrence__409",
-    "jad_occurrence__665"
-  ],
-  "Micah 1:6 (AI)": [
-    "jad_occurrence__507"
-  ],
-  "John 11:45-54 (AI)": [
-    "jad_occurrence__753"
-  ],
-  "Romans 15:17-19 (AI)": [
-    "jad_occurrence__679"
-  ],
-  "Romans 15:28-29 (AI)": [
-    "jad_occurrence__679"
-  ],
-  "Matthew 27:9 (AI)": [
-    "jad_occurrence__548"
-  ],
-  "Genesis 37:28 (AI)": [
-    "jad_occurrence__548"
-  ],
-  "Philippians 2:7 (AI)": [
-    "jad_occurrence__548"
-  ],
-  "Psalm 94:1 (AI)": [
-    "jad_occurrence__548"
-  ],
-  "Romans 6:10 (AI)": [
-    "jad_occurrence__548"
-  ],
-  "Deuteronomy 32:28-30 (AI)": [
-    "jad_occurrence__548"
-  ],
-  "Matthew 27:39-43 (AI)": [
-    "jad_occurrence__29"
-  ],
-  "Genesis 1:20-25 (AI)": [
-    "jad_occurrence__305"
-  ],
-  "Genesis 1:26-27 (AI)": [
-    "jad_occurrence__305"
-  ],
-  "John 19:34 (AI)": [
-    "jad_occurrence__305"
-  ],
-  "Jeremiah 49:24-27 (AI)": [
-    "jad_occurrence__582"
-  ],
-  "Isaiah 17:4 (AI)": [
-    "jad_occurrence__582"
-  ],
-  "Job 9:5 (AI)": [
-    "jad_occurrence__194"
-  ],
-  "Job 9:6 (AI)": [
-    "jad_occurrence__194"
-  ],
-  "Job 9:7 (AI)": [
-    "jad_occurrence__194"
-  ],
-  "Isaiah 19:19 (AI)": [
-    "jad_occurrence__50",
-    "jad_occurrence__393",
-    "jad_occurrence__737",
-    "jad_occurrence__896"
-  ],
-  "Psalm 71:16 (AI)": [
-    "jad_occurrence__268"
+  "Acts 2:43-47 (AI)": [
+    "jad_occurrence__713"
   ],
   "John 9:22 (AI)": [
     "jad_occurrence__714"
   ],
-  "John 8:23-24 (AI)": [
-    "jad_occurrence__193"
-  ],
-  "John 8:21 (AI)": [
-    "jad_occurrence__193"
-  ],
-  "Matthew 26:39 (AI)": [
-    "jad_occurrence__774"
-  ],
-  "Joshua 8 (AI)": [
-    "jad_occurrence__491"
-  ],
-  "Joshua 7 (AI)": [
-    "jad_occurrence__491"
-  ],
-  "Romans 11:11-12 (AI)": [
-    "jad_occurrence__65"
-  ],
-  "Hebrews 1:14 (AI)": [
-    "jad_occurrence__785"
-  ],
-  "Genesis 19:11 (AI)": [
-    "jad_occurrence__785"
-  ],
-  "Lamentations 4:6 (AI)": [
-    "jad_occurrence__785"
-  ],
-  "John 10:9 (AI)": [
-    "jad_occurrence__785"
-  ],
-  "Proverbs 23:1 (AI)": [
-    "jad_occurrence__160"
-  ],
-  "Matthew 22:42 (AI)": [
-    "jad_occurrence__160"
-  ],
-  "Matthew 22:46 (AI)": [
-    "jad_occurrence__160"
-  ],
-  "Hebrews 7:24 (AI)": [
-    "jad_occurrence__160"
-  ],
-  "Philippians 2:8 (AI)": [
-    "jad_occurrence__160"
-  ],
-  "2 Corinthians 13:4 (AI)": [
-    "jad_occurrence__160"
-  ],
-  "Matthew 7 (AI)": [
-    "jad_occurrence__274"
-  ],
-  "John 7:48-49 (AI)": [
-    "jad_occurrence__635"
-  ],
-  "Matthew 11:30 (AI)": [
-    "jad_occurrence__243",
-    "jad_occurrence__800"
-  ],
-  "Luke 23:28-31 (AI)": [
-    "jad_occurrence__473",
-    "jad_occurrence__386"
-  ],
-  "Acts 2:44-45 (AI)": [
-    "jad_occurrence__757"
-  ],
-  "1 Thessalonians 5:17 (AI)": [
-    "jad_occurrence__757"
-  ],
-  "Matthew 24:35 (AI)": [
-    "jad_occurrence__379"
-  ],
-  "Revelation 21:1 (AI)": [
-    "jad_occurrence__379"
-  ],
-  "Psalm 102:27 (AI)": [
-    "jad_occurrence__379"
-  ],
-  "2 Peter 3:9 (AI)": [
-    "jad_occurrence__379"
-  ],
-  "Isaiah 1:11 (AI)": [
-    "jad_occurrence__379"
-  ],
-  "Isaiah 1:13 (AI)": [
-    "jad_occurrence__379"
-  ],
-  "Lamentations 4:20 (AI)": [
-    "jad_occurrence__928"
-  ],
-  "2 Chronicles 35:25 (AI)": [
-    "jad_occurrence__928"
-  ],
-  "Psalm 2:1 (AI)": [
-    "jad_occurrence__928"
-  ],
-  "Zechariah 12:10 (AI)": [
-    "jad_occurrence__338",
-    "jad_occurrence__928"
-  ],
-  "Psalm 21:10 (AI)": [
-    "jad_occurrence__501",
-    "jad_occurrence__826"
-  ],
-  "John 13:2 (AI)": [
-    "jad_occurrence__20"
-  ],
-  "Book of Judges (AI)": [
-    "jad_occurrence__787"
-  ],
-  "John 12:19 (AI)": [
-    "jad_occurrence__404"
-  ],
-  "1 Samuel 2:30 (AI)": [
-    "jad_occurrence__404"
-  ],
-  "Matthew 18:35 (AI)": [
-    "jad_occurrence__870"
-  ],
-  "Exodus 12:1-28 (AI)": [
-    "jad_occurrence__549"
-  ],
-  "Joshua 1:1-6 (AI)": [
-    "jad_occurrence__843",
-    "jad_occurrence__549"
-  ],
-  "Matthew 27:24-25 (AI)": [
-    "jad_occurrence__549"
-  ],
-  "Matthew 3:10 (AI)": [
-    "jad_occurrence__721"
-  ],
-  "Joshua 7-8 (AI)": [
-    "jad_occurrence__655"
-  ],
-  "Luke 19:1-10 (AI)": [
-    "jad_occurrence__655"
-  ],
-  "Joshua 2:1-21 (AI)": [
-    "jad_occurrence__655"
-  ],
-  "Isaiah 3:6-7 (AI)": [
-    "jad_occurrence__482"
-  ],
-  "Isaiah 3:7 (AI)": [
-    "jad_occurrence__482"
-  ],
-  "Daniel 9:22-23 (AI)": [
-    "jad_occurrence__156"
-  ],
-  "Matthew 4:17 (AI)": [
-    "jad_occurrence__76"
-  ],
-  "Ezekiel 18:32 (AI)": [
-    "jad_occurrence__76"
-  ],
-  "Genesis 19:4 (AI)": [
-    "jad_occurrence__688"
-  ],
-  "Psalm 79:1 (AI)": [
-    "jad_occurrence__47"
-  ],
-  "Psalm 63:10 (AI)": [
-    "jad_occurrence__47",
-    "jad_occurrence__249"
-  ],
-  "Amos 1:12 (AI)": [
-    "jad_occurrence__341"
-  ],
-  "Romans 9:1-2 (AI)": [
-    "jad_occurrence__332"
-  ],
-  "Isaiah 6:5 (AI)": [
-    "jad_occurrence__540"
-  ],
-  "Luke 23:29-30 (AI)": [
-    "jad_occurrence__310"
-  ],
-  "Matthew 24:16 (AI)": [
-    "jad_occurrence__310"
-  ],
-  "Matthew 24:28 (AI)": [
-    "jad_occurrence__871"
-  ],
-  "Isaiah 40:31 (AI)": [
-    "jad_occurrence__871"
-  ],
-  "1 Thessalonians 4:15-17 (AI)": [
-    "jad_occurrence__871"
-  ],
-  "Luke 17:37 (AI)": [
-    "jad_occurrence__871"
-  ],
-  "Isaiah 3:14 (AI)": [
-    "jad_occurrence__871"
-  ],
-  "Luke 10:30-37 (AI)": [
-    "jad_occurrence__89"
-  ],
-  "Isaiah 29:9 (AI)": [
-    "jad_occurrence__439"
-  ],
-  "Deuteronomy 8:3 (AI)": [
-    "jad_occurrence__439"
-  ],
-  "John 4:14 (AI)": [
-    "jad_occurrence__439"
-  ],
-  "Psalm 23:2 (AI)": [
-    "jad_occurrence__439"
-  ],
-  "2 Samuel 8:14 (AI)": [
-    "jad_occurrence__203"
-  ],
-  "Proverbs 17:2 (AI)": [
-    "jad_occurrence__203"
-  ],
-  "Hebrews 12:16 (AI)": [
-    "jad_occurrence__203"
-  ],
-  "Jeremiah 23:1 (AI)": [
-    "jad_occurrence__222"
-  ],
-  "John 11:42-54 (AI)": [
-    "jad_occurrence__658"
-  ],
-  "Isaiah 42:24 (AI)": [
-    "jad_occurrence__786"
-  ],
-  "Isaiah 42:25 (AI)": [
-    "jad_occurrence__786"
-  ],
-  "Acts 12:21-23 (AI)": [
-    "jad_occurrence__777"
-  ],
-  "Acts 25:13 (AI)": [
-    "jad_occurrence__777"
-  ],
-  "Matthew 2:16 (AI)": [
-    "jad_occurrence__911",
-    "jad_occurrence__777"
-  ],
-  "Matthew 14:1-12 (AI)": [
-    "jad_occurrence__613",
-    "jad_occurrence__777"
-  ],
-  "Zechariah 11:1-2 (AI)": [
-    "jad_occurrence__430"
-  ],
-  "John 16:5 (AI)": [
-    "jad_occurrence__893"
-  ],
-  "Isaiah 65:20 (AI)": [
-    "jad_occurrence__893"
-  ],
-  "Psalm 53:6 (AI)": [
-    "jad_occurrence__174"
-  ],
-  "Psalm 14:6 (AI)": [
-    "jad_occurrence__174"
-  ],
-  "2 Corinthians 8:9 (AI)": [
-    "jad_occurrence__174"
-  ],
-  "2 Chronicles 35:24-25 (AI)": [
-    "jad_occurrence__141"
-  ],
-  "Jeremiah 22:10 (AI)": [
-    "jad_occurrence__141"
-  ],
-  "2 Kings 2:23-25 (AI)": [
-    "jad_occurrence__466",
-    "jad_occurrence__651"
-  ],
-  "Revelation 11:8 (AI)": [
-    "jad_occurrence__466"
-  ],
-  "Psalms 46:4 (AI)": [
-    "jad_occurrence__466"
-  ],
-  "Isaiah 49:20 (AI)": [
-    "jad_occurrence__466"
-  ],
-  "Isaiah 53:9 (AI)": [
-    "jad_occurrence__466"
-  ],
-  "Micah 5:1 (AI)": [
-    "jad_occurrence__325"
-  ],
-  "Micah 4:1-2 (AI)": [
-    "jad_occurrence__325"
-  ],
-  "2 Samuel 5:7-9 (AI)": [
-    "jad_occurrence__49"
-  ],
-  "John 19:41-42 (AI)": [
-    "jad_occurrence__49"
-  ],
-  "Psalm 22:16 (AI)": [
-    "jad_occurrence__906"
-  ],
-  "Exodus 12:6 (AI)": [
-    "jad_occurrence__906"
-  ],
-  "John 9:29 (AI)": [
-    "jad_occurrence__476"
-  ],
-  "Exodus 14 (AI)": [
-    "jad_occurrence__71",
-    "jad_occurrence__912"
-  ],
-  "Genesis 4:3-5 (AI)": [
-    "jad_occurrence__250",
-    "jad_occurrence__164"
-  ],
-  "1 Samuel 15:22 (AI)": [
-    "jad_occurrence__250",
-    "jad_occurrence__164"
-  ],
-  "Daniel 9:25-26 (AI)": [
-    "jad_occurrence__406"
-  ],
-  "Zephaniah 1:13 (AI)": [
-    "jad_occurrence__527"
-  ],
-  "Zephaniah 1:17 (AI)": [
-    "jad_occurrence__527"
-  ],
-  "1 Corinthians 13:12 (AI)": [
-    "jad_occurrence__722"
-  ],
-  "Romans 11:7 (AI)": [
-    "jad_occurrence__722"
-  ],
-  "Isaiah 65:15 (AI)": [
-    "jad_occurrence__722"
-  ],
-  "Matthew 26:66 (AI)": [
-    "jad_occurrence__705"
-  ],
-  "Mark 14:58 (AI)": [
-    "jad_occurrence__705"
-  ],
-  "Hebrews 6:4-6 (AI)": [
-    "jad_occurrence__705"
-  ],
-  "Amos 3:6 (AI)": [
-    "jad_occurrence__484",
-    "jad_occurrence__318"
-  ],
-  "1 John 5:19 (AI)": [
-    "jad_occurrence__318"
-  ],
-  "Amos 3:7 (AI)": [
-    "jad_occurrence__318"
-  ],
-  "Isaiah 3:3 (AI)": [
-    "jad_occurrence__706"
-  ],
-  "Daniel 9:14 (AI)": [
-    "jad_occurrence__916",
-    "jad_occurrence__919"
-  ],
-  "Psalm 137:1 (AI)": [
-    "jad_occurrence__424",
-    "jad_occurrence__916"
-  ],
-  "Ephesians 5:15 (AI)": [
-    "jad_occurrence__916"
-  ],
-  "Ephesians 5:18-19 (AI)": [
-    "jad_occurrence__916"
-  ],
-  "Psalm 145:15 (AI)": [
-    "jad_occurrence__916"
-  ],
-  "Psalm 119:49 (AI)": [
-    "jad_occurrence__916"
-  ],
-  "Isaiah 9:12 (AI)": [
-    "jad_occurrence__689",
-    "jad_occurrence__693"
-  ],
-  "Luke 17:26-29 (AI)": [
-    "jad_occurrence__825"
-  ],
-  "Ezekiel 16:49 (AI)": [
-    "jad_occurrence__825"
-  ],
-  "Matthew 21:18-19 (AI)": [
-    "jad_occurrence__629"
-  ],
-  "Matthew 21:8-11 (AI)": [
-    "jad_occurrence__629"
-  ],
-  "Luke 19:39-40 (AI)": [
-    "jad_occurrence__629"
-  ],
-  "Matthew 21:12-13 (AI)": [
-    "jad_occurrence__629",
-    "jad_occurrence__165"
-  ],
-  "Jeremiah 52:12-14 (AI)": [
-    "jad_occurrence__165"
-  ],
-  "Matthew 24:14 (AI)": [
-    "jad_occurrence__656"
-  ],
-  "Psalm 76:1 (AI)": [
-    "jad_occurrence__656"
-  ],
-  "2 Thessalonians 2:3-4 (AI)": [
-    "jad_occurrence__656"
-  ],
-  "John 19:2-3 (AI)": [
-    "jad_occurrence__599"
-  ],
-  "Isaiah 64:10-11 (AI)": [
-    "jad_occurrence__177",
-    "jad_occurrence__202"
-  ],
-  "Isaiah 6:9-10 (AI)": [
-    "jad_occurrence__437"
-  ],
-  "Isaiah 6:11-12 (AI)": [
-    "jad_occurrence__437"
-  ],
-  "1 Corinthians 15:32 (AI)": [
-    "jad_occurrence__498"
-  ],
-  "John 18:11 (AI)": [
-    "jad_occurrence__123"
-  ],
-  "Luke 22:51 (AI)": [
-    "jad_occurrence__123"
-  ],
-  "John 3:5 (AI)": [
-    "jad_occurrence__338"
-  ],
-  "Zechariah 12:11 (AI)": [
-    "jad_occurrence__338"
-  ],
-  "Psalm 74:6-7 (AI)": [
-    "jad_occurrence__697"
-  ],
-  "Jeremiah 50:11 (AI)": [
-    "jad_occurrence__697"
-  ],
-  "Matthew 13:39 (AI)": [
-    "jad_occurrence__697"
-  ],
-  "Isaiah 26:19 (AI)": [
-    "jad_occurrence__697"
-  ],
-  "Isaiah 26:5 (AI)": [
-    "jad_occurrence__443"
-  ],
-  "Matthew 24:9 (AI)": [
-    "jad_occurrence__137"
-  ],
-  "Judges 8:6-9 (AI)": [
-    "jad_occurrence__121"
-  ],
-  "1 Kings 2:23-24 (AI)": [
-    "jad_occurrence__121"
-  ],
-  "Matthew 24:6-8 (AI)": [
-    "jad_occurrence__402"
-  ],
-  "Psalm 57 (AI)": [
-    "jad_occurrence__175",
-    "jad_occurrence__832"
-  ],
-  "Psalm 59 (AI)": [
-    "jad_occurrence__832"
-  ],
-  "Nehemiah 6:15 (AI)": [
-    "jad_occurrence__756"
-  ],
-  "Ezra 7:7 (AI)": [
-    "jad_occurrence__756"
-  ],
-  "Romans 9:3 (AI)": [
-    "jad_occurrence__586"
-  ],
-  "Jeremiah 29:4-7 (AI)": [
-    "jad_occurrence__586"
-  ],
-  "Psalm 74:1 (AI)": [
-    "jad_occurrence__424",
-    "jad_occurrence__418"
-  ],
-  "Romans 12:15 (AI)": [
-    "jad_occurrence__418"
-  ],
-  "Genesis 19:24 (AI)": [
-    "jad_occurrence__354",
-    "jad_occurrence__481"
-  ],
-  "Zephaniah 1:11 (AI)": [
-    "jad_occurrence__526"
-  ],
-  "Romans 11:12 (AI)": [
-    "jad_occurrence__701"
-  ],
-  "Numbers 14:29-30 (AI)": [
-    "jad_occurrence__530"
-  ],
-  "Jeremiah 40:8-9 (AI)": [
-    "jad_occurrence__530"
-  ],
-  "Zechariah 8:20-21 (AI)": [
-    "jad_occurrence__530"
-  ],
-  "Luke 13 (AI)": [
-    "jad_occurrence__66"
-  ],
-  "Isaiah 59:19 (AI)": [
-    "jad_occurrence__543"
-  ],
-  "Matthew 23:13 (AI)": [
-    "jad_occurrence__309",
-    "jad_occurrence__307"
-  ],
-  "Exodus 16:4 (AI)": [
-    "jad_occurrence__71"
-  ],
-  "Exodus 17:6 (AI)": [
-    "jad_occurrence__71"
-  ],
-  "Ephesians 3:19 (AI)": [
-    "jad_occurrence__815"
-  ],
-  "Isaiah 66:12 (AI)": [
-    "jad_occurrence__815"
-  ],
-  "Zechariah 1:18-21 (AI)": [
-    "jad_occurrence__456",
-    "jad_occurrence__5"
-  ],
-  "Ezekiel 16 (AI)": [
-    "jad_occurrence__57"
-  ],
-  "Isaiah 65:10-12 (AI)": [
-    "jad_occurrence__490"
-  ],
-  "Joshua 7:26 (AI)": [
-    "jad_occurrence__490"
-  ],
-  "John 19:21 (AI)": [
-    "jad_occurrence__175"
-  ],
-  "Psalm 50:19 (AI)": [
-    "jad_occurrence__449"
-  ],
-  "Luke 1:78 (AI)": [
-    "jad_occurrence__654"
-  ],
-  "Ezekiel 6:3-4 (AI)": [
-    "jad_occurrence__444"
-  ],
-  "Luke 14:28-30 (AI)": [
-    "jad_occurrence__444"
-  ],
-  "Job 9:34 (AI)": [
-    "jad_occurrence__438"
-  ],
-  "Job 1:11 (AI)": [
-    "jad_occurrence__438"
-  ],
-  "Psalm 78:1 (AI)": [
-    "jad_occurrence__424"
-  ],
-  "Galatians 5:17 (AI)": [
-    "jad_occurrence__424"
-  ],
-  "John 19:30 (AI)": [
-    "jad_occurrence__253"
-  ],
-  "Lamentations 1:15 (AI)": [
-    "jad_occurrence__253"
-  ],
-  "1 Samuel 4:17 (AI)": [
-    "jad_occurrence__253"
-  ],
-  "Luke 11:50-51 (AI)": [
-    "jad_occurrence__577"
-  ],
-  "Ezekiel 36:21-25 (AI)": [
-    "jad_occurrence__577"
-  ],
-  "Psalm 51:10 (AI)": [
-    "jad_occurrence__577"
-  ],
-  "Zechariah 6:1-3 (AI)": [
-    "jad_occurrence__456"
-  ],
-  "Isaiah 5:2 (AI)": [
-    "jad_occurrence__281"
-  ],
-  "Luke 24:21 (AI)": [
-    "jad_occurrence__889"
-  ],
-  "Psalm 121:1 (AI)": [
-    "jad_occurrence__769"
-  ],
-  "Psalm 125:2 (AI)": [
-    "jad_occurrence__769"
-  ],
-  "Matthew 5:14 (AI)": [
-    "jad_occurrence__769"
-  ],
-  "Isaiah 26:18 (AI)": [
-    "jad_occurrence__769"
-  ],
-  "Matthew 23:27 (AI)": [
-    "jad_occurrence__152"
-  ],
-  "Ezekiel 5:1 (AI)": [
-    "jad_occurrence__228"
-  ],
-  "Matthew 22:2 (AI)": [
-    "jad_occurrence__919"
-  ],
-  "Psalm 19:5 (AI)": [
-    "jad_occurrence__919"
-  ],
-  "Luke 12:36 (AI)": [
-    "jad_occurrence__919"
-  ],
-  "Matthew 25:10 (AI)": [
-    "jad_occurrence__919"
-  ],
-  "Matthew 23:8 (AI)": [
-    "jad_occurrence__499"
-  ],
-  "1 Kings 20:11 (AI)": [
-    "jad_occurrence__590"
-  ],
-  "Genesis 9:27 (AI)": [
-    "jad_occurrence__229"
-  ],
-  "John 1:12 (AI)": [
-    "jad_occurrence__139"
-  ],
-  "Jeremiah 36:30 (AI)": [
-    "jad_occurrence__115"
-  ],
-  "Acts of the Apostles 12:21-23 (AI)": [
-    "jad_occurrence__882"
-  ],
-  "Colossians 2:3 (AI)": [
-    "jad_occurrence__420"
-  ],
-  "Psalm 68:1 (AI)": [
-    "jad_occurrence__420",
-    "jad_occurrence__827"
-  ],
-  "Psalm 139:8 (AI)": [
-    "jad_occurrence__420"
-  ],
-  "Romans 10:21 (AI)": [
-    "jad_occurrence__177"
-  ],
-  "Mark 1:12-13 (AI)": [
-    "jad_occurrence__910"
-  ],
-  "Matthew 4:2 (AI)": [
-    "jad_occurrence__910"
-  ],
-  "Matthew 27:57-60 (AI)": [
-    "jad_occurrence__910"
+  "Habakkuk 3:3 (AI)": [
+    "jad_occurrence__715"
   ],
   "Psalm 69:26 (AI)": [
     "jad_occurrence__716"
@@ -3578,21 +3261,77 @@
   "Romans 13:1 (AI)": [
     "jad_occurrence__716"
   ],
-  "Isaiah 6:11 (AI)": [
-    "jad_occurrence__691",
-    "jad_occurrence__208"
+  "Romans 13:8-10 (AI)": [
+    "jad_occurrence__717"
   ],
-  "Isaiah 6:12 (AI)": [
-    "jad_occurrence__691"
+  "Philippians 2:9-10 (AI)": [
+    "jad_occurrence__718"
   ],
-  "Isaiah 6:13 (AI)": [
-    "jad_occurrence__691"
+  "Isaiah 1:24 (AI)": [
+    "jad_occurrence__719"
+  ],
+  "Ezekiel 18:23 (AI)": [
+    "jad_occurrence__719",
+    "jad_occurrence__846"
+  ],
+  "1 Timothy 2:4 (AI)": [
+    "jad_occurrence__719"
   ],
   "Isaiah 7:8 (AI)": [
     "jad_occurrence__720"
   ],
   "Isaiah 7:9 (AI)": [
     "jad_occurrence__720"
+  ],
+  "Matthew 27:54 (AI)": [
+    "jad_occurrence__721",
+    "jad_occurrence__736"
+  ],
+  "Matthew 3:10 (AI)": [
+    "jad_occurrence__721"
+  ],
+  "1 Corinthians 13:12 (AI)": [
+    "jad_occurrence__722"
+  ],
+  "Romans 11:7 (AI)": [
+    "jad_occurrence__722"
+  ],
+  "Romans 2:24 (AI)": [
+    "jad_occurrence__905",
+    "jad_occurrence__722"
+  ],
+  "Isaiah 65:15 (AI)": [
+    "jad_occurrence__722"
+  ],
+  "Psalm 74:1-12 (AI)": [
+    "jad_occurrence__725"
+  ],
+  "Psalm 80:15 (AI)": [
+    "jad_occurrence__727"
+  ],
+  "Zechariah 8:19 (AI)": [
+    "jad_occurrence__731"
+  ],
+  "Exodus 32:19 (AI)": [
+    "jad_occurrence__731"
+  ],
+  "Jeremiah 39:2 (AI)": [
+    "jad_occurrence__731"
+  ],
+  "John 3:18 (AI)": [
+    "jad_occurrence__734"
+  ],
+  "John 19:12 (AI)": [
+    "jad_occurrence__735"
+  ],
+  "Matthew 27:26 (AI)": [
+    "jad_occurrence__735"
+  ],
+  "Matthew 27:53 (AI)": [
+    "jad_occurrence__736"
+  ],
+  "Luke 23:46 (AI)": [
+    "jad_occurrence__736"
   ],
   "Ecclesiastes 10:1 (AI)": [
     "jad_occurrence__738"
@@ -3636,39 +3375,307 @@
   "Job 39:9 (Hebrew Text) (AI)": [
     "jad_occurrence__738"
   ],
-  "Exodus 15:1 (AI)": [
-    "jad_occurrence__181"
+  "Psalm 80:9 (AI)": [
+    "jad_occurrence__739"
   ],
-  "Isaiah 15:4 (AI)": [
-    "jad_occurrence__696"
+  "Psalm 81:1 (AI)": [
+    "jad_occurrence__739"
   ],
-  "Isaiah 5:7 (AI)": [
-    "jad_occurrence__840",
-    "jad_occurrence__696"
+  "John 1:1 (AI)": [
+    "jad_occurrence__739"
   ],
-  "Exodus 16 (AI)": [
-    "jad_occurrence__843"
+  "Genesis 1:26 (AI)": [
+    "jad_occurrence__739"
   ],
-  "Genesis 46 (AI)": [
-    "jad_occurrence__843"
+  "Genesis 17:1 (AI)": [
+    "jad_occurrence__739"
   ],
-  "Jeremiah 29:10 (AI)": [
-    "jad_occurrence__843"
+  "Exodus 7:1 (AI)": [
+    "jad_occurrence__739"
   ],
-  "John 12:31 (AI)": [
-    "jad_occurrence__661"
+  "Matthew 24:19-21 (AI)": [
+    "jad_occurrence__886",
+    "jad_occurrence__743"
   ],
-  "Matthew 12:21 (AI)": [
-    "jad_occurrence__661"
+  "Ezekiel 18:23,32 (AI)": [
+    "jad_occurrence__743"
   ],
-  "Isaiah 11:10 (AI)": [
-    "jad_occurrence__661"
+  "Psalms 2:8 (AI)": [
+    "jad_occurrence__744"
   ],
-  "Luke 10:11 (AI)": [
-    "jad_occurrence__455"
+  "Romans 10:18 (AI)": [
+    "jad_occurrence__744",
+    "jad_occurrence__846",
+    "jad_occurrence__758"
   ],
-  "Luke 14:11 (AI)": [
-    "jad_occurrence__455"
+  "Philippians 4:3 (AI)": [
+    "jad_occurrence__747"
+  ],
+  "Nehemiah (AI)": [
+    "jad_occurrence__749"
+  ],
+  "John 11:45-54 (AI)": [
+    "jad_occurrence__753"
+  ],
+  "Nehemiah 6:15 (AI)": [
+    "jad_occurrence__756"
+  ],
+  "Ezra 7:7 (AI)": [
+    "jad_occurrence__756"
+  ],
+  "Acts 2:44-45 (AI)": [
+    "jad_occurrence__757"
+  ],
+  "1 Thessalonians 5:17 (AI)": [
+    "jad_occurrence__757"
+  ],
+  "Psalm 2:8 (AI)": [
+    "jad_occurrence__846",
+    "jad_occurrence__758"
+  ],
+  "1 Corinthians 12:4-10 (AI)": [
+    "jad_occurrence__761"
+  ],
+  "Isaiah 10:5-15 (AI)": [
+    "jad_occurrence__763"
+  ],
+  "Daniel 4:30-33 (AI)": [
+    "jad_occurrence__763"
+  ],
+  "Psalm 79:6 (AI)": [
+    "jad_occurrence__763"
+  ],
+  "Psalm 74:11 (AI)": [
+    "jad_occurrence__763"
+  ],
+  "Genesis 15:16 (AI)": [
+    "jad_occurrence__763"
+  ],
+  "2 Samuel 24:2 (AI)": [
+    "jad_occurrence__765"
+  ],
+  "2 Samuel 24:8-9 (AI)": [
+    "jad_occurrence__765"
+  ],
+  "Genesis 26:2-4 (AI)": [
+    "jad_occurrence__765"
+  ],
+  "2 Timothy 3:1-5 (AI)": [
+    "jad_occurrence__767"
+  ],
+  "Psalm 121:1 (AI)": [
+    "jad_occurrence__769"
+  ],
+  "Psalm 125:2 (AI)": [
+    "jad_occurrence__769"
+  ],
+  "Matthew 5:14 (AI)": [
+    "jad_occurrence__769"
+  ],
+  "Isaiah 26:18 (AI)": [
+    "jad_occurrence__769"
+  ],
+  "1 Corinthians 1:18 (AI)": [
+    "jad_occurrence__771"
+  ],
+  "Genesis 9:20-25 (AI)": [
+    "jad_occurrence__771"
+  ],
+  "Matthew 26:39 (AI)": [
+    "jad_occurrence__774"
+  ],
+  "Luke 13:3 (AI)": [
+    "jad_occurrence__775"
+  ],
+  "Acts 12:21-23 (AI)": [
+    "jad_occurrence__777"
+  ],
+  "Acts 25:13 (AI)": [
+    "jad_occurrence__777"
+  ],
+  "Matthew 2:16 (AI)": [
+    "jad_occurrence__911",
+    "jad_occurrence__777"
+  ],
+  "Psalm 18:10 (AI)": [
+    "jad_occurrence__780"
+  ],
+  "Psalm 5:11 (AI)": [
+    "jad_occurrence__780"
+  ],
+  "Isaiah 4:6 (AI)": [
+    "jad_occurrence__780"
+  ],
+  "Lamentations 1:12 (AI)": [
+    "jad_occurrence__781"
+  ],
+  "Isaiah 3:16 (AI)": [
+    "jad_occurrence__784"
+  ],
+  "Isaiah 3:17 (AI)": [
+    "jad_occurrence__784"
+  ],
+  "Isaiah 3:18 (AI)": [
+    "jad_occurrence__784"
+  ],
+  "Hebrews 1:14 (AI)": [
+    "jad_occurrence__785"
+  ],
+  "Genesis 19:11 (AI)": [
+    "jad_occurrence__785"
+  ],
+  "Lamentations 4:6 (AI)": [
+    "jad_occurrence__785"
+  ],
+  "John 10:9 (AI)": [
+    "jad_occurrence__785"
+  ],
+  "Isaiah 42:24 (AI)": [
+    "jad_occurrence__786"
+  ],
+  "Isaiah 42:25 (AI)": [
+    "jad_occurrence__786"
+  ],
+  "Book of Judges (AI)": [
+    "jad_occurrence__787"
+  ],
+  "Isaiah 61:2-3 (AI)": [
+    "jad_occurrence__788"
+  ],
+  "Isaiah 59:17 (AI)": [
+    "jad_occurrence__789"
+  ],
+  "Isaiah 10:5-7 (AI)": [
+    "jad_occurrence__793"
+  ],
+  "Exodus 38:1-7 (AI)": [
+    "jad_occurrence__794"
+  ],
+  "2 Chronicles 4:2-5 (AI)": [
+    "jad_occurrence__794"
+  ],
+  "Psalm 45:7 (AI)": [
+    "jad_occurrence__796"
+  ],
+  "Leviticus 19:2 (AI)": [
+    "jad_occurrence__796"
+  ],
+  "Daniel 9:17 (AI)": [
+    "jad_occurrence__797"
+  ],
+  "Daniel 9:18-19 (AI)": [
+    "jad_occurrence__797"
+  ],
+  "Daniel 9:21 (AI)": [
+    "jad_occurrence__797"
+  ],
+  "Daniel 9:23 (AI)": [
+    "jad_occurrence__797"
+  ],
+  "Daniel 9:25 (AI)": [
+    "jad_occurrence__797"
+  ],
+  "John 8:48 (AI)": [
+    "jad_occurrence__799"
+  ],
+  "Psalm 79:13 (AI)": [
+    "jad_occurrence__803"
+  ],
+  "Psalm 96:12 (AI)": [
+    "jad_occurrence__803"
+  ],
+  "1 Chronicles 16:1 (AI)": [
+    "jad_occurrence__803"
+  ],
+  "Revelation 22:11 (AI)": [
+    "jad_occurrence__804"
+  ],
+  "Genesis 49:17 (AI)": [
+    "jad_occurrence__805"
+  ],
+  "Isaiah 14:14 (AI)": [
+    "jad_occurrence__808"
+  ],
+  "1 Chronicles 22:8 (AI)": [
+    "jad_occurrence__809"
+  ],
+  "Isaiah 10:16 (AI)": [
+    "jad_occurrence__810"
+  ],
+  "1 Kings 12:16 (AI)": [
+    "jad_occurrence__810"
+  ],
+  "Hosea 10:3 (AI)": [
+    "jad_occurrence__810"
+  ],
+  "Proverbs 1:26 (AI)": [
+    "jad_occurrence__811"
+  ],
+  "Ephesians 3:19 (AI)": [
+    "jad_occurrence__815"
+  ],
+  "Isaiah 66:12 (AI)": [
+    "jad_occurrence__815"
+  ],
+  "Acts 11:28 (AI)": [
+    "jad_occurrence__819"
+  ],
+  "Luke 17:26-29 (AI)": [
+    "jad_occurrence__825"
+  ],
+  "Ezekiel 16:49 (AI)": [
+    "jad_occurrence__825"
+  ],
+  "Malachi 4:1 (AI)": [
+    "jad_occurrence__826"
+  ],
+  "Psalm 21:9 (AI)": [
+    "jad_occurrence__826"
+  ],
+  "Psalm 21:11 (AI)": [
+    "jad_occurrence__826"
+  ],
+  "John 15:24 (AI)": [
+    "jad_occurrence__827"
+  ],
+  "Isaiah 63:4 (AI)": [
+    "jad_occurrence__827"
+  ],
+  "Jeremiah 29:10-14 (AI)": [
+    "jad_occurrence__830"
+  ],
+  "Amos 1:3, 1:6, 1:9, 1:11 (AI)": [
+    "jad_occurrence__830"
+  ],
+  "Psalm 59 (AI)": [
+    "jad_occurrence__832"
+  ],
+  "Psalm 109:8 (AI)": [
+    "jad_occurrence__835"
+  ],
+  "Psalm 68:25 (AI)": [
+    "jad_occurrence__835"
+  ],
+  "Isaiah 52:8 (AI)": [
+    "jad_occurrence__835"
+  ],
+  "Psalm 118:24 (AI)": [
+    "jad_occurrence__836"
+  ],
+  "Joel 2:32 (AI)": [
+    "jad_occurrence__836"
+  ],
+  "Ecclesiasticus 2:10 (AI)": [
+    "jad_occurrence__836"
+  ],
+  "Jeremiah 52 (AI)": [
+    "jad_occurrence__837"
+  ],
+  "Isaiah 39:7 (AI)": [
+    "jad_occurrence__837"
+  ],
+  "Acts 6:7 (AI)": [
+    "jad_occurrence__838"
   ],
   "Deuteronomy 14:2 (AI)": [
     "jad_occurrence__840"
@@ -3688,233 +3695,254 @@
   "Acts 4:32 (AI)": [
     "jad_occurrence__840"
   ],
-  "Malachi 4:1 (AI)": [
-    "jad_occurrence__826"
+  "Exodus 16 (AI)": [
+    "jad_occurrence__843"
   ],
-  "Psalm 21:9 (AI)": [
-    "jad_occurrence__826"
+  "Genesis 46 (AI)": [
+    "jad_occurrence__843"
   ],
-  "Psalm 21:11 (AI)": [
-    "jad_occurrence__826"
+  "Jeremiah 29:10 (AI)": [
+    "jad_occurrence__843"
   ],
-  "Psalms 79:13 (AI)": [
-    "jad_occurrence__68"
+  "Sirach 27:12 (AI)": [
+    "jad_occurrence__846"
   ],
-  "Job 1:20 (AI)": [
-    "jad_occurrence__389"
+  "Exodus 32:1-4 (AI)": [
+    "jad_occurrence__849"
   ],
-  "Mark 15:33 (AI)": [
-    "jad_occurrence__389"
+  "Exodus 32:19-20 (AI)": [
+    "jad_occurrence__849"
   ],
-  "Isaiah 9:2 (AI)": [
-    "jad_occurrence__389"
+  "Deuteronomy 28:13 (AI)": [
+    "jad_occurrence__849"
+  ],
+  "Daniel 7:13 (AI)": [
+    "jad_occurrence__850"
+  ],
+  "1 Kings 9:7-8 (AI)": [
+    "jad_occurrence__851"
+  ],
+  "Ecclesiastes 1:2 (AI)": [
+    "jad_occurrence__854"
+  ],
+  "Psalm 74:3 (AI)": [
+    "jad_occurrence__856"
+  ],
+  "Psalms 14:5 (AI)": [
+    "jad_occurrence__861"
+  ],
+  "Psalms 14:6 (AI)": [
+    "jad_occurrence__861"
+  ],
+  "Psalm 35:1-3 (AI)": [
+    "jad_occurrence__863"
+  ],
+  "Psalm 3:2 (AI)": [
+    "jad_occurrence__863"
+  ],
+  "Romans 6:21 (AI)": [
+    "jad_occurrence__863"
+  ],
+  "John 19:6 (AI)": [
+    "jad_occurrence__863"
+  ],
+  "Psalm 2:6 (AI)": [
+    "jad_occurrence__864"
+  ],
+  "Psalm 87:1-2 (AI)": [
+    "jad_occurrence__864"
+  ],
+  "Psalm 147:12-13 (AI)": [
+    "jad_occurrence__864"
+  ],
+  "Matthew 24:23-25 (AI)": [
+    "jad_occurrence__866"
+  ],
+  "Mark 13:21-23 (AI)": [
+    "jad_occurrence__866"
+  ],
+  "2 Thessalonians 2:9-10 (AI)": [
+    "jad_occurrence__866"
+  ],
+  "Psalm 18:25-26 (AI)": [
+    "jad_occurrence__867"
+  ],
+  "Psalm 44:3 (AI)": [
+    "jad_occurrence__867"
   ],
   "Genesis 1:2 (AI)": [
     "jad_occurrence__869"
   ],
-  "Isaiah 7:18 (AI)": [
-    "jad_occurrence__216"
+  "Matthew 18:35 (AI)": [
+    "jad_occurrence__870"
   ],
-  "2 Kings 24:7 (AI)": [
-    "jad_occurrence__216"
+  "Matthew 24:28 (AI)": [
+    "jad_occurrence__871"
   ],
-  "Psalm (AI)": [
-    "jad_occurrence__378"
+  "Isaiah 40:31 (AI)": [
+    "jad_occurrence__871"
   ],
-  "John 19:12 (AI)": [
-    "jad_occurrence__735"
+  "1 Thessalonians 4:15-17 (AI)": [
+    "jad_occurrence__871"
   ],
-  "Matthew 27:26 (AI)": [
-    "jad_occurrence__735"
+  "Luke 17:37 (AI)": [
+    "jad_occurrence__871"
   ],
-  "John 15:24 (AI)": [
-    "jad_occurrence__827"
+  "Isaiah 3:14 (AI)": [
+    "jad_occurrence__871"
   ],
-  "Isaiah 63:4 (AI)": [
-    "jad_occurrence__827"
+  "Acts 5:37 (AI)": [
+    "jad_occurrence__873"
   ],
-  "Philippians 2:9-10 (AI)": [
-    "jad_occurrence__718"
+  "Proverbs 24:16 (AI)": [
+    "jad_occurrence__874"
   ],
-  "Genesis 49:8-12 (AI)": [
-    "jad_occurrence__879"
+  "Jeremiah 9:21 (AI)": [
+    "jad_occurrence__875"
   ],
-  "Matthew 27:62-66 (AI)": [
-    "jad_occurrence__77"
+  "Jeremiah 9:15-16 (AI)": [
+    "jad_occurrence__875"
   ],
-  "Genesis 49:10 (AI)": [
-    "jad_occurrence__917",
-    "jad_occurrence__878",
-    "jad_occurrence__587"
-  ],
-  "Luke 13:34-35 (AI)": [
-    "jad_occurrence__917"
-  ],
-  "Psalm 69:28 (AI)": [
-    "jad_occurrence__917"
-  ],
-  "Isaiah 14:1-2 (AI)": [
-    "jad_occurrence__88"
-  ],
-  "Isaiah 60:10 (AI)": [
-    "jad_occurrence__88"
-  ],
-  "Isaiah 14:3 (AI)": [
-    "jad_occurrence__88"
-  ],
-  "Isaiah 14:4 (AI)": [
-    "jad_occurrence__88"
-  ],
-  "Romans 9:4-5 (AI)": [
-    "jad_occurrence__196"
-  ],
-  "Jeremiah 12:8 (AI)": [
-    "jad_occurrence__196"
-  ],
-  "Isaiah 29:1 (AI)": [
-    "jad_occurrence__196"
-  ],
-  "Revelation 3:20 (AI)": [
-    "jad_occurrence__436"
-  ],
-  "Philippians 2:6-8 (AI)": [
-    "jad_occurrence__405"
-  ],
-  "Revelation 19:15 (AI)": [
-    "jad_occurrence__187"
-  ],
-  "Revelation 19:16 (AI)": [
-    "jad_occurrence__187"
-  ],
-  "Isaiah 5:1-2 (AI)": [
-    "jad_occurrence__187"
-  ],
-  "Deuteronomy 32:32 (AI)": [
-    "jad_occurrence__187"
-  ],
-  "Deuteronomy 32:34 (AI)": [
-    "jad_occurrence__187"
-  ],
-  "Isaiah 3:16 (AI)": [
-    "jad_occurrence__784"
-  ],
-  "Isaiah 3:17 (AI)": [
-    "jad_occurrence__784"
-  ],
-  "Isaiah 3:18 (AI)": [
-    "jad_occurrence__784"
-  ],
-  "Psalm 51:17 (AI)": [
-    "jad_occurrence__460"
-  ],
-  "Isaiah 29:1-2 (AI)": [
-    "jad_occurrence__441"
-  ],
-  "Jeremiah 31:2 (AI)": [
-    "jad_occurrence__120"
-  ],
-  "Hebrews 10:30 (AI)": [
-    "jad_occurrence__120"
-  ],
-  "Daniel 9:2 (AI)": [
-    "jad_occurrence__120"
-  ],
-  "Jeremiah 15:17 (AI)": [
-    "jad_occurrence__120"
+  "Jeremiah 15:2-3 (AI)": [
+    "jad_occurrence__875"
   ],
   "Hosea 3:4 (AI)": [
     "jad_occurrence__878"
   ],
-  "Matthew 22:16 (AI)": [
-    "jad_occurrence__525"
+  "Genesis 49:8-12 (AI)": [
+    "jad_occurrence__879"
   ],
-  "Matthew 27:30 (AI)": [
-    "jad_occurrence__525"
+  "Isaiah 13:19 (AI)": [
+    "jad_occurrence__881"
   ],
-  "Micah 5:2 (AI)": [
-    "jad_occurrence__525"
+  "Ezra 1:1-4 (AI)": [
+    "jad_occurrence__881"
   ],
-  "Psalm 109:8 (AI)": [
-    "jad_occurrence__835"
+  "Job 12:21-24 (AI)": [
+    "jad_occurrence__881"
   ],
-  "Psalm 68:25 (AI)": [
-    "jad_occurrence__835"
+  "Revelation 18:5 (AI)": [
+    "jad_occurrence__881"
   ],
-  "Isaiah 52:8 (AI)": [
-    "jad_occurrence__835"
+  "1 Kings 21:3 (AI)": [
+    "jad_occurrence__881"
   ],
-  "Isaiah 66:10-11 (AI)": [
-    "jad_occurrence__488"
+  "Acts 20:24 (AI)": [
+    "jad_occurrence__881"
   ],
-  "Luke 24:44 (AI)": [
-    "jad_occurrence__273"
+  "Acts of the Apostles 12:21-23 (AI)": [
+    "jad_occurrence__882"
   ],
-  "Matthew 10:16-18 (AI)": [
-    "jad_occurrence__273"
+  "Matthew 8:31-32 (AI)": [
+    "jad_occurrence__884"
   ],
-  "Psalm 137:4 (AI)": [
-    "jad_occurrence__587"
+  "Acts 10:4 (AI)": [
+    "jad_occurrence__884"
   ],
-  "Mark 15:34 (AI)": [
-    "jad_occurrence__385"
+  "2 Corinthians 12:7-9 (AI)": [
+    "jad_occurrence__884"
   ],
-  "1 Corinthians 12:4-10 (AI)": [
-    "jad_occurrence__761"
+  "Luke 1:8-13 (AI)": [
+    "jad_occurrence__884"
   ],
-  "Matthew 10:32 (AI)": [
-    "jad_occurrence__367"
+  "Numbers 22:38 (AI)": [
+    "jad_occurrence__885"
   ],
-  "Amos 1:6-8 (AI)": [
-    "jad_occurrence__317"
+  "Matthew 20:28 (AI)": [
+    "jad_occurrence__885"
   ],
-  "Psalm 64:3 (AI)": [
-    "jad_occurrence__340"
+  "Matthew 24:15-16 (AI)": [
+    "jad_occurrence__886"
   ],
-  "Psalm 57:5 (AI)": [
-    "jad_occurrence__340"
+  "Revelation 12:9 (AI)": [
+    "jad_occurrence__891"
   ],
-  "Luke 2:35 (AI)": [
-    "jad_occurrence__340"
+  "Genesis 3:23-24 (AI)": [
+    "jad_occurrence__891"
   ],
-  "Isaiah 5:18 (AI)": [
-    "jad_occurrence__340"
+  "Genesis 7:21-23 (AI)": [
+    "jad_occurrence__891"
   ],
-  "Isaiah 10:5-7 (AI)": [
-    "jad_occurrence__793"
+  "Joshua 6:21 (AI)": [
+    "jad_occurrence__891"
   ],
-  "Matthew 27:50 (AI)": [
-    "jad_occurrence__613",
-    "jad_occurrence__349"
+  "Genesis 19:24-25 (AI)": [
+    "jad_occurrence__891"
   ],
-  "John 19:1-11 (AI)": [
-    "jad_occurrence__613"
+  "Exodus 14:28 (AI)": [
+    "jad_occurrence__891"
   ],
-  "Romans 9:29 (AI)": [
-    "jad_occurrence__354"
+  "Numbers 16:32 (AI)": [
+    "jad_occurrence__891"
   ],
-  "Romans 11:25 (AI)": [
-    "jad_occurrence__354"
+  "John 16:5 (AI)": [
+    "jad_occurrence__893"
   ],
-  "Jeremiah 16:17-18 (AI)": [
-    "jad_occurrence__219"
+  "Isaiah 65:20 (AI)": [
+    "jad_occurrence__893"
   ],
-  "Mark 16:15 (AI)": [
-    "jad_occurrence__484"
+  "Numbers 25 (AI)": [
+    "jad_occurrence__894"
+  ],
+  "Jeremiah 25 (AI)": [
+    "jad_occurrence__894"
+  ],
+  "2 Chronicles 3:1 (AI)": [
+    "jad_occurrence__899"
+  ],
+  "1 Chronicles 28:11 (AI)": [
+    "jad_occurrence__899"
+  ],
+  "Luke 2:28 (AI)": [
+    "jad_occurrence__899"
+  ],
+  "Luke 1:9 (AI)": [
+    "jad_occurrence__899"
   ],
   "Nehemiah 2 (AI)": [
     "jad_occurrence__900"
   ],
-  "Isaiah 6:10 (AI)": [
-    "jad_occurrence__208"
+  "Isaiah 8:14 (AI)": [
+    "jad_occurrence__903"
   ],
-  "Proverbs 1:26 (AI)": [
-    "jad_occurrence__811"
+  "1 Peter 2:8 (AI)": [
+    "jad_occurrence__903"
   ],
-  "Jeremiah 5:10 (AI)": [
-    "jad_occurrence__282"
+  "Psalm 118:22 (AI)": [
+    "jad_occurrence__903"
   ],
-  "Isaiah 3:8 (AI)": [
-    "jad_occurrence__282"
+  "Matthew 23:38-39 (AI)": [
+    "jad_occurrence__904"
+  ],
+  "Luke 1:44 (AI)": [
+    "jad_occurrence__905"
+  ],
+  "John 5:2-3 (AI)": [
+    "jad_occurrence__905"
+  ],
+  "Isaiah 1:8-9 (AI)": [
+    "jad_occurrence__905"
+  ],
+  "Isaiah 1:3-4 (AI)": [
+    "jad_occurrence__905"
+  ],
+  "Isaiah 1:20 (AI)": [
+    "jad_occurrence__905"
+  ],
+  "Psalm 22:16 (AI)": [
+    "jad_occurrence__906"
+  ],
+  "Exodus 12:6 (AI)": [
+    "jad_occurrence__906"
+  ],
+  "Mark 1:12-13 (AI)": [
+    "jad_occurrence__910"
+  ],
+  "Matthew 4:2 (AI)": [
+    "jad_occurrence__910"
+  ],
+  "Matthew 27:57-60 (AI)": [
+    "jad_occurrence__910"
   ],
   "Exodus 1:8 (AI)": [
     "jad_occurrence__911"
@@ -3928,136 +3956,108 @@
   "Job 1:21 (AI)": [
     "jad_occurrence__911"
   ],
-  "1 Corinthians 14:20 (AI)": [
-    "jad_occurrence__371"
+  "1 Corinthians 12:8-10 (AI)": [
+    "jad_occurrence__915",
+    "jad_occurrence__918"
   ],
-  "Matthew 18:3 (AI)": [
-    "jad_occurrence__371"
+  "Psalm 55:22 (AI)": [
+    "jad_occurrence__915"
   ],
-  "Isaiah 18:2 (AI)": [
-    "jad_occurrence__694"
+  "Psalm 131:1 (AI)": [
+    "jad_occurrence__915"
   ],
-  "Isaiah 8:7 (AI)": [
-    "jad_occurrence__694"
+  "Acts 8:18-20 (AI)": [
+    "jad_occurrence__915"
   ],
-  "Matthew 24:29 (AI)": [
-    "jad_occurrence__694"
+  "Psalm 17:8 (AI)": [
+    "jad_occurrence__915"
   ],
-  "Luke 1:68 (AI)": [
-    "jad_occurrence__171"
+  "Psalm 131:2 (AI)": [
+    "jad_occurrence__915"
   ],
-  "Psalm 80:12-14 (AI)": [
-    "jad_occurrence__373"
+  "Psalm 17:2 (AI)": [
+    "jad_occurrence__915"
   ],
-  "Psalm 45:7 (AI)": [
-    "jad_occurrence__796"
+  "Psalm 25:1 (AI)": [
+    "jad_occurrence__915"
   ],
-  "Leviticus 19:2 (AI)": [
-    "jad_occurrence__796"
+  "Proverbs 20:21 (AI)": [
+    "jad_occurrence__915"
   ],
-  "Daniel 7:13 (AI)": [
-    "jad_occurrence__850"
+  "Psalm 51:19 (AI)": [
+    "jad_occurrence__915"
   ],
-  "Isaiah 2:3 (AI)": [
-    "jad_occurrence__366"
+  "Daniel 9:14 (AI)": [
+    "jad_occurrence__916",
+    "jad_occurrence__919"
   ],
-  "Psalm 80:9 (AI)": [
-    "jad_occurrence__739"
+  "Ephesians 5:15 (AI)": [
+    "jad_occurrence__916"
   ],
-  "Psalm 81:1 (AI)": [
-    "jad_occurrence__739"
+  "Ephesians 5:18-19 (AI)": [
+    "jad_occurrence__916"
   ],
-  "John 1:1 (AI)": [
-    "jad_occurrence__739"
+  "Psalm 145:15 (AI)": [
+    "jad_occurrence__916"
   ],
-  "Genesis 1:26 (AI)": [
-    "jad_occurrence__739"
+  "Psalm 119:49 (AI)": [
+    "jad_occurrence__916"
   ],
-  "Genesis 17:1 (AI)": [
-    "jad_occurrence__739"
+  "Luke 13:34-35 (AI)": [
+    "jad_occurrence__917"
   ],
-  "Exodus 7:1 (AI)": [
-    "jad_occurrence__739"
+  "Psalm 69:28 (AI)": [
+    "jad_occurrence__917"
   ],
-  "Genesis 9:20-27 (AI)": [
-    "jad_occurrence__81"
+  "Matthew 22:2 (AI)": [
+    "jad_occurrence__919"
   ],
-  "2 Samuel 15:1-10, 2 Samuel 16:21-22 (AI)": [
-    "jad_occurrence__81"
+  "Psalm 19:5 (AI)": [
+    "jad_occurrence__919"
   ],
-  "Isaiah 9:13 (AI)": [
-    "jad_occurrence__689"
+  "Luke 12:36 (AI)": [
+    "jad_occurrence__919"
   ],
-  "Isaiah 9:14 (AI)": [
-    "jad_occurrence__689"
+  "Matthew 25:10 (AI)": [
+    "jad_occurrence__919"
   ],
-  "Isaiah 9:16 (AI)": [
-    "jad_occurrence__689"
+  "Genesis 3:14 (AI)": [
+    "jad_occurrence__920"
   ],
-  "John 7:16 (AI)": [
-    "jad_occurrence__19"
+  "Psalms 35:20 (AI)": [
+    "jad_occurrence__920"
   ],
-  "Deuteronomy 32:24-25 (AI)": [
-    "jad_occurrence__205"
+  "Deuteronomy 32:24 (AI)": [
+    "jad_occurrence__920"
   ],
-  "Judith 10:10-13 (AI)": [
-    "jad_occurrence__621"
+  "Lamentations 4:20 (AI)": [
+    "jad_occurrence__928"
   ],
-  "Judith 11:17 (AI)": [
-    "jad_occurrence__621"
+  "2 Chronicles 35:25 (AI)": [
+    "jad_occurrence__928"
   ],
-  "Joel 2:10-11 (AI)": [
-    "jad_occurrence__349"
+  "Psalm 2:1 (AI)": [
+    "jad_occurrence__928"
   ],
-  "Matthew 27:46 (AI)": [
-    "jad_occurrence__349"
+  "Genesis 19:24-26 (AI)": [
+    "jad_occurrence__933"
   ],
-  "Psalm 79:14 (AI)": [
-    "jad_occurrence__292"
+  "Luke 4:9 (AI)": [
+    "jad_occurrence__935"
   ],
-  "Isaiah 50:1 (AI)": [
-    "jad_occurrence__409"
+  "Acts 7:56 (AI)": [
+    "jad_occurrence__935"
   ],
-  "Hosea 2:2 (AI)": [
-    "jad_occurrence__409"
+  "Matthew 26:56 (AI)": [
+    "jad_occurrence__664"
   ],
-  "Isaiah 1:7 (AI)": [
-    "jad_occurrence__409"
+  "Psalm 73:18 (AI)": [
+    "jad_occurrence__824"
   ],
-  "Matthew 22:8-9 (AI)": [
-    "jad_occurrence__213"
+  "Numbers 18:7 (AI)": [
+    "jad_occurrence__876"
   ],
-  "Isaiah 50:9 (AI)": [
-    "jad_occurrence__22"
-  ],
-  "Matthew 22:5-13 (AI)": [
-    "jad_occurrence__555"
-  ],
-  "Revelation 19:21 (AI)": [
-    "jad_occurrence__249"
-  ],
-  "Amos 3:8 (AI)": [
-    "jad_occurrence__472"
-  ],
-  "Psalms 10:7-8 (AI)": [
-    "jad_occurrence__472"
-  ],
-  "Jeremiah 52 (AI)": [
-    "jad_occurrence__837"
-  ],
-  "Isaiah 39:7 (AI)": [
-    "jad_occurrence__837"
-  ],
-  "Daniel 9 (AI)": [
-    "jad_occurrence__86"
-  ],
-  "Psalm 17 (AI)": [
-    "jad_occurrence__86"
-  ],
-  "Matthew 10 (AI)": [
-    "jad_occurrence__86"
-  ],
-  "Psalm 117 (AI)": [
-    "jad_occurrence__86"
+  "Luke 24:21 (AI)": [
+    "jad_occurrence__889"
   ]
 }
