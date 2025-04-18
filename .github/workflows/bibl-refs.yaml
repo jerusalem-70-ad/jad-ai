@@ -18,8 +18,10 @@ jobs:
           python-version: "3.12"
       - name: Install Python Packages
         run: pip install -r requirements.txt
-      - name: ernich
+      - name: find bible refs
         run: python scripts/bibl_refs.py
+      - name: save summaries
+        run: python scripts/make_overview.py
       - name: Commit data
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
