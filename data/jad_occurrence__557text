@@ -1,0 +1,40 @@
+Here is the JSON object containing the biblical references found in the provided text:
+
+[
+    {
+        "bibl": "Matthew 24:7",
+        "text": "Consurget enim gens in gentem et regnum in regnum, et erunt pestilentiae et fames et terraemotus per loca."
+    },
+    {
+        "bibl": "Matthew 24:8",
+        "text": "Haec autem omnia initia sunt dolorum."
+    },
+    {
+        "bibl": "Matthew 24:9",
+        "text": "Tunc tradent vos in tribulationem et occident vos et eritis odio omnibus gentibus propter nomen meum."
+    },
+    {
+        "bibl": "Matthew 24:10",
+        "text": "Et tunc scandalizabuntur multi et invicem tradent et odio habebunt invicem."
+    },
+    {
+        "bibl": "Matthew 24:11",
+        "text": "Et multi pseudoprophetae surgent et seducent multos."
+    },
+    {
+        "bibl": "Matthew 24:12",
+        "text": "Et quoniam abundabit iniquitas, refrigescet caritas multorum."
+    },
+    {
+        "bibl": "Matthew 24:13",
+        "text": "Qui autem perseveraverit usque in finem, hic salvus erit."
+    },
+    {
+        "bibl": "Matthew 24:14",
+        "text": "Et praedicabitur hoc evangelium regni in universo orbe, in testimonium omnibus gentibus; et tunc veniet consummatio."
+    },
+    {
+        "bibl": "Matthew 24:15",
+        "text": "Cum ergo videritis abominationem desolationis, quae dicta est a Danihelo propheta stantem in loco sancto, qui legit intellegat."
+    }
+]

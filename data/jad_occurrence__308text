@@ -1,0 +1,19 @@
+To extract biblical references from the given text and return them in JSON format, we will identify specific biblical phrases or allusions that are typically tied to scripture. In this text, the notable biblical references include:
+
+1. References to the parable of the barren fig tree, which can be linked to the New Testament.
+2. The statement through high priests and Pharisees about fearing Roman intervention, related to a plot to kill Jesus, found in the New Testament.
+
+Considering these elements, the JSON representation should look as follows:
+
+[
+    {
+        "bibl": "Luke 13:6-9",
+        "text": "Succide ergo illam, ut quid etiam terram occupat?"
+    },
+    {
+        "bibl": "John 11:48",
+        "text": "Si dimittimus eum sic, omnes credent in eum, et venient Romani, et tollent nostrum et locum, et gentem."
+    }
+]
+
+This JSON includes the major references from the text linked to relevant scripture passages.
