@@ -1,0 +1,16 @@
+Here are the biblical references found in the text structured as a JSON object:
+
+[
+    {
+        "bibl": "Psalms 7:15",
+        "text": "Foderunt ante faciem meam foveam, et ipsi inciderunt in eam."
+    },
+    {
+        "bibl": "Psalms 35:9",
+        "text": "Anima autem mea exsultabit in Domino."
+    },
+    {
+        "bibl": "Song of Solomon 8:5",
+        "text": "Quae est ista quae ascendit dealbata, et innixa super fratruelem suum."
+    }
+]

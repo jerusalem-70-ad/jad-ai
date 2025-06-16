@@ -1,0 +1,23 @@
+The given text contains several biblical references. Here is the result in JSON format:
+
+[
+    {
+        "bibl": "Matthew 27:50-52",
+        "text": "Et gloriati sunt qui oderunt te, etc. Instinctu enim diaboli gloriantur: cum in odium Dei, sanctos martyres poenis affligunt."
+    },
+    {
+        "bibl": "Isaiah 26:11",
+        "text": "Incendunt igne sanctuarium tuum in terra: polluerunt tabernaculum nominis tui, etc."
+    },
+    {
+        "bibl": "Jeremiah 52:12-13",
+        "text": "Facta sunt quidem haec secundum historiam: vel cum Nabuchodonosor eos adduxit in Babyloniam."
+    },
+    {
+        "bibl": "Luke 21:20-24",
+        "text": "vel cum Titus Vespasianusque, succensa civitate cum templo, multitudine gladio prostrata, reliquum vulgus captivum abduxit."
+    }
+]
+
+
+Note: Some references are approximations based on the context provided in the text.

@@ -1,0 +1,39 @@
+Here is the JSON result with biblical references found in the text:
+
+[
+    {
+        "bibl": "Psalm 34:1",
+        "text": "Iudica Domine nocentes me expugna impugnantes me."
+    },
+    {
+        "bibl": "Psalm 34:2",
+        "text": "Apprehende arma et scutum et exsurge in adiutorium mihi."
+    },
+    {
+        "bibl": "Psalm 34:3",
+        "text": "Effunde frameam et conclude adversus eos qui persequuntur me dic anime mee salus tua ego sum."
+    },
+    {
+        "bibl": "Psalm 34:4",
+        "text": "Confundantur et revereantur querentes animam meam."
+    },
+    {
+        "bibl": "Psalm 34:5",
+        "text": "Fiant tamquam pulvis ante faciem venti et angelus Domini coartans eos."
+    },
+    {
+        "bibl": "Psalm 34:6",
+        "text": "Fiat via illorum tenebre et lubricum et angelus Domini persecutes eos."
+    },
+    {
+        "bibl": "Psalm 34:7",
+        "text": "Quoniam gratis absconderunt mihinteritum laquei sui supervacue exprobraverunt animam meam."
+    },
+    {
+        "bibl": "Psalm 34:8",
+        "text": "Veniat illi laqueus quem ignorat et captio quam abscondit apprehendat eum."
+    }
+]
+
+
+This JSON object contains all the biblical references from the specified text of Psalm 34. Each reference is provided with its corresponding text extracted from the document.

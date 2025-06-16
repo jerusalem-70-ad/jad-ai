@@ -1,0 +1,40 @@
+Based on the text provided, there are several biblical references. Here is the result formatted as a JSON object:
+
+[
+    {
+        "bibl": "Psalm 78:59",
+        "text": "Audivit Dominus et sprevit: et ad nihilum redegit valde Israel."
+    },
+    {
+        "bibl": "Psalm 78:60",
+        "text": "Et repulit tabernaculum Silo, tabernaculum suum, in quo habitavit inter homines."
+    },
+    {
+        "bibl": "Psalm 78:61",
+        "text": "Tradidit in captivitatem virtutem eorum, et pulchritudinem eorum in manus inimici."
+    },
+    {
+        "bibl": "Psalm 78:62",
+        "text": "Et conclusit in gladio populum suum, et haereditatem suam sprevit."
+    },
+    {
+        "bibl": "Psalm 78:63-64",
+        "text": "Juvenes eorum, etc."
+    },
+    {
+        "bibl": "Psalm 78:65",
+        "text": "Et excitatus est tamquam dormiens Dominus, tamquam potens crapulatus a vino."
+    },
+    {
+        "bibl": "Psalm 78:66",
+        "text": "Et percussit inimicos suos in posteriora, opprobrium sempiternum dedit eis."
+    },
+    {
+        "bibl": "Psalm 78:67-68",
+        "text": "Et repulit tabernaculum Joseph, et tribum Ephraim non elegit: sed elegit tribum Juda, montem Sion quem dilexit."
+    },
+    {
+        "bibl": "Psalm 78:69",
+        "text": "Et aedificavit sicut unicornium sanctificium suum in terra, quam fundavit in saecula."
+    }
+]
