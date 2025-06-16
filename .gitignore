@@ -172,3 +172,5 @@ cython_debug/
 secret.env
 hansi.ipynb
 *.ipynb
+out/foo.json
+out/books.txt

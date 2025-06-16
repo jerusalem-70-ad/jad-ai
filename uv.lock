@@ -284,6 +284,20 @@ wheels = [
 ]
 
 [[package]]
+name = "csae-pyutils"
+version = "0.2"
+source = { registry = "https://pypi.org/simple" }
+dependencies = [
+    { name = "pandas" },
+    { name = "pyocclient" },
+    { name = "requests" },
+]
+sdist = { url = "https://files.pythonhosted.org/packages/6f/55/1e85c5651a2e20028fbdefa3d13544d5ab59f5c77ecf69f2a33d0f7c5761/csae_pyutils-0.2.tar.gz", hash = "sha256:7c7a3c142f41c9c97681f7efdd1aecbce89500a3efdebcae96a69b962aa4f9ba", size = 3777 }
+wheels = [
+    { url = "https://files.pythonhosted.org/packages/0a/67/a0f9360bb215c26d757657c81454f09c1fe4ad697b58071577dd0d9f4025/csae_pyutils-0.2-py3-none-any.whl", hash = "sha256:372f4e163a3fa64b5b66d5423eec4b2e352e0223614f2dab9b8a40340464db37", size = 4732 },
+]
+
+[[package]]
 name = "debugpy"
 version = "1.8.14"
 source = { registry = "https://pypi.org/simple" }
@@ -507,6 +521,7 @@ dependencies = [
 
 [package.dev-dependencies]
 dev = [
+    { name = "csae-pyutils" },
     { name = "jupyter" },
 ]
 
@@ -519,7 +534,10 @@ requires-dist = [
 ]
 
 [package.metadata.requires-dev]
-dev = [{ name = "jupyter", specifier = ">=1.1.1" }]
+dev = [
+    { name = "csae-pyutils", specifier = ">=0.2" },
+    { name = "jupyter", specifier = ">=1.1.1" },
+]
 
 [[package]]
 name = "jedi"
@@ -1280,6 +1298,16 @@ sdist = { url = "https://files.pythonhosted.org/packages/7c/2d/c3338d48ea6cc0feb
 wheels = [
     { url = "https://files.pythonhosted.org/packages/8a/0b/9fcc47d19c48b59121088dd6da2488a49d5f72dacf8262e2790a1d2c7d15/pygments-2.19.1-py3-none-any.whl", hash = "sha256:9ea1544ad55cecf4b8242fab6dd35a93bbce657034b0611ee383099054ab6d8c", size = 1225293 },
 ]
+
+[[package]]
+name = "pyocclient"
+version = "0.6"
+source = { registry = "https://pypi.org/simple" }
+dependencies = [
+    { name = "requests" },
+    { name = "six" },
+]
+sdist = { url = "https://files.pythonhosted.org/packages/1f/ce/c60f248822f4a4cc922a2766714e884a2eced5d8fc06a26ffe875ae1de09/pyocclient-0.6.tar.gz", hash = "sha256:a33ddcbbd2ec22d9bc7d76b71dd77896c557221153d1428759780b5fb8fe8fa3", size = 28995 }
 
 [[package]]
 name = "pyparsing"
