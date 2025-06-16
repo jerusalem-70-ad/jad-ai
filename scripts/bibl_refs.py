@@ -9,6 +9,8 @@ from config import PASSAGES_URL, DATA_DIR
 URL = PASSAGES_URL
 source_data = requests.get(URL).json()
 
+os.makedirs(DATA_DIR, exist_ok=True)
+
 data = [
     {"jad_id": value["jad_id"], "text_paragraph": value["text_paragraph"]}
     for key, value in source_data.items()
