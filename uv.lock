@@ -28,6 +28,15 @@ wheels = [
 ]
 
 [[package]]
+name = "acdh-bible-pyutils"
+version = "0.1.2"
+source = { registry = "https://pypi.org/simple" }
+sdist = { url = "https://files.pythonhosted.org/packages/92/78/e701a4e764de9aef5e2a1a430fbd8ad9aa81287477f141106c90251a845b/acdh_bible_pyutils-0.1.2.tar.gz", hash = "sha256:b06a643abe8f650981f10718754f4058b23bde92616c1aca46c498b3991a5272", size = 5316 }
+wheels = [
+    { url = "https://files.pythonhosted.org/packages/4b/20/feddfd3240ea1046c2be53958bee4c54e723e97224e52a8018006fc3bbb2/acdh_bible_pyutils-0.1.2-py3-none-any.whl", hash = "sha256:f190db1cb00aa99c6f02343e27f58d7f0ca17479c6fe4b03faed6a00a5978b95", size = 5288 },
+]
+
+[[package]]
 name = "acdh-id-reconciler"
 version = "0.7.1"
 source = { registry = "https://pypi.org/simple" }
@@ -514,6 +523,7 @@ version = "0.1.0"
 source = { virtual = "." }
 dependencies = [
     { name = "acdh-baserow-pyutils" },
+    { name = "acdh-bible-pyutils" },
     { name = "openai" },
     { name = "pandas" },
     { name = "requests" },
@@ -523,11 +533,13 @@ dependencies = [
 dev = [
     { name = "csae-pyutils" },
     { name = "jupyter" },
+    { name = "pythonbible" },
 ]
 
 [package.metadata]
 requires-dist = [
     { name = "acdh-baserow-pyutils", specifier = ">=0.10" },
+    { name = "acdh-bible-pyutils", specifier = ">=0.1.2" },
     { name = "openai", specifier = ">=1.86.0" },
     { name = "pandas", specifier = ">=2.3.0" },
     { name = "requests", specifier = ">=2.32.4" },
@@ -537,6 +549,7 @@ requires-dist = [
 dev = [
     { name = "csae-pyutils", specifier = ">=0.2" },
     { name = "jupyter", specifier = ">=1.1.1" },
+    { name = "pythonbible", specifier = ">=0.13.1" },
 ]
 
 [[package]]
@@ -1337,6 +1350,15 @@ source = { registry = "https://pypi.org/simple" }
 sdist = { url = "https://files.pythonhosted.org/packages/9e/de/d3144a0bceede957f961e975f3752760fbe390d57fbe194baf709d8f1f7b/python_json_logger-3.3.0.tar.gz", hash = "sha256:12b7e74b17775e7d565129296105bbe3910842d9d0eb083fc83a6a617aa8df84", size = 16642 }
 wheels = [
     { url = "https://files.pythonhosted.org/packages/08/20/0f2523b9e50a8052bc6a8b732dfc8568abbdc42010aef03a2d750bdab3b2/python_json_logger-3.3.0-py3-none-any.whl", hash = "sha256:dd980fae8cffb24c13caf6e158d3d61c0d6d22342f932cb6e9deedab3d35eec7", size = 15163 },
+]
+
+[[package]]
+name = "pythonbible"
+version = "0.13.1"
+source = { registry = "https://pypi.org/simple" }
+sdist = { url = "https://files.pythonhosted.org/packages/89/6d/ad47618b6bc8fd9db72473c633adae1c6071ba6482a5b2d5b7b85240d8e1/pythonbible-0.13.1.tar.gz", hash = "sha256:72ee03dd59af72b28c5d7b85c95bdd8d57ddb061d4743c80b74a01a58feba382", size = 19666731 }
+wheels = [
+    { url = "https://files.pythonhosted.org/packages/1f/fc/b4976d4bc0012822d6f47dba64fcdbe07e4a848c9c26472fde2455d19b27/pythonbible-0.13.1-py3-none-any.whl", hash = "sha256:cd90c6980f3505a59e014c69abee5a556234a6996086c28943753610ee7a15ca", size = 19792709 },
 ]
 
 [[package]]

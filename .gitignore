@@ -174,3 +174,8 @@ hansi.ipynb
 *.ipynb
 out/foo.json
 out/books.txt
+out/books.csv
+scripts/books.csv
+ai_refs.json
+manual_refs.json
+scripts/foo.json
