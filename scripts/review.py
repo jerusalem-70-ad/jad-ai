@@ -44,7 +44,7 @@ stats = {
     "longest_passage_word_count": int(df["word_count"].max()),
     "shortest_passage_word_count": int(df["word_count"].min()),
 }
-
+print("\n\n### Passages and words ###\n")
 for key, value in stats.items():
     print(f"{key.replace('_', ' ').title()}: {value}")
 
@@ -69,7 +69,7 @@ for key, value in source_data.items():
     for y in value:
         try:
             bibl_ref = y["bibl"]
-        except KeyError:
+        except (KeyError, TypeError):
             continue
         book = get_book_from_bibl_ref(bibl_ref)["order"]
         ai_refs[key].append(book)
@@ -87,28 +87,26 @@ for key, value in ai_refs.items():
 
 
 df = pd.DataFrame.from_dict(data, orient="index").sort_index()
-df.head()
 df = df[df["nr_manual"] > 0]
-df.head()
-
 df["nr_match"] = df["nr_ai"] == df["nr_manual"]
-
-df
-
 df["full_match"] = df.apply(lambda row: row["ai"] == row["manual"], axis=1)
-
-df
-
 df["partial_match"] = df.apply(
     lambda row: bool(set(row["ai"]) & set(row["manual"])), axis=1
 )
-
+df["all_found"] = df.apply(
+    lambda row: set(row["manual"]).issubset(set(row["ai"])), axis=1
+)
 total_rows = len(df)
 stats = {
+    "partial_match": df["partial_match"].sum(),
+    "all_found": df["all_found"].sum(),
     "nr_match": df["nr_match"].sum(),
     "full_match": df["full_match"].sum(),
-    "partial_match": df["partial_match"].sum(),
 }
-print("### BOOKS ###")
+print("\n\n### Books ###\n")
 for col, val in stats.items():
     print(f"{col}: {val} out of {total_rows} rows ({val/total_rows*100:.1f}%)")
+
+
+print("\n\n### Chapters ###\n")
+print("Todo: Implement chapter statistics")
