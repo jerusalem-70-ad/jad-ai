@@ -29,11 +29,11 @@ wheels = [
 
 [[package]]
 name = "acdh-bible-pyutils"
-version = "0.1.2"
+version = "0.2"
 source = { registry = "https://pypi.org/simple" }
-sdist = { url = "https://files.pythonhosted.org/packages/92/78/e701a4e764de9aef5e2a1a430fbd8ad9aa81287477f141106c90251a845b/acdh_bible_pyutils-0.1.2.tar.gz", hash = "sha256:b06a643abe8f650981f10718754f4058b23bde92616c1aca46c498b3991a5272", size = 5316 }
+sdist = { url = "https://files.pythonhosted.org/packages/df/68/3dafed6f178e49d2e7b0425742913b7768bfba8b1c255aa12874211859a2/acdh_bible_pyutils-0.2.tar.gz", hash = "sha256:7069c37df4755210ac6624ae86514e9d8ad57697dc0dea3269e79b60447a1607", size = 6173 }
 wheels = [
-    { url = "https://files.pythonhosted.org/packages/4b/20/feddfd3240ea1046c2be53958bee4c54e723e97224e52a8018006fc3bbb2/acdh_bible_pyutils-0.1.2-py3-none-any.whl", hash = "sha256:f190db1cb00aa99c6f02343e27f58d7f0ca17479c6fe4b03faed6a00a5978b95", size = 5288 },
+    { url = "https://files.pythonhosted.org/packages/f2/49/fc20f3a6a94544b17a2f021852f53ecc8087bee6e9f62bf9438898da81ff/acdh_bible_pyutils-0.2-py3-none-any.whl", hash = "sha256:1c6486eaa602a1052f511c3179dd614378bfe2aef4ba60991f88825f0e82a3b1", size = 6448 },
 ]
 
 [[package]]
@@ -539,7 +539,7 @@ dev = [
 [package.metadata]
 requires-dist = [
     { name = "acdh-baserow-pyutils", specifier = ">=0.10" },
-    { name = "acdh-bible-pyutils", specifier = ">=0.1.2" },
+    { name = "acdh-bible-pyutils", specifier = ">=0.2" },
     { name = "openai", specifier = ">=1.86.0" },
     { name = "pandas", specifier = ">=2.3.0" },
     { name = "requests", specifier = ">=2.32.4" },
