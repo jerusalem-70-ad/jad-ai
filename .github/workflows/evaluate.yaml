@@ -17,6 +17,6 @@ jobs:
       - name: Machine vs. Machine
         run: uv run scripts/review_ai_vs_ai.py
       - name: Commit data
-        uses: stefanzweifel/git-auto-commit-action@v5
+        uses: stefanzweifel/git-auto-commit-action@v6
         with:
           commit_message: Evaluation reports updated
