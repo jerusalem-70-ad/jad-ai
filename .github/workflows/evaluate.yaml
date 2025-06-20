@@ -1,0 +1,22 @@
+name: Evaluate
+
+on:
+  workflow_dispatch:
+
+jobs:
+  enrich:
+    name: add keywords
+    runs-on: ubuntu-latest
+    steps:
+      - name: Perfom Checkout
+        uses: actions/checkout@v4
+      - name: Install uv
+        uses: astral-sh/setup-uv@v5
+      - name: Man vs. Machine
+        run: uv run scripts/review_ai_vs_human.py
+      - name: Machine vs. Machine
+        run: uv run scripts/review_ai_vs_ai.py
+      - name: Commit data
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: Evaluation reports updated
