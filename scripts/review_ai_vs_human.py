@@ -5,9 +5,10 @@ from config import PASSAGES_URL, OUT_DIR
 from acdh_bible_pyutils import normalize_bible_refs
 from csae_pyutils import save_json, load_json
 
+print("`$ python review_ai_vs_human.py`")
+
 
 URL = PASSAGES_URL
-APP_URL = "https://jerusalem-70-ad.github.io/jad-astro/passages/"
 source_data = requests.get(URL).json()
 
 data = []
@@ -38,8 +39,8 @@ stats = {
     "passages_without_biblical_references": int(
         len(df) - df["biblical_references"].sum()
     ),
-    "longest_passage": f'{APP_URL}{df.loc[df["word_count"].idxmax()]["id"]}',
-    "shortest_passage": f'{APP_URL}{df.loc[df["word_count"].idxmin()]["id"]}',
+    "longest_passage": df.loc[df["word_count"].idxmax()]["id"],
+    "shortest_passage": df.loc[df["word_count"].idxmin()]["id"],
     "longest_passage_word_count": int(df["word_count"].max()),
     "shortest_passage_word_count": int(df["word_count"].min()),
 }

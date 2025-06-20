@@ -4,6 +4,8 @@ from config import OUT_DIR
 from acdh_bible_pyutils import normalize_bible_refs
 from csae_pyutils import load_json
 
+print("\n`$ python review_ai_vs_ai.py`")
+
 # Load old AI predictions
 source_data = load_json(os.path.join(OUT_DIR, "all_in_one_backup.json"))
 
