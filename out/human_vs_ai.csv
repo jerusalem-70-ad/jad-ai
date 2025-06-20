@@ -1,0 +1,279 @@
+id_manual,jad_id,books_manual,chapters_manual,verses_manual,books_ai,chapters_ai,verses_ai,full_match_book,full_match_chapter,full_match_verse,partial_match_book,partial_match_chapter,partial_match_verse,all_found_books,all_found_chapters,all_found_verses
+1,jad_occurrence__1,"[51, 49, 49, 54, 33]","[19, 27, 27, 11, 11]","['Lucas 19:41', 'Matthaeus 27:51', 'Matthaeus 27:52', 'Romanos 11:25', 'Ezechiel 11:19']","[33, 49, 51, 51, 54]","[11, 11, 19, 19, 27]","['Ezechiel 11:19', 'Lucas 19:40', 'Lucas 19:41', 'Matthaeus 27:50', 'Romanos 11:25']",False,False,False,True,True,True,True,True,False
+5,jad_occurrence__5,[2],[27],['Exodus 27:2'],"[30, 45]","[1, 1]","['Ieremias 1:10', 'Zacharias 1:18']",False,False,False,False,False,False,False,False,False
+6,jad_occurrence__6,[29],[66],['Isaias 66:6'],[],[],[],False,False,False,False,False,False,False,False,False
+11,jad_occurrence__11,"[51, 51]","[19, 19]","['Lucas 19:41', 'Lucas 19:42']",[51],[19],['Lucas 19:41'],False,False,False,True,True,True,True,True,False
+12,jad_occurrence__12,"[51, 51]","[21, 21]","['Lucas 21:20', 'Lucas 21:25']","[51, 51]","[21, 21]","['Lucas 21:20', 'Lucas 21:25']",True,True,True,True,True,True,True,True,True
+13,jad_occurrence__13,"[45, 45]","[11, 9]","['Zacharias 11:1', 'Zacharias 9:9']","[45, 45]","[9, 11]","['Zacharias 11:1', 'Zacharias 9:9']",True,False,True,True,True,True,True,True,True
+14,jad_occurrence__14,[51],[19],['Lucas 19:41'],"[40, 51]","[6, 19]","['Lucas 19:41', 'Micheas 6:9']",False,False,False,True,True,True,True,True,True
+17,jad_occurrence__17,"[57, 23]","[4, 50]","['Galatas 4:26', 'Psalmi 50:20']","[9, 23, 23, 29, 29, 34, 37, 59]","[2, 2, 3, 3, 6, 11, 104, 123]","['1 Samuel 2:8', 'Amos 3:7', 'Daniel 2:22', 'Isaias 11:4', 'Isaias 6:1', 'Philippenses 3:21', 'Psalmi 104:30', 'Psalmi 123:2']",False,False,False,True,False,False,False,False,False
+18,jad_occurrence__18,"[49, 51, 52, 30, 30, 51]","[27, 23, 19, 18, 18, 23]","['Matthaeus 27:25', 'Lucas 23:21', 'Ioannes 19:15', 'Ieremias 18:21', 'Ieremias 18:22', 'Lucas 23:34']","[30, 30, 30, 49, 51, 51, 52]","[18, 18, 18, 19, 23, 23, 27]","['Ieremias 18:19', 'Ieremias 18:20', 'Ieremias 18:21', 'Ioannes 19:15', 'Lucas 23:21', 'Lucas 23:34', 'Matthaeus 27:25']",False,False,False,True,True,True,True,True,False
+19,jad_occurrence__19,"[14, 14, 51, 52]","[2, 2, 23, 7]","['4 Regum 2:23', '4 Regum 2:24', 'Lucas 23:21', 'Ioannes 7:16']","[12, 51, 52]","[2, 7, 23]","['2 Regum 2:0', 'Ioannes 7:0', 'Lucas 23:0']",False,False,False,True,True,False,False,True,False
+20,jad_occurrence__20,"[29, 52]","[63, 13]","['Isaias 63:0', 'Ioannes 13:2']",[52],[13],['Ioannes 13:2'],False,False,False,True,True,True,False,False,False
+21,jad_occurrence__21,[29],[27],['Isaias 27:11'],[],[],[],False,False,False,False,False,False,False,False,False
+25,jad_occurrence__25,"[49, 33]","[24, 5]","['Matthaeus 24:2', 'Ezechiel 5:1']","[33, 50, 51]","[5, 13, 21]","['Ezechiel 5:1', 'Lucas 21:20', 'Marcus 13:2']",False,False,False,True,True,True,False,False,False
+26,jad_occurrence__26,"[14, 49, 49, 54]","[2, 22, 27, 2]","['4 Regum 2:23', 'Matthaeus 22:7', 'Matthaeus 27:29', 'Romanos 2:5']",[],[],[],False,False,False,False,False,False,False,False,False
+28,jad_occurrence__28,[49],[22],['Matthaeus 22:7'],"[49, 53, 53]","[5, 7, 23]","['Actus Apostolorum 5:41', 'Actus Apostolorum 7:54', 'Matthaeus 23:37']",False,False,False,True,False,False,True,False,False
+29,jad_occurrence__29,"[14, 14, 31]","[2, 2, 3]","['4 Regum 2:23', '4 Regum 2:24', 'Lamentationes 3:10']","[12, 49]","[2, 27]","['2 Regum 2:23', 'Matthaeus 27:39']",False,False,False,False,True,False,False,False,False
+34,jad_occurrence__34,"[49, 23]","[22, 77]","['Matthaeus 22:7', 'Psalmi 77:49']",[23],[78],['Psalmi 78:49'],False,False,False,True,False,False,False,False,False
+35,jad_occurrence__35,"[51, 49]","[21, 24]","['Lucas 21:20', 'Matthaeus 24:15']","[34, 49, 50, 51, 62]","[2, 9, 13, 21, 24]","['2 Thessalonicenses 2:4', 'Daniel 9:27', 'Lucas 21:20', 'Marcus 13:14', 'Matthaeus 24:15']",False,False,False,True,True,True,True,True,True
+36,jad_occurrence__36,[51],[21],['Lucas 21:20'],"[49, 49, 75]","[0, 24, 24]","['Apocalypsis 0:0', 'Matthaeus 24:15', 'Matthaeus 24:16']",False,False,False,False,False,False,False,False,False
+37,jad_occurrence__37,"[23, 23]","[79, 79]","['Psalmi 79:13', 'Psalmi 79:14']","[23, 23]","[80, 80]","['Psalmi 80:13', 'Psalmi 80:14']",True,False,False,True,False,False,True,False,False
+38,jad_occurrence__38,"[14, 14, 57]","[2, 2, 6]","['4 Regum 2:23', '4 Regum 2:24', 'Galatas 6:14']",[52],[19],['Ioannes 19:15'],False,False,False,False,False,False,False,False,False
+39,jad_occurrence__39,"[14, 14, 57]","[2, 2, 6]","['4 Regum 2:23', '4 Regum 2:24', 'Galatas 6:14']","[12, 57]","[2, 6]","['2 Regum 2:23', 'Galatas 6:14']",False,False,False,True,True,True,False,True,False
+40,jad_occurrence__40,[14],[2],['4 Regum 2:23'],"[12, 52]","[2, 19]","['2 Regum 2:23', 'Ioannes 19:17']",False,False,False,False,True,False,False,True,False
+41,jad_occurrence__41,"[14, 14]","[2, 2]","['4 Regum 2:23', '4 Regum 2:24']","[12, 49]","[2, 27]","['2 Regum 2:23', 'Matthaeus 27:39']",False,False,False,False,True,False,False,True,False
+42,jad_occurrence__42,"[52, 23, 1]","[11, 13, 37]","['Ioannes 11:48', 'Psalmi 13:15', 'Genesis 37:28']","[1, 23, 52]","[11, 13, 37]","['Genesis 37:0', 'Ioannes 11:0', 'Psalmi 13:0']",False,True,False,True,True,False,True,True,False
+45,jad_occurrence__45,"[51, 51, 51]","[19, 19, 21]","['Lucas 19:41', 'Lucas 19:43', 'Lucas 21:6']","[30, 51, 51, 51]","[8, 19, 19, 19]","['Ieremias 8:7', 'Lucas 19:41', 'Lucas 19:43', 'Lucas 19:44']",False,False,False,True,True,True,True,False,False
+46,jad_occurrence__46,[49],[22],['Matthaeus 22:7'],[],[],[],False,False,False,False,False,False,False,False,False
+47,jad_occurrence__47,"[23, 23]","[79, 78]","['Psalmi 79:14', 'Psalmi 78:1']","[23, 23, 23, 51]","[13, 63, 79, 80]","['Lucas 13:32', 'Psalmi 63:11', 'Psalmi 79:1', 'Psalmi 80:14']",False,False,False,True,True,False,True,False,False
+52,jad_occurrence__52,[23],[78],['Psalmi 78:1'],"[34, 47, 47, 51, 75]","[1, 1, 2, 13, 21]","['1 Machabaeorum 1:10', '1 Machabaeorum 2:1', 'Apocalypsis 13:1', 'Daniel 1:1', 'Lucas 21:20']",False,False,False,False,False,False,False,False,False
+55,jad_occurrence__55,[34],[9],['Daniel 9:0'],[34],[9],['Daniel 9:27'],True,True,False,True,True,False,True,True,False
+56,jad_occurrence__56,[51],[21],['Lucas 21:20'],"[49, 49, 50, 51]","[13, 21, 24, 24]","['Lucas 21:0', 'Marcus 13:0', 'Matthaeus 24:0', 'Matthaeus 24:20']",False,False,False,True,True,False,True,True,False
+57,jad_occurrence__57,"[33, 49]","[16, 24]","['Ezechiel 16:56', 'Matthaeus 24:50']","[33, 49]","[16, 24]","['Ezechiel 16:0', 'Matthaeus 24:0']",True,True,False,True,True,False,True,True,False
+58,jad_occurrence__58,[49],[22],['Matthaeus 22:7'],"[49, 49, 49]","[22, 22, 22]","['Matthaeus 22:10', 'Matthaeus 22:7', 'Matthaeus 22:9']",False,False,False,True,True,True,True,True,True
+59,jad_occurrence__59,[51],[13],['Lucas 13:6'],[51],[13],['Lucas 13:0'],True,True,False,True,True,False,True,True,False
+60,jad_occurrence__60,"[23, 49]","[79, 23]","['Psalmi 79:14', 'Matthaeus 23:35']","[23, 51]","[19, 79]","['Lucas 19:41', 'Psalmi 79:13']",False,False,False,True,True,False,False,False,False
+61,jad_occurrence__61,"[49, 52, 49, 23]","[23, 11, 21, 78]","['Matthaeus 23:38', 'Ioannes 11:48', 'Matthaeus 21:13', 'Psalmi 78:3']","[23, 49, 49, 49, 51, 52]","[11, 13, 20, 21, 26, 79]","['Ioannes 11:48', 'Lucas 13:35', 'Matthaeus 20:1', 'Matthaeus 21:13', 'Matthaeus 26:15', 'Psalmi 79:10']",False,False,False,True,True,True,True,False,False
+62,jad_occurrence__62,[49],[22],['Matthaeus 22:7'],"[49, 52]","[1, 22]","['Ioannes 1:1', 'Matthaeus 22:7']",False,False,False,True,True,True,True,True,True
+63,jad_occurrence__63,[51],[21],['Lucas 21:20'],"[0, 10, 34, 49, 49, 51, 62]","[0, 2, 4, 12, 21, 24, 24]","['2 Samuel 4:4', '2 Thessalonicenses 2:4', 'Daniel 12:1', 'Josephus - The Jewish War 0:0', 'Lucas 21:20', 'Matthaeus 24:16', 'Matthaeus 24:19']",False,False,False,True,True,True,True,True,True
+64,jad_occurrence__64,[49],[22],['Matthaeus 22:7'],[49],[22],['Matthaeus 22:7'],True,True,True,True,True,True,True,True,True
+65,jad_occurrence__65,[49],[22],['Matthaeus 22:7'],"[49, 49, 49]","[22, 22, 22]","['Matthaeus 22:3', 'Matthaeus 22:7', 'Matthaeus 22:9']",False,False,False,True,True,True,True,True,True
+68,jad_occurrence__68,"[31, 31, 31, 23]","[3, 3, 3, 79]","['Lamentationes 3:10', 'Lamentationes 3:12', 'Lamentationes 3:11', 'Psalmi 79:14']",[23],[79],['Psalmi 79:0'],False,False,False,True,True,False,False,False,False
+69,jad_occurrence__69,[52],[11],['Ioannes 11:48'],"[7, 29]","[16, 63]","['Isaias 63:3', 'Iudices 16:0']",False,False,False,False,False,False,False,False,False
+72,jad_occurrence__72,"[29, 30]","[53, 15]","['Isaias 53:7', 'Ieremias 15:9']","[2, 29, 30, 52, 59]","[2, 12, 15, 19, 53]","['Exodus 12:0', 'Ieremias 15:0', 'Ioannes 19:0', 'Isaias 53:0', 'Philippenses 2:0']",False,False,False,True,True,False,True,True,False
+73,jad_occurrence__73,"[29, 49, 51, 29, 51]","[3, 27, 23, 5, 23]","['Isaias 3:8', 'Matthaeus 27:25', 'Lucas 23:21', 'Isaias 5:7', 'Lucas 23:18']","[29, 29, 29, 29, 30, 49, 51, 51, 52]","[3, 5, 12, 14, 19, 23, 23, 27, 57]","['Ieremias 12:7', 'Ioannes 19:15', 'Isaias 14:21', 'Isaias 3:8', 'Isaias 57:4', 'Isaias 5:7', 'Lucas 23:18', 'Lucas 23:21', 'Matthaeus 27:25']",False,False,False,True,True,True,True,True,True
+74,jad_occurrence__74,"[52, 23]","[11, 140]","['Ioannes 11:48', 'Psalmi 140:2']",[23],[141],['Psalmi 141:2'],False,False,False,True,False,False,False,False,False
+75,jad_occurrence__75,[37],[8],['Amos 8:10'],"[2, 9, 37]","[4, 8, 23]","['1 Samuel 23:0', 'Amos 8:10', 'Exodus 4:22']",False,False,False,True,True,True,True,True,True
+76,jad_occurrence__76,"[33, 49]","[18, 3]","['Ezechiel 18:32', 'Matthaeus 3:2']","[33, 49]","[4, 18]","['Ezechiel 18:32', 'Matthaeus 4:17']",True,False,False,True,True,True,True,False,False
+77,jad_occurrence__77,[49],[27],['Matthaeus 27:66'],[49],[27],['Matthaeus 27:66'],True,True,True,True,True,True,True,True,True
+79,jad_occurrence__79,"[14, 14, 67]","[2, 2, 13]","['4 Regum 2:23', '4 Regum 2:24', 'Hebraeos 13:12']",[67],[13],['Hebraeos 13:12'],False,False,False,True,True,True,False,False,False
+80,jad_occurrence__80,"[14, 14, 52]","[2, 2, 19]","['4 Regum 2:23', '4 Regum 2:24', 'Ioannes 19:15']","[12, 49, 49]","[2, 27, 27]","['2 Regum 2:23', 'Matthaeus 27:22', 'Matthaeus 27:33']",False,False,False,False,True,False,False,False,False
+81,jad_occurrence__81,[14],[2],['4 Regum 2:24'],"[1, 10, 12, 49]","[2, 9, 15, 27]","['2 Regum 2:23', '2 Samuel 15:0', 'Genesis 9:20', 'Matthaeus 27:33']",False,False,False,False,True,False,False,True,False
+82,jad_occurrence__82,"[14, 14, 52]","[2, 2, 19]","['4 Regum 2:23', '4 Regum 2:24', 'Ioannes 19:15']","[12, 52]","[2, 19]","['2 Regum 2:23', 'Ioannes 19:15']",False,False,False,True,True,True,False,True,False
+83,jad_occurrence__83,[49],[24],['Matthaeus 24:2'],[49],[24],['Matthaeus 24:2'],True,True,True,True,True,True,True,True,True
+88,jad_occurrence__88,"[29, 29, 29]","[14, 60, 14]","['Isaias 14:2', 'Isaias 60:10', 'Isaias 14:5']","[29, 29, 29, 29]","[14, 14, 14, 14]","['Isaias 14:1', 'Isaias 14:3', 'Isaias 14:4', 'Isaias 14:5']",False,False,False,True,True,True,True,False,False
+104,jad_occurrence__104,[49],[12],['Matthaeus 12:36'],[49],[12],['Matthaeus 12:36'],True,True,True,True,True,True,True,True,True
+105,jad_occurrence__105,"[29, 57]","[3, 5]","['Isaias 3:5', 'Galatas 5:15']",[57],[5],['Galatas 5:15'],False,False,False,True,True,True,False,False,False
+109,jad_occurrence__109,"[33, 47, 47, 47]","[5, 2, 3, 4]","['Ezechiel 5:0', '1 Machabaeorum 2:0', '1 Machabaeorum 3:0', '1 Machabaeorum 4:0']","[33, 47]","[2, 15]","['1 Machabaeorum 2:3', 'Ezechiel 15:6']",False,False,False,True,True,False,True,False,False
+110,jad_occurrence__110,[2],[12],['Exodus 12:40'],[2],[12],['Exodus 12:0'],True,True,False,True,True,False,True,True,False
+111,jad_occurrence__111,"[49, 61]","[23, 2]","['Matthaeus 23:38', '1 Thessalonicenses 2:16']","[49, 61]","[2, 23]","['1 Thessalonicenses 2:16', 'Matthaeus 23:38']",True,False,False,True,True,True,True,True,True
+112,jad_occurrence__112,"[49, 33]","[21, 7]","['Matthaeus 21:13', 'Ezechiel 7:22']","[33, 49]","[7, 21]","['Ezechiel 7:22', 'Matthaeus 21:13']",False,False,False,True,True,True,True,True,True
+113,jad_occurrence__113,[30],[1],['Ieremias 1:13'],[30],[1],['Ieremias 1:13'],True,True,True,True,True,True,True,True,True
+117,jad_occurrence__117,[34],[9],['Daniel 9:26'],"[34, 34]","[9, 9]","['Daniel 9:26', 'Daniel 9:27']",False,False,False,True,True,True,True,True,True
+121,jad_occurrence__121,"[14, 20]","[2, 7]","['4 Regum 2:23', 'Iudith 7:0']","[7, 12]","[2, 8]","['2 Regum 2:23', 'Iudices 8:14']",False,False,False,False,True,False,False,False,False
+122,jad_occurrence__122,[49],[22],['Matthaeus 22:7'],[49],[22],['Matthaeus 22:6'],True,True,False,True,True,False,True,True,False
+123,jad_occurrence__123,[49],[22],['Matthaeus 22:7'],"[51, 52]","[18, 22]","['Ioannes 18:11', 'Lucas 22:51']",False,False,False,False,True,False,False,True,False
+126,jad_occurrence__126,[23],[79],['Psalmi 79:14'],[23],[80],['Psalmi 80:14'],True,False,False,True,False,False,True,False,False
+127,jad_occurrence__127,"[14, 11]","[2, 17]","['4 Regum 2:24', '1 Regum 17:34']","[9, 12]","[2, 17]","['1 Samuel 17:34', '2 Regum 2:23']",False,True,False,False,True,False,False,True,False
+128,jad_occurrence__128,[49],[24],['Matthaeus 24:20'],[49],[24],['Matthaeus 24:20'],True,True,True,True,True,True,True,True,True
+130,jad_occurrence__130,[14],[2],['4 Regum 2:23'],[12],[2],['2 Regum 2:23'],False,True,False,False,True,False,False,True,False
+131,jad_occurrence__131,[75],[6],['Apocalypsis 6:4'],[75],[6],['Apocalypsis 6:4'],True,True,True,True,True,True,True,True,True
+138,jad_occurrence__138,[49],[27],['Matthaeus 27:25'],"[2, 2, 3, 3, 49, 56]","[11, 12, 12, 26, 26, 27]","['2 Corinthios 11:14', 'Exodus 12:40', 'Exodus 12:41', 'Leviticus 26:31', 'Leviticus 26:38', 'Matthaeus 27:25']",False,False,False,True,True,True,True,True,True
+140,jad_occurrence__140,"[14, 14]","[2, 2]","['4 Regum 2:23', '4 Regum 2:24']",[12],[2],['2 Regum 2:23'],False,False,False,False,True,False,False,True,False
+144,jad_occurrence__144,[34],[3],['Daniel 3:38'],"[29, 34]","[0, 0]","['Daniel 0:0', 'Isaias 0:0']",False,False,False,True,False,False,True,False,False
+149,jad_occurrence__149,"[51, 51]","[19, 19]","['Lucas 19:41', 'Lucas 19:43']",[],[],[],False,False,False,False,False,False,False,False,False
+150,jad_occurrence__150,"[49, 23]","[22, 77]","['Matthaeus 22:7', 'Psalmi 77:49']",[23],[78],['Psalmi 78:49'],False,False,False,True,False,False,False,False,False
+151,jad_occurrence__151,"[49, 52, 30]","[23, 11, 12]","['Matthaeus 23:38', 'Ioannes 11:48', 'Ieremias 12:7']","[30, 49, 49, 49]","[12, 23, 23, 27]","['Ieremias 12:7', 'Matthaeus 23:37', 'Matthaeus 23:38', 'Matthaeus 27:50']",False,False,False,True,True,True,False,False,False
+152,jad_occurrence__152,"[14, 49]","[2, 27]","['4 Regum 2:24', 'Matthaeus 27:52']","[49, 49]","[23, 27]","['Matthaeus 23:27', 'Matthaeus 27:50']",False,False,False,True,True,False,False,False,False
+154,jad_occurrence__154,[34],[9],['Daniel 9:24'],[34],[9],['Daniel 9:26'],True,True,False,True,True,False,True,True,False
+156,jad_occurrence__156,[34],[9],['Daniel 9:24'],"[34, 34, 34]","[0, 0, 0]","['Daniel 0:0', 'Daniel 0:0', 'Daniel 0:0']",False,False,False,True,False,False,True,False,False
+161,jad_occurrence__161,"[49, 26, 26]","[27, 8, 8]","['Matthaeus 27:25', 'Canticum Canticorum 8:5', 'Canticum Canticorum 8:6']","[49, 49]","[27, 27]","['Matthaeus 27:24', 'Matthaeus 27:25']",False,False,False,True,True,True,False,False,False
+168,jad_occurrence__168,[45],[11],['Zacharias 11:1'],"[23, 45]","[11, 29]","['Psalmi 29:5', 'Zacharias 11:1']",False,False,False,True,True,True,True,True,True
+169,jad_occurrence__169,"[23, 23]","[34, 34]","['Psalmi 34:3', 'Psalmi 34:2']",[23],[35],['Psalmi 35:2'],False,False,False,True,False,False,True,False,False
+170,jad_occurrence__170,"[49, 49]","[24, 24]","['Matthaeus 24:1', 'Matthaeus 24:2']","[49, 49, 49]","[24, 24, 24]","['Matthaeus 24:1', 'Matthaeus 24:3', 'Matthaeus 24:4']",False,False,False,True,True,True,True,True,False
+171,jad_occurrence__171,"[51, 51]","[19, 21]","['Lucas 19:43', 'Lucas 21:6']","[51, 51]","[1, 19]","['Lucas 19:43', 'Lucas 1:68']",True,False,False,True,True,True,True,False,False
+172,jad_occurrence__172,"[14, 14, 49]","[2, 2, 21]","['4 Regum 2:23', '4 Regum 2:24', 'Matthaeus 21:12']","[12, 49]","[2, 21]","['2 Regum 2:23', 'Matthaeus 21:12']",False,False,False,True,True,True,False,True,False
+173,jad_occurrence__173,"[57, 49, 75]","[4, 24, 21]","['Galatas 4:26', 'Matthaeus 24:2', 'Apocalypsis 21:2']","[49, 57, 75, 75]","[4, 21, 21, 24]","['Apocalypsis 21:2', 'Apocalypsis 21:2', 'Galatas 4:26', 'Matthaeus 24:2']",False,False,False,True,True,True,True,True,True
+174,jad_occurrence__174,[52],[11],['Ioannes 11:48'],"[23, 23, 52, 56]","[8, 11, 14, 53]","['2 Corinthios 8:9', 'Ioannes 11:48', 'Psalmi 14:4', 'Psalmi 53:6']",False,False,False,True,True,True,True,True,True
+175,jad_occurrence__175,"[49, 52]","[24, 19]","['Matthaeus 24:15', 'Ioannes 19:21']","[51, 52, 52]","[19, 19, 19]","['Ioannes 19:15', 'Ioannes 19:21', 'Lucas 19:44']",False,False,False,True,True,True,False,False,False
+177,jad_occurrence__177,"[5, 49, 49, 75, 53, 51, 29, 29, 30, 28]","[32, 23, 27, 6, 13, 21, 64, 65, 21, 28]","['Deuteronomium 32:25', 'Matthaeus 23:38', 'Matthaeus 27:25', 'Apocalypsis 6:12', 'Actus Apostolorum 13:46', 'Lucas 21:22', 'Isaias 64:11', 'Isaias 65:1', 'Ieremias 21:7', 'Ecclesiasticus 28:22']","[5, 23, 29, 29, 29, 31, 31, 31, 49, 51, 75]","[3, 4, 4, 4, 6, 21, 27, 32, 64, 65, 89]","['Apocalypsis 6:12', 'Deuteronomium 32:25', 'Isaias 3:24', 'Isaias 64:10', 'Isaias 65:1', 'Lamentationes 4:10', 'Lamentationes 4:13', 'Lamentationes 4:8', 'Lucas 21:22', 'Matthaeus 27:25', 'Psalmi 89:34']",False,False,False,True,True,True,False,False,False
+178,jad_occurrence__178,[75],[6],['Apocalypsis 6:4'],"[49, 49, 49, 75, 75]","[6, 6, 27, 27, 27]","['Apocalypsis 6:3', 'Apocalypsis 6:4', 'Matthaeus 27:15', 'Matthaeus 27:20', 'Matthaeus 27:25']",False,False,False,True,True,True,True,True,True
+179,jad_occurrence__179,"[75, 75]","[6, 6]","['Apocalypsis 6:4', 'Apocalypsis 6:12']",[],[],[],False,False,False,False,False,False,False,False,False
+180,jad_occurrence__180,[75],[6],['Apocalypsis 6:13'],[75],[6],['Apocalypsis 6:13'],True,True,True,True,True,True,True,True,True
+181,jad_occurrence__181,"[52, 23, 23, 2]","[11, 19, 19, 15]","['Ioannes 11:48', 'Psalmi 19:8', 'Psalmi 19:9', 'Exodus 15:1']","[2, 52]","[11, 15]","['Exodus 15:1', 'Ioannes 11:50']",False,False,False,True,True,True,False,False,False
+183,jad_occurrence__183,"[23, 33]","[79, 16]","['Psalmi 79:14', 'Ezechiel 16:13']","[23, 23, 33, 52]","[14, 16, 45, 80]","['Ezechiel 16:13', 'Ioannes 14:31', 'Psalmi 45:2', 'Psalmi 80:13']",False,False,False,True,True,True,True,False,False
+184,jad_occurrence__184,"[75, 33]","[11, 3]","['Apocalypsis 11:2', 'Ezechiel 3:26']","[33, 49, 49, 75, 75, 75]","[3, 5, 6, 11, 11, 11]","['Apocalypsis 11:2', 'Apocalypsis 11:3', 'Apocalypsis 11:4', 'Ezechiel 3:26', 'Matthaeus 5:16', 'Matthaeus 6:3']",False,False,False,True,True,True,True,True,True
+186,jad_occurrence__186,[75],[16],['Apocalypsis 16:8'],[75],[16],['Apocalypsis 16:8'],True,True,True,True,True,True,True,True,True
+187,jad_occurrence__187,"[75, 29, 5]","[19, 5, 32]","['Apocalypsis 19:15', 'Isaias 5:2', 'Deuteronomium 32:32']","[5, 29, 75, 75, 75]","[5, 19, 19, 19, 32]","['Apocalypsis 19:15', 'Apocalypsis 19:15', 'Apocalypsis 19:16', 'Deuteronomium 32:32', 'Isaias 5:1']",False,False,False,True,True,True,True,True,False
+188,jad_occurrence__188,[34],[7],['Daniel 7:0'],[34],[0],['Daniel 0:0'],True,False,False,True,False,False,True,False,False
+189,jad_occurrence__189,"[36, 36, 36, 33]","[4, 4, 4, 16]","['Ioel 4:6', 'Ioel 4:7', 'Ioel 4:8', 'Ezechiel 16:3']","[33, 36, 75]","[2, 3, 16]","['Apocalypsis 2:9', 'Ezechiel 16:3', 'Ioel 3:7']",False,False,False,True,True,True,True,False,False
+190,jad_occurrence__190,"[23, 23]","[58, 58]","['Psalmi 58:11', 'Psalmi 58:12']","[23, 37]","[3, 59]","['Amos 3:12', 'Psalmi 59:11']",False,False,False,True,False,False,True,False,False
+191,jad_occurrence__191,"[23, 49]","[79, 23]","['Psalmi 79:14', 'Matthaeus 23:34']","[23, 49]","[23, 80]","['Matthaeus 23:34', 'Psalmi 80:14']",True,False,False,True,True,True,True,False,False
+192,jad_occurrence__192,"[29, 52, 30]","[5, 6, 21]","['Isaias 5:13', 'Ioannes 6:0', 'Ieremias 21:7']",[29],[5],['Isaias 5:13'],False,False,False,True,True,True,False,False,False
+193,jad_occurrence__193,"[52, 52]","[8, 8]","['Ioannes 8:22', 'Ioannes 8:23']",[52],[8],['Ioannes 8:23'],False,False,False,True,True,True,True,True,False
+194,jad_occurrence__194,[22],[9],['Iob 9:6'],"[22, 22, 22]","[9, 9, 9]","['Iob 9:5', 'Iob 9:6', 'Iob 9:7']",False,False,False,True,True,True,True,True,True
+195,jad_occurrence__195,"[34, 25, 49]","[7, 3, 11]","['Daniel 7:0', 'Ecclesiastes 3:4', 'Matthaeus 11:17']","[25, 34, 49]","[3, 7, 11]","['Daniel 7:7', 'Ecclesiastes 3:4', 'Matthaeus 11:16']",False,False,False,True,True,True,True,True,False
+196,jad_occurrence__196,"[52, 54, 30]","[11, 9, 12]","['Ioannes 11:48', 'Romanos 9:5', 'Ieremias 12:8']","[29, 30, 54]","[9, 12, 29]","['Ieremias 12:8', 'Isaias 29:1', 'Romanos 9:4']",False,False,False,True,True,True,False,False,False
+197,jad_occurrence__197,"[52, 23]","[11, 79]","['Ioannes 11:48', 'Psalmi 79:14']",[23],[80],['Psalmi 80:13'],False,False,False,True,False,False,False,False,False
+198,jad_occurrence__198,"[52, 30, 30, 52]","[11, 17, 17, 11]","['Ioannes 11:48', 'Ieremias 17:13', 'Ieremias 17:18', 'Ioannes 11:53']","[1, 23, 30, 30, 52, 52]","[11, 11, 17, 17, 49, 69]","['Genesis 49:10', 'Ieremias 17:13', 'Ieremias 17:18', 'Ioannes 11:47', 'Ioannes 11:48', 'Psalmi 69:28']",False,False,False,True,True,True,True,True,False
+199,jad_occurrence__199,"[34, 49]","[9, 24]","['Daniel 9:26', 'Matthaeus 24:15']","[34, 34]","[9, 9]","['Daniel 9:26', 'Daniel 9:27']",False,False,False,True,True,True,False,False,False
+202,jad_occurrence__202,"[29, 29, 29]","[64, 64, 1]","['Isaias 64:10', 'Isaias 64:6', 'Isaias 1:10']","[29, 29, 29]","[1, 64, 64]","['Isaias 1:10', 'Isaias 64:10', 'Isaias 64:7']",True,False,False,True,True,True,True,True,False
+203,jad_occurrence__203,[28],[10],['Ecclesiasticus 10:28'],"[10, 24, 67]","[8, 12, 17]","['2 Samuel 8:14', 'Hebraeos 12:16', 'Proverbia 17:2']",False,False,False,False,False,False,False,False,False
+204,jad_occurrence__204,"[23, 23]","[79, 79]","['Psalmi 79:13', 'Psalmi 79:14']","[23, 23]","[80, 80]","['Psalmi 80:13', 'Psalmi 80:14']",True,False,False,True,False,False,True,False,False
+205,jad_occurrence__205,"[5, 5]","[32, 32]","['Deuteronomium 32:25', 'Deuteronomium 32:24']",[],[],[],False,False,False,False,False,False,False,False,False
+206,jad_occurrence__206,"[52, 23, 23]","[11, 34, 34]","['Ioannes 11:48', 'Psalmi 34:2', 'Psalmi 34:1']","[23, 23, 52]","[11, 35, 35]","['Ioannes 11:48', 'Psalmi 35:1', 'Psalmi 35:1']",False,False,False,True,True,True,True,False,False
+207,jad_occurrence__207,"[14, 14, 29]","[2, 2, 65]","['4 Regum 2:23', '4 Regum 2:24', 'Isaias 65:20']",[12],[2],['2 Regum 2:23'],False,False,False,False,True,False,False,False,False
+209,jad_occurrence__209,"[49, 51, 52, 49]","[27, 21, 11, 24]","['Matthaeus 27:25', 'Lucas 21:6', 'Ioannes 11:48', 'Matthaeus 24:2']","[29, 29, 29, 49, 49, 53, 53]","[1, 1, 1, 2, 2, 23, 27]","['Actus Apostolorum 2:37', 'Actus Apostolorum 2:38', 'Isaias 1:14', 'Isaias 1:15', 'Isaias 1:16', 'Matthaeus 23:37', 'Matthaeus 27:25']",False,False,False,True,True,True,False,False,False
+210,jad_occurrence__210,"[5, 54, 33]","[32, 11, 4]","['Deuteronomium 32:25', 'Romanos 11:25', 'Ezechiel 4:1']","[0, 49]","[0, 27]","['Matthaeus 27:50', 'Moses 0:0']",False,False,False,False,False,False,False,False,False
+212,jad_occurrence__212,[34],[9],['Daniel 9:24'],"[5, 34, 49]","[9, 27, 28]","['Daniel 9:26', 'Deuteronomium 28:66', 'Matthaeus 27:2']",False,False,False,True,True,False,True,True,False
+213,jad_occurrence__213,[49],[22],['Matthaeus 22:7'],"[23, 49, 49]","[22, 22, 78]","['Matthaeus 22:7', 'Matthaeus 22:8', 'Psalmi 78:49']",False,False,False,True,True,True,True,True,True
+218,jad_occurrence__218,"[49, 52, 30]","[27, 19, 18]","['Matthaeus 27:25', 'Ioannes 19:15', 'Ieremias 18:21']","[30, 49, 52]","[18, 19, 27]","['Ieremias 18:21', 'Ioannes 19:15', 'Matthaeus 27:25']",False,False,False,True,True,True,True,True,True
+220,jad_occurrence__220,[30],[18],['Ieremias 18:22'],[],[],[],False,False,False,False,False,False,False,False,False
+224,jad_occurrence__224,"[14, 14]","[2, 2]","['4 Regum 2:23', '4 Regum 2:24']",[12],[2],['2 Regum 2:23'],False,False,False,False,True,False,False,True,False
+225,jad_occurrence__225,"[14, 14, 49]","[2, 2, 27]","['4 Regum 2:23', '4 Regum 2:24', 'Matthaeus 27:40']","[12, 49]","[2, 27]","['2 Regum 2:23', 'Matthaeus 27:40']",False,False,False,True,True,True,False,True,False
+226,jad_occurrence__226,"[30, 30]","[18, 18]","['Ieremias 18:21', 'Ieremias 18:22']","[49, 51, 51]","[23, 23, 27]","['Lucas 23:21', 'Lucas 23:34', 'Matthaeus 27:50']",False,False,False,False,False,False,False,False,False
+228,jad_occurrence__228,[33],[5],['Ezechiel 5:1'],[33],[5],['Ezechiel 5:1'],True,True,True,True,True,True,True,True,True
+229,jad_occurrence__229,[1],[9],['Genesis 9:27'],[1],[9],['Genesis 9:27'],True,True,True,True,True,True,True,True,True
+230,jad_occurrence__230,[52],[11],['Ioannes 11:48'],"[11, 52, 52]","[11, 11, 17]","['1 Regum 17:19', 'Ioannes 11:48', 'Ioannes 11:50']",False,False,False,True,True,True,True,True,True
+232,jad_occurrence__232,"[51, 49]","[21, 24]","['Lucas 21:6', 'Matthaeus 24:2']","[12, 49]","[2, 23]","['2 Regum 2:23', 'Matthaeus 23:37']",False,False,False,True,False,False,False,False,False
+234,jad_occurrence__234,"[23, 23]","[78, 88]","['Psalmi 78:3', 'Psalmi 88:11']",[23],[88],['Psalmi 88:11'],False,False,False,True,True,True,True,False,False
+235,jad_occurrence__235,"[55, 57, 33]","[3, 4, 9]","['1 Corinthios 3:17', 'Galatas 4:22', 'Ezechiel 9:6']","[55, 57]","[3, 4]","['1 Corinthios 3:17', 'Galatas 4:22']",False,False,False,True,True,True,False,False,False
+236,jad_occurrence__236,[5],[32],['Deuteronomium 32:25'],[49],[27],['Matthaeus 27:21'],False,False,False,False,False,False,False,False,False
+237,jad_occurrence__237,"[49, 52]","[23, 11]","['Matthaeus 23:38', 'Ioannes 11:48']",[51],[13],['Lucas 13:35'],False,False,False,False,False,False,False,False,False
+238,jad_occurrence__238,"[23, 23]","[68, 78]","['Psalmi 68:25', 'Psalmi 78:6']",[],[],[],False,False,False,False,False,False,False,False,False
+240,jad_occurrence__240,"[49, 23]","[8, 88]","['Matthaeus 8:29', 'Psalmi 88:24']",[49],[8],['Matthaeus 8:29'],False,False,False,True,True,True,False,False,False
+242,jad_occurrence__242,"[14, 52]","[2, 11]","['4 Regum 2:24', 'Ioannes 11:48']","[1, 12, 49, 49, 52]","[2, 11, 27, 28, 50]","['2 Regum 2:23', 'Genesis 50:20', 'Ioannes 11:48', 'Matthaeus 27:50', 'Matthaeus 28:5']",False,False,False,True,True,True,False,True,False
+243,jad_occurrence__243,[49],[11],['Matthaeus 11:30'],[49],[11],['Matthaeus 11:30'],True,True,True,True,True,True,True,True,True
+244,jad_occurrence__244,"[49, 51, 33, 49]","[27, 21, 5, 25]","['Matthaeus 27:25', 'Lucas 21:6', 'Ezechiel 5:1', 'Matthaeus 25:41']",[],[],[],False,False,False,False,False,False,False,False,False
+245,jad_occurrence__245,"[14, 14, 23, 49]","[2, 2, 62, 27]","['4 Regum 2:23', '4 Regum 2:24', 'Psalmi 62:11', 'Matthaeus 27:29']","[7, 7, 12, 49]","[2, 15, 16, 27]","['2 Regum 2:23', 'Iudices 15:4', 'Iudices 16:17', 'Matthaeus 27:29']",False,False,False,True,True,True,False,False,False
+246,jad_occurrence__246,"[30, 23]","[18, 105]","['Ieremias 18:21', 'Psalmi 105:41']","[23, 49]","[27, 141]","['Matthaeus 27:50', 'Psalmi 141:7']",False,False,False,True,False,False,False,False,False
+247,jad_occurrence__247,"[14, 14, 49]","[2, 2, 27]","['4 Regum 2:23', '4 Regum 2:24', 'Matthaeus 27:40']","[12, 49]","[2, 27]","['2 Regum 2:23', 'Matthaeus 27:40']",False,False,False,True,True,True,False,True,False
+249,jad_occurrence__249,"[52, 30, 23, 23, 51, 30]","[19, 18, 62, 105, 21, 21]","['Ioannes 19:15', 'Ieremias 18:21', 'Psalmi 62:11', 'Psalmi 105:41', 'Lucas 21:24', 'Ieremias 21:7']","[23, 51, 51, 75]","[19, 21, 23, 63]","['Apocalypsis 19:15', 'Lucas 21:24', 'Lucas 23:21', 'Psalmi 63:10']",False,False,False,True,True,True,False,False,False
+252,jad_occurrence__252,"[52, 49]","[11, 10]","['Ioannes 11:48', 'Matthaeus 10:17']","[49, 50, 52]","[10, 11, 13]","['Ioannes 11:48', 'Marcus 13:9', 'Matthaeus 10:22']",False,False,False,True,True,True,True,True,False
+253,jad_occurrence__253,"[11, 23, 23]","[4, 77, 77]","['1 Regum 4:11', 'Psalmi 77:61', 'Psalmi 77:62']","[3, 9, 52]","[4, 19, 26]","['1 Samuel 4:11', 'Ioannes 19:15', 'Leviticus 26:25']",False,False,False,False,True,False,False,False,False
+254,jad_occurrence__254,"[52, 23]","[11, 23]","['Ioannes 11:48', 'Psalmi 23:8']","[23, 23, 53, 59]","[3, 4, 24, 24]","['Actus Apostolorum 4:33', 'Philippenses 3:20', 'Psalmi 24:8', 'Psalmi 24:8']",False,False,False,True,False,False,False,False,False
+256,jad_occurrence__256,[23],[79],['Psalmi 79:14'],[23],[80],['Psalmi 80:12'],True,False,False,True,False,False,True,False,False
+258,jad_occurrence__258,"[51, 51, 51]","[19, 19, 21]","['Lucas 19:41', 'Lucas 19:43', 'Lucas 21:6']","[51, 51, 51, 51]","[19, 19, 19, 19]","['Lucas 19:41', 'Lucas 19:42', 'Lucas 19:43', 'Lucas 19:44']",False,False,False,True,True,True,True,False,False
+259,jad_occurrence__259,"[51, 51]","[19, 19]","['Lucas 19:41', 'Lucas 19:43']",[51],[19],['Lucas 19:41'],False,False,False,True,True,True,True,True,False
+260,jad_occurrence__260,[51],[21],['Lucas 21:20'],"[51, 51]","[21, 21]","['Lucas 21:20', 'Lucas 21:21']",False,False,False,True,True,True,True,True,True
+261,jad_occurrence__261,[51],[21],['Lucas 21:20'],"[51, 51]","[21, 21]","['Lucas 21:20', 'Lucas 21:21']",False,False,False,True,True,True,True,True,True
+262,jad_occurrence__262,[49],[22],['Matthaeus 22:7'],[],[],[],False,False,False,False,False,False,False,False,False
+263,jad_occurrence__263,"[2, 2]","[11, 12]","['Exodus 11:0', 'Exodus 12:0']",[],[],[],False,False,False,False,False,False,False,False,False
+264,jad_occurrence__264,[51],[19],['Lucas 19:14'],[51],[19],['Lucas 19:14'],True,True,True,True,True,True,True,True,True
+265,jad_occurrence__265,"[52, 52]","[11, 19]","['Ioannes 11:48', 'Ioannes 19:15']","[52, 52]","[11, 19]","['Ioannes 11:48', 'Ioannes 19:15']",True,True,True,True,True,True,True,True,True
+266,jad_occurrence__266,"[52, 49]","[11, 8]","['Ioannes 11:48', 'Matthaeus 8:12']",[49],[8],['Matthaeus 8:12'],False,False,False,True,True,True,False,False,False
+267,jad_occurrence__267,"[51, 51, 30]","[19, 21, 8]","['Lucas 19:43', 'Lucas 21:6', 'Ieremias 8:7']","[30, 51, 51]","[8, 19, 19]","['Ieremias 8:7', 'Lucas 19:42', 'Lucas 19:44']",False,False,False,True,True,True,True,False,False
+268,jad_occurrence__268,[49],[22],['Matthaeus 22:7'],[23],[71],['Psalmi 71:16'],False,False,False,False,False,False,False,False,False
+273,jad_occurrence__273,"[51, 51, 49]","[19, 24, 10]","['Lucas 19:43', 'Lucas 24:44', 'Matthaeus 10:18']","[49, 51, 51]","[10, 19, 24]","['Lucas 19:0', 'Lucas 24:0', 'Matthaeus 10:0']",False,False,False,True,True,False,True,True,False
+275,jad_occurrence__275,[29],[50],['Isaias 50:9'],[],[],[],False,False,False,False,False,False,False,False,False
+276,jad_occurrence__276,"[29, 51]","[61, 21]","['Isaias 61:2', 'Lucas 21:20']","[29, 29, 51, 51]","[4, 21, 61, 61]","['Isaias 61:1', 'Isaias 61:2', 'Lucas 21:20', 'Lucas 4:18']",False,False,False,True,True,True,True,True,True
+277,jad_occurrence__277,[29],[2],['Isaias 2:6'],[],[],[],False,False,False,False,False,False,False,False,False
+278,jad_occurrence__278,[29],[29],['Isaias 29:9'],[],[],[],False,False,False,False,False,False,False,False,False
+280,jad_occurrence__280,[29],[53],['Isaias 53:7'],"[29, 68]","[5, 53]","['Iacobi 5:7', 'Isaias 53:7']",False,False,False,True,True,True,True,True,True
+281,jad_occurrence__281,"[34, 29]","[9, 5]","['Daniel 9:26', 'Isaias 5:2']","[29, 34]","[5, 9]","['Daniel 9:26', 'Isaias 5:2']",False,False,True,True,True,True,True,True,True
+282,jad_occurrence__282,"[29, 52, 30]","[3, 19, 5]","['Isaias 3:8', 'Ioannes 19:15', 'Ieremias 5:10']","[29, 30, 52]","[3, 5, 19]","['Ieremias 5:10', 'Ioannes 19:15', 'Isaias 3:8']",False,False,False,True,True,True,True,True,True
+284,jad_occurrence__284,"[51, 30]","[21, 21]","['Lucas 21:20', 'Ieremias 21:7']","[51, 51, 51]","[19, 21, 21]","['Lucas 19:41', 'Lucas 21:20', 'Lucas 21:23']",False,False,False,True,True,True,False,True,False
+285,jad_occurrence__285,[49],[22],['Matthaeus 22:7'],[53],[5],['Actus Apostolorum 5:41'],False,False,False,False,False,False,False,False,False
+286,jad_occurrence__286,"[49, 75]","[22, 3]","['Matthaeus 22:7', 'Apocalypsis 3:12']",[75],[21],['Apocalypsis 21:2'],False,False,False,True,False,False,False,False,False
+292,jad_occurrence__292,[23],[79],['Psalmi 79:14'],[23],[79],['Psalmi 79:14'],True,True,True,True,True,True,True,True,True
+298,jad_occurrence__298,"[52, 49]","[11, 27]","['Ioannes 11:48', 'Matthaeus 27:52']","[49, 49, 52, 52]","[11, 18, 27, 27]","['Ioannes 11:48', 'Ioannes 18:6', 'Matthaeus 27:45', 'Matthaeus 27:51']",False,False,False,True,True,True,True,True,False
+303,jad_occurrence__303,[53],[7],['Actus Apostolorum 7:51'],[53],[7],['Actus Apostolorum 7:51'],True,True,True,True,True,True,True,True,True
+304,jad_occurrence__304,"[49, 49]","[24, 24]","['Matthaeus 24:20', 'Matthaeus 24:3']","[10, 49, 49]","[4, 24, 24]","['2 Samuel 4:4', 'Matthaeus 24:20', 'Matthaeus 24:3']",False,False,False,True,True,True,True,True,True
+307,jad_occurrence__307,"[52, 49]","[11, 23]","['Ioannes 11:48', 'Matthaeus 23:13']","[49, 52]","[11, 23]","['Ioannes 11:48', 'Matthaeus 23:13']",False,True,True,True,True,True,True,True,True
+308,jad_occurrence__308,[52],[11],['Ioannes 11:48'],[],[],[],False,False,False,False,False,False,False,False,False
+309,jad_occurrence__309,"[52, 49]","[11, 23]","['Ioannes 11:48', 'Matthaeus 23:13']","[49, 52]","[11, 23]","['Ioannes 11:48', 'Matthaeus 23:13']",False,True,True,True,True,True,True,True,True
+310,jad_occurrence__310,[49],[24],['Matthaeus 24:19'],"[49, 49, 51]","[23, 24, 24]","['Lucas 23:29', 'Matthaeus 24:16', 'Matthaeus 24:19']",False,False,False,True,True,True,True,True,True
+311,jad_occurrence__311,[49],[16],['Matthaeus 16:18'],[49],[16],['Matthaeus 16:18'],True,True,True,True,True,True,True,True,True
+312,jad_occurrence__312,"[51, 52]","[19, 11]","['Lucas 19:41', 'Ioannes 11:48']","[51, 52]","[11, 19]","['Ioannes 11:48', 'Lucas 19:41']",True,False,False,True,True,True,True,True,True
+315,jad_occurrence__315,"[53, 49, 52]","[3, 19, 19]","['Actus Apostolorum 3:13', 'Matthaeus 19:28', 'Ioannes 19:10']","[49, 52]","[19, 27]","['Ioannes 19:10', 'Matthaeus 27:50']",False,False,False,True,True,True,False,False,False
+316,jad_occurrence__316,"[36, 36]","[2, 2]","['Ioel 2:1', 'Ioel 2:3']","[36, 36, 36, 47]","[1, 2, 2, 2]","['1 Machabaeorum 1:30', 'Ioel 2:1', 'Ioel 2:2', 'Ioel 2:3']",False,False,False,True,True,True,True,True,True
+317,jad_occurrence__317,"[37, 37]","[1, 1]","['Amos 1:7', 'Amos 1:8']",[37],[1],['Amos 1:6'],False,False,False,True,True,False,True,True,False
+318,jad_occurrence__318,[37],[3],['Amos 3:6'],"[11, 12, 30, 37, 37, 51, 71]","[3, 3, 5, 12, 17, 21, 25]","['1 Ioannis 5:19', '1 Regum 12:28', '2 Regum 17:6', 'Amos 3:6', 'Amos 3:7', 'Ieremias 25:9', 'Lucas 21:20']",False,False,False,True,True,True,True,True,True
+319,jad_occurrence__319,"[49, 49]","[23, 23]","['Matthaeus 23:38', 'Matthaeus 23:37']","[37, 37, 49, 49, 49]","[5, 9, 23, 23, 23]","['Amos 5:1', 'Amos 9:6', 'Matthaeus 23:13', 'Matthaeus 23:37', 'Matthaeus 23:38']",False,False,False,True,True,True,True,True,True
+320,jad_occurrence__320,[52],[11],['Ioannes 11:48'],"[37, 37, 52]","[8, 8, 11]","['Amos 8:8', 'Amos 8:9', 'Ioannes 11:48']",False,False,False,True,True,True,True,True,True
+321,jad_occurrence__321,[1],[13],['Genesis 13:10'],"[31, 37, 37]","[4, 4, 6]","['Amos 4:11', 'Amos 6:1', 'Lamentationes 4:6']",False,False,False,False,False,False,False,False,False
+322,jad_occurrence__322,[14],[19],['4 Regum 19:35'],[],[],[],False,False,False,False,False,False,False,False,False
+324,jad_occurrence__324,[54],[2],['Romanos 2:9'],[54],[2],['Romanos 2:9'],True,True,True,True,True,True,True,True,True
+325,jad_occurrence__325,"[40, 40]","[3, 4]","['Micheas 3:12', 'Micheas 4:2']","[40, 40, 40]","[3, 4, 5]","['Micheas 3:12', 'Micheas 4:1', 'Micheas 5:1']",False,False,False,True,True,True,True,True,False
+326,jad_occurrence__326,"[49, 43, 52, 43, 43]","[27, 1, 12, 1, 1]","['Matthaeus 27:25', 'Sophonias 1:4', 'Ioannes 12:32', 'Sophonias 1:14', 'Sophonias 1:8']","[5, 31, 33, 34, 43, 49, 49, 49, 49, 49, 49, 52, 52, 52, 52, 53]","[1, 1, 2, 8, 8, 8, 10, 12, 13, 16, 21, 23, 26, 26, 27, 32]","['Actus Apostolorum 1:20', 'Daniel 13:56', 'Deuteronomium 32:35', 'Ezechiel 16:3', 'Ioannes 10:1', 'Ioannes 12:32', 'Ioannes 8:33', 'Ioannes 8:41', 'Lamentationes 2:20', 'Matthaeus 21:13', 'Matthaeus 23:1', 'Matthaeus 26:63', 'Matthaeus 26:66', 'Matthaeus 27:25', 'Matthaeus 8:11', 'Sophonias 1:2']",False,False,False,True,True,True,True,True,False
+330,jad_occurrence__330,"[30, 5]","[21, 32]","['Ieremias 21:7', 'Deuteronomium 32:22']","[5, 31, 31]","[1, 1, 32]","['Deuteronomium 32:22', 'Lamentationes 1:1', 'Lamentationes 1:3']",False,False,False,True,True,True,False,False,False
+331,jad_occurrence__331,[29],[62],['Isaias 62:6'],[29],[62],['Isaias 62:6'],True,True,True,True,True,True,True,True,True
+332,jad_occurrence__332,"[51, 54]","[19, 9]","['Lucas 19:41', 'Romanos 9:2']","[51, 54]","[9, 19]","['Lucas 19:41', 'Romanos 9:1']",True,False,False,True,True,True,True,True,False
+333,jad_occurrence__333,[30],[21],['Ieremias 21:7'],"[11, 11, 11, 51]","[2, 2, 2, 21]","['1 Regum 2:24', '1 Regum 2:26', '1 Regum 2:45', 'Lucas 21:24']",False,False,False,False,True,False,False,True,False
+334,jad_occurrence__334,"[51, 51, 28]","[21, 21, 28]","['Lucas 21:20', 'Lucas 21:24', 'Ecclesiasticus 28:22']","[51, 51]","[21, 21]","['Lucas 21:20', 'Lucas 21:23']",False,False,False,True,True,True,False,False,False
+336,jad_occurrence__336,[49],[28],['Matthaeus 28:19'],"[29, 49]","[28, 52]","['Isaias 52:11', 'Matthaeus 28:19']",False,False,False,True,True,True,True,True,True
+337,jad_occurrence__337,[23],[33],['Psalmi 33:17'],"[23, 31]","[4, 34]","['Lamentationes 4:16', 'Psalmi 34:16']",False,False,False,True,False,False,True,False,False
+338,jad_occurrence__338,"[5, 45, 52]","[32, 12, 3]","['Deuteronomium 32:22', 'Zacharias 12:11', 'Ioannes 3:5']","[5, 45, 45, 52]","[3, 12, 12, 32]","['Deuteronomium 32:22', 'Ioannes 3:5', 'Zacharias 12:10', 'Zacharias 12:11']",False,False,False,True,True,True,True,True,True
+339,jad_occurrence__339,[5],[32],['Deuteronomium 32:22'],[5],[32],['Deuteronomium 32:22'],True,True,True,True,True,True,True,True,True
+340,jad_occurrence__340,"[52, 23, 23, 52]","[19, 63, 56, 12]","['Ioannes 19:15', 'Psalmi 63:4', 'Psalmi 56:5', 'Ioannes 12:32']",[],[],[],False,False,False,False,False,False,False,False,False
+341,jad_occurrence__341,[5],[32],['Deuteronomium 32:22'],[37],[1],['Amos 1:12'],False,False,False,False,False,False,False,False,False
+344,jad_occurrence__344,[35],[10],['Osee 10:8'],"[35, 51]","[10, 23]","['Lucas 23:28', 'Osee 10:8']",False,False,False,True,True,True,True,True,True
+347,jad_occurrence__347,"[29, 37]","[64, 7]","['Isaias 64:6', 'Amos 7:2']",[29],[64],['Isaias 64:7'],False,False,False,True,True,False,False,False,False
+350,jad_occurrence__350,"[51, 51]","[21, 11]","['Lucas 21:23', 'Lucas 11:51']","[49, 51]","[21, 23]","['Lucas 21:23', 'Matthaeus 23:35']",False,False,False,True,True,True,True,False,False
+352,jad_occurrence__352,[52],[11],['Ioannes 11:48'],[30],[17],['Ieremias 17:18'],False,False,False,False,False,False,False,False,False
+354,jad_occurrence__354,"[54, 1]","[11, 19]","['Romanos 11:25', 'Genesis 19:24']","[1, 29, 54, 54]","[1, 9, 11, 19]","['Genesis 19:24', 'Isaias 1:9', 'Romanos 11:25', 'Romanos 9:29']",False,False,False,True,True,True,True,True,True
+355,jad_occurrence__355,"[52, 23]","[11, 62]","['Ioannes 11:48', 'Psalmi 62:11']",[30],[1],['Ieremias 1:10'],False,False,False,False,False,False,False,False,False
+357,jad_occurrence__357,[52],[11],['Ioannes 11:48'],"[23, 34]","[7, 80]","['Daniel 7:7', 'Psalmi 80:13']",False,False,False,False,False,False,False,False,False
+358,jad_occurrence__358,[52],[11],['Ioannes 11:48'],"[49, 49, 51, 52]","[1, 7, 8, 10]","['Ioannes 10:16', 'Lucas 1:8', 'Matthaeus 7:22', 'Matthaeus 8:12']",False,False,False,True,False,False,True,False,False
+363,jad_occurrence__363,[49],[22],['Matthaeus 22:7'],"[23, 29, 49]","[13, 22, 78]","['Isaias 13:5', 'Matthaeus 22:7', 'Psalmi 78:49']",False,False,False,True,True,True,True,True,True
+364,jad_occurrence__364,[49],[24],['Matthaeus 24:20'],[49],[24],['Matthaeus 24:20'],True,True,True,True,True,True,True,True,True
+365,jad_occurrence__365,"[49, 52]","[23, 11]","['Matthaeus 23:38', 'Ioannes 11:48']","[49, 49, 49, 51]","[13, 23, 23, 23]","['Lucas 13:35', 'Matthaeus 23:37', 'Matthaeus 23:38', 'Matthaeus 23:39']",False,False,False,True,True,True,False,False,False
+368,jad_occurrence__368,[49],[27],['Matthaeus 27:25'],"[49, 49, 54]","[11, 13, 27]","['Matthaeus 13:30', 'Matthaeus 27:25', 'Romanos 11:25']",False,False,False,True,True,True,True,True,True
+376,jad_occurrence__376,[49],[22],['Matthaeus 22:7'],[49],[24],['Matthaeus 24:2'],True,False,False,True,False,False,True,False,False
+377,jad_occurrence__377,[49],[22],['Matthaeus 22:7'],"[49, 49, 49]","[22, 22, 22]","['Matthaeus 22:6', 'Matthaeus 22:7', 'Matthaeus 22:7']",False,False,False,True,True,True,True,True,True
+384,jad_occurrence__384,[49],[27],['Matthaeus 27:25'],"[11, 49, 53, 60]","[2, 2, 18, 27]","['1 Regum 18:42', 'Actus Apostolorum 2:3', 'Colossenses 2:15', 'Matthaeus 27:25']",False,False,False,True,True,True,True,True,True
+395,jad_occurrence__395,[49],[27],['Matthaeus 27:25'],"[49, 52]","[19, 27]","['Ioannes 19:15', 'Matthaeus 27:25']",False,False,False,True,True,True,True,True,True
+398,jad_occurrence__398,[49],[23],['Matthaeus 23:38'],"[49, 61]","[2, 23]","['1 Thessalonicenses 2:16', 'Matthaeus 23:38']",False,False,False,True,True,True,True,True,True
+403,jad_occurrence__403,[49],[22],['Matthaeus 22:7'],[],[],[],False,False,False,False,False,False,False,False,False
+404,jad_occurrence__404,[52],[11],['Ioannes 11:48'],"[9, 52, 52, 52]","[2, 11, 11, 12]","['1 Samuel 2:30', 'Ioannes 11:47', 'Ioannes 11:48', 'Ioannes 12:19']",False,False,False,True,True,True,True,True,True
+413,jad_occurrence__413,[51],[19],['Lucas 19:41'],"[23, 23, 23, 23, 24, 24, 25, 28, 30, 30, 49, 49, 49, 49, 51, 51, 51, 52, 52, 52, 55, 56, 68, 71]","[1, 2, 3, 7, 7, 7, 7, 8, 9, 10, 12, 12, 13, 14, 14, 16, 19, 25, 25, 28, 51, 88, 143, 146]","['1 Corinthios 7:30', '1 Ioannis 1:8', '2 Corinthios 12:2', 'Ecclesiastes 7:20', 'Ecclesiasticus 7:40', 'Iacobi 3:2', 'Ieremias 10:23', 'Ieremias 8:7', 'Ioannes 13:23', 'Ioannes 14:30', 'Ioannes 14:30', 'Lucas 12:58', 'Lucas 19:42', 'Lucas 9:58', 'Matthaeus 16:19', 'Matthaeus 25:40', 'Matthaeus 25:40', 'Matthaeus 7:21', 'Proverbia 28:14', 'Proverbia 2:14', 'Psalmi 143:2', 'Psalmi 146:4', 'Psalmi 51:5', 'Psalmi 88:5']",False,False,False,True,True,False,True,True,False
+433,jad_occurrence__433,[49],[27],['Matthaeus 27:25'],[49],[27],['Matthaeus 27:25'],True,True,True,True,True,True,True,True,True
+460,jad_occurrence__460,[49],[27],['Matthaeus 27:25'],"[12, 23, 49]","[2, 27, 51]","['2 Regum 2:23', 'Matthaeus 27:25', 'Psalmi 51:17']",False,False,False,True,True,True,True,True,True
+461,jad_occurrence__461,[45],[11],['Zacharias 11:1'],[],[],[],False,False,False,False,False,False,False,False,False
+467,jad_occurrence__467,[49],[27],['Matthaeus 27:25'],"[49, 49, 52]","[19, 21, 27]","['Ioannes 19:15', 'Matthaeus 21:38', 'Matthaeus 27:25']",False,False,False,True,True,True,True,True,True
+508,jad_occurrence__508,[49],[27],['Matthaeus 27:25'],"[9, 23, 49]","[1, 16, 27]","['1 Samuel 1:22', 'Matthaeus 27:25', 'Psalmi 16:5']",False,False,False,True,True,True,True,True,True
+514,jad_occurrence__514,[49],[22],['Matthaeus 22:7'],"[23, 30]","[25, 78]","['Ieremias 25:9', 'Psalmi 78:49']",False,False,False,False,False,False,False,False,False
+515,jad_occurrence__515,[52],[11],['Ioannes 11:48'],[],[],[],False,False,False,False,False,False,False,False,False
+519,jad_occurrence__519,[45],[11],['Zacharias 11:1'],[],[],[],False,False,False,False,False,False,False,False,False
+550,jad_occurrence__550,"[51, 51, 51, 51, 14, 14, 33, 33, 49]","[19, 19, 19, 19, 2, 2, 5, 5, 23]","['Lucas 19:41', 'Lucas 19:42', 'Lucas 19:43', 'Lucas 19:44', '4 Regum 2:23', '4 Regum 2:24', 'Ezechiel 5:0', 'Ezechiel 5:1', 'Matthaeus 23:37']","[1, 12, 23, 23, 23, 25, 29, 30, 33, 49, 49, 49, 49, 49, 49, 49, 49, 49, 51, 51, 51, 51, 51, 52, 52, 58]","[1, 1, 2, 3, 5, 5, 5, 5, 6, 7, 8, 12, 12, 12, 19, 19, 21, 21, 23, 24, 26, 27, 27, 106, 109, 146]","['2 Regum 2:23', 'Ecclesiastes 7:40', 'Ephesios 5:14', 'Ezechiel 5:1', 'Genesis 3:19', 'Ieremias 8:7', 'Ioannes 12:13', 'Ioannes 12:35', 'Isaias 5:7', 'Lucas 19:38', 'Lucas 19:42', 'Lucas 1:68', 'Lucas 1:78', 'Lucas 21:20', 'Matthaeus 12:36', 'Matthaeus 21:13', 'Matthaeus 23:37', 'Matthaeus 24:2', 'Matthaeus 26:68', 'Matthaeus 27:42', 'Matthaeus 27:50', 'Matthaeus 5:25', 'Matthaeus 6:15', 'Psalmi 106:4', 'Psalmi 109:14', 'Psalmi 146:4']",False,False,False,True,True,True,False,True,False
+561,jad_occurrence__561,[49],[27],['Matthaeus 27:25'],"[49, 49, 49]","[23, 23, 27]","['Matthaeus 23:35', 'Matthaeus 23:37', 'Matthaeus 27:25']",False,False,False,True,True,True,True,True,True
+595,jad_occurrence__595,[49],[27],['Matthaeus 27:25'],"[49, 49, 52]","[19, 21, 27]","['Ioannes 19:15', 'Matthaeus 21:38', 'Matthaeus 27:25']",False,False,False,True,True,True,True,True,True
+598,jad_occurrence__598,[52],[11],['Ioannes 11:48'],[],[],[],False,False,False,False,False,False,False,False,False
+604,jad_occurrence__604,[49],[27],['Matthaeus 27:25'],[49],[27],['Matthaeus 27:25'],True,True,True,True,True,True,True,True,True
+619,jad_occurrence__619,[52],[11],['Ioannes 11:48'],[],[],[],False,False,False,False,False,False,False,False,False
+623,jad_occurrence__623,[49],[21],['Matthaeus 21:2'],"[29, 54]","[1, 3]","['Isaias 1:26', 'Romanos 3:22']",False,False,False,False,False,False,False,False,False
+635,jad_occurrence__635,[52],[11],['Ioannes 11:48'],"[52, 52]","[7, 11]","['Ioannes 11:48', 'Ioannes 7:48']",False,False,False,True,True,True,True,True,True
+638,jad_occurrence__638,[51],[19],['Lucas 19:41'],[51],[19],['Lucas 19:41'],True,True,True,True,True,True,True,True,True
+640,jad_occurrence__640,"[23, 23]","[79, 79]","['Psalmi 79:13', 'Psalmi 79:14']",[],[],[],False,False,False,False,False,False,False,False,False
+641,jad_occurrence__641,[49],[22],['Matthaeus 22:7'],[],[],[],False,False,False,False,False,False,False,False,False
+642,jad_occurrence__642,"[51, 51, 51, 51]","[19, 19, 19, 19]","['Lucas 19:41', 'Lucas 19:42', 'Lucas 19:43', 'Lucas 19:44']",[],[],[],False,False,False,False,False,False,False,False,False
+643,jad_occurrence__643,[52],[11],['Ioannes 11:48'],[52],[11],['Ioannes 11:48'],True,True,True,True,True,True,True,True,True
+644,jad_occurrence__644,[49],[23],['Matthaeus 23:38'],[],[],[],False,False,False,False,False,False,False,False,False
+651,jad_occurrence__651,"[14, 14]","[2, 2]","['4 Regum 2:23', '4 Regum 2:24']",[12],[2],['2 Regum 2:23'],False,False,False,False,True,False,False,True,False
+654,jad_occurrence__654,"[51, 14, 14, 33]","[19, 2, 2, 5]","['Lucas 19:44', '4 Regum 2:23', '4 Regum 2:24', 'Ezechiel 5:1']","[33, 51, 51]","[1, 5, 19]","['Ezechiel 5:1', 'Lucas 19:44', 'Lucas 1:78']",False,False,False,True,True,True,False,False,False
+656,jad_occurrence__656,[51],[21],['Lucas 21:20'],"[23, 55, 62]","[2, 15, 76]","['1 Corinthios 15:24', '2 Thessalonicenses 2:3', 'Psalmi 76:1']",False,False,False,False,False,False,False,False,False
+662,jad_occurrence__662,[49],[22],['Matthaeus 22:7'],[49],[22],['Matthaeus 22:7'],True,True,True,True,True,True,True,True,True
+664,jad_occurrence__664,[49],[22],['Matthaeus 22:7'],"[29, 49, 49, 49, 49]","[26, 26, 26, 26, 53]","['Isaias 53:7', 'Matthaeus 26:52', 'Matthaeus 26:53', 'Matthaeus 26:54', 'Matthaeus 26:55']",False,False,False,True,False,False,True,False,False
+665,jad_occurrence__665,[52],[11],['Ioannes 11:48'],[30],[12],['Ieremias 12:7'],False,False,False,False,False,False,False,False,False
+680,jad_occurrence__680,[52],[11],['Ioannes 11:48'],[52],[11],['Ioannes 11:48'],True,True,True,True,True,True,True,True,True
+682,jad_occurrence__682,[52],[11],['Ioannes 11:48'],"[52, 52, 52]","[11, 11, 15]","['Ioannes 11:48', 'Ioannes 11:50', 'Ioannes 15:20']",False,False,False,True,True,True,True,True,True
+703,jad_occurrence__703,[49],[27],['Matthaeus 27:25'],[49],[27],['Matthaeus 27:25'],True,True,True,True,True,True,True,True,True
+713,jad_occurrence__713,[52],[11],['Ioannes 11:48'],"[0, 49, 51, 53]","[2, 5, 21, 22]","['Actus Apostolorum 2:43', 'Lucas 21:23', 'Matthaeus 22:21', 'Wisdom 5:3-6 5:3']",False,False,False,False,False,False,False,False,False
+734,jad_occurrence__734,[51],[19],['Lucas 19:41'],"[23, 51, 52, 52]","[2, 3, 11, 19]","['Ioannes 11:48', 'Ioannes 3:18', 'Lucas 19:41', 'Psalmi 2:4']",False,False,False,True,True,True,True,True,True
+735,jad_occurrence__735,[49],[27],['Matthaeus 27:25'],"[49, 49, 49, 51, 52]","[19, 23, 27, 27, 27]","['Ioannes 19:12', 'Lucas 23:28', 'Matthaeus 27:24', 'Matthaeus 27:25', 'Matthaeus 27:26']",False,False,False,True,True,True,True,True,True
+743,jad_occurrence__743,[51],[19],['Lucas 19:41'],"[33, 49, 51, 51, 51]","[18, 19, 21, 21, 24]","['Ezechiel 18:23', 'Lucas 19:41', 'Lucas 21:20', 'Lucas 21:23', 'Matthaeus 24:19']",False,False,False,True,True,True,True,True,True
+761,jad_occurrence__761,[51],[19],['Lucas 19:41'],"[51, 55]","[12, 19]","['1 Corinthios 12:4', 'Lucas 19:41']",False,False,False,True,True,True,True,True,True
+774,jad_occurrence__774,[52],[11],['Ioannes 11:48'],"[49, 52, 52]","[11, 11, 26]","['Ioannes 11:48', 'Ioannes 11:53', 'Matthaeus 26:39']",False,False,False,True,True,True,True,True,True
+798,jad_occurrence__798,[23],[78],['Psalmi 78:1'],[],[],[],False,False,False,False,False,False,False,False,False
+808,jad_occurrence__808,[49],[27],['Matthaeus 27:25'],"[29, 49]","[14, 27]","['Isaias 14:14', 'Matthaeus 27:25']",False,False,False,True,True,True,True,True,True
+809,jad_occurrence__809,[45],[11],['Zacharias 11:1'],[15],[28],['1 Paralipomenon 28:3'],False,False,False,False,False,False,False,False,False
+811,jad_occurrence__811,[52],[11],['Ioannes 11:48'],"[24, 52]","[1, 11]","['Ioannes 11:48', 'Proverbia 1:26']",False,False,False,True,True,True,True,True,True
+812,jad_occurrence__812,[28],[10],['Ecclesiasticus 10:19'],[23],[145],['Psalmi 145:20'],False,False,False,False,False,False,False,False,False
+813,jad_occurrence__813,[29],[66],['Isaias 66:6'],[51],[12],['Lucas 12:51'],False,False,False,False,False,False,False,False,False
+814,jad_occurrence__814,[29],[61],['Isaias 61:2'],"[51, 51, 56]","[6, 19, 21]","['2 Corinthios 6:2', 'Lucas 19:43', 'Lucas 21:20']",False,False,False,False,False,False,False,False,False
+815,jad_occurrence__815,[29],[59],['Isaias 59:19'],"[29, 49]","[28, 59]","['Isaias 59:20', 'Matthaeus 28:18']",False,False,False,True,True,False,True,True,False
+816,jad_occurrence__816,[22],[9],['Iob 9:6'],[],[],[],False,False,False,False,False,False,False,False,False
+845,jad_occurrence__845,[51],[19],['Lucas 19:41'],"[49, 51]","[19, 27]","['Lucas 19:41', 'Matthaeus 27:50']",False,False,False,True,True,True,True,True,True
+860,jad_occurrence__860,[52],[11],['Ioannes 11:48'],"[52, 52]","[11, 19]","['Ioannes 11:48', 'Ioannes 19:15']",False,False,False,True,True,True,True,True,True
+861,jad_occurrence__861,[52],[11],['Ioannes 11:48'],"[23, 29]","[9, 14]","['Isaias 9:6', 'Psalmi 14:0']",False,False,False,False,False,False,False,False,False
+871,jad_occurrence__871,[49],[24],['Matthaeus 24:28'],[],[],[],False,False,False,False,False,False,False,False,False
+872,jad_occurrence__872,"[51, 49]","[19, 23]","['Lucas 19:41', 'Matthaeus 23:37']","[49, 51]","[19, 23]","['Lucas 19:41', 'Matthaeus 23:37']",False,True,True,True,True,True,True,True,True
+885,jad_occurrence__885,[52],[11],['Ioannes 11:48'],"[4, 49, 49, 52]","[8, 11, 20, 22]","['Ioannes 11:50', 'Matthaeus 20:28', 'Matthaeus 8:20', 'Numeri 22:38']",False,False,False,True,True,False,True,True,False
+888,jad_occurrence__888,[49],[27],['Matthaeus 27:25'],[49],[27],['Matthaeus 27:25'],True,True,True,True,True,True,True,True,True
+915,jad_occurrence__915,[51],[19],['Lucas 19:41'],"[23, 23, 23, 23, 23, 23, 23, 24, 53, 55]","[8, 12, 17, 17, 20, 25, 51, 55, 131, 131]","['1 Corinthios 12:8', 'Actus Apostolorum 8:20', 'Proverbia 20:21', 'Psalmi 131:1', 'Psalmi 131:2', 'Psalmi 17:2', 'Psalmi 17:8', 'Psalmi 25:1', 'Psalmi 51:19', 'Psalmi 55:22']",False,False,False,False,False,False,False,False,False
+916,jad_occurrence__916,[49],[22],['Matthaeus 22:7'],"[23, 23, 23, 34, 49, 58, 58]","[3, 5, 5, 22, 119, 137, 145]","['Daniel 3:28', 'Ephesios 5:15', 'Ephesios 5:18', 'Matthaeus 22:2', 'Psalmi 119:49', 'Psalmi 137:1', 'Psalmi 145:15']",False,False,False,True,True,False,True,True,False
+917,jad_occurrence__917,[52],[11],['Ioannes 11:48'],"[1, 52, 75]","[3, 11, 49]","['Apocalypsis 3:5', 'Genesis 49:10', 'Ioannes 11:47']",False,False,False,True,True,False,True,True,False
+920,jad_occurrence__920,[52],[11],['Ioannes 11:48'],"[1, 5, 23, 52]","[3, 11, 32, 35]","['Deuteronomium 32:24', 'Genesis 3:14', 'Ioannes 11:48', 'Psalmi 35:20']",False,False,False,True,True,True,True,True,True
+928,jad_occurrence__928,[52],[11],['Ioannes 11:48'],"[16, 31, 45, 52]","[4, 11, 12, 35]","['2 Paralipomenon 35:25', 'Ioannes 11:48', 'Lamentationes 4:20', 'Zacharias 12:10']",False,False,False,True,True,True,True,True,True
+936,jad_occurrence__936,"[52, 23, 75]","[11, 34, 6]","['Ioannes 11:48', 'Psalmi 34:20', 'Apocalypsis 6:10']","[23, 52]","[11, 31]","['Ioannes 11:48', 'Psalmi 31:20']",False,False,False,True,True,True,False,False,False
