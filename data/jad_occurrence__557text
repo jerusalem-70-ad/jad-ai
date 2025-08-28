@@ -1,40 +1,54 @@
-Here is the JSON object containing the biblical references found in the provided text:
-
 [
     {
         "bibl": "Matthew 24:7",
-        "text": "Consurget enim gens in gentem et regnum in regnum, et erunt pestilentiae et fames et terraemotus per loca."
+        "text": "CONSVRGET ENIM GENS IN GENTEM ET REGNVM IN REGNVM, ET ERVNT PESTILENTIAE ET FAMES ET TERRAEMOTVS PER LOCA"
     },
     {
         "bibl": "Matthew 24:8",
-        "text": "Haec autem omnia initia sunt dolorum."
+        "text": "HAEC AVTEM OMNIA INITIA SVNT DOLORVM"
     },
     {
         "bibl": "Matthew 24:9",
-        "text": "Tunc tradent vos in tribulationem et occident vos et eritis odio omnibus gentibus propter nomen meum."
+        "text": "TVNC TRADENT VOS IN TRIBVLATIONEM ET OCCIDENT VOS ET ERITIS ODIO OMNIBVS GENTIBVS PROPTER NOMEN MEVM"
     },
     {
         "bibl": "Matthew 24:10",
-        "text": "Et tunc scandalizabuntur multi et invicem tradent et odio habebunt invicem."
+        "text": "ET TVNC SCANDALIZABVNTVR MVLTI | ET INVICEM TRADENT ET ODIO HABEBVNT INVICEM"
     },
     {
         "bibl": "Matthew 24:11",
-        "text": "Et multi pseudoprophetae surgent et seducent multos."
+        "text": "ET MVLTI PSEVDOPROPHETAE SVRGENT ET SEDVCENT MVLTOS"
     },
     {
         "bibl": "Matthew 24:12",
-        "text": "Et quoniam abundabit iniquitas, refrigescet caritas multorum."
+        "text": "ET QVONIAM ABVNDABIT INIQVITAS, REFRIGESCET CARITAS MVLTORVM"
     },
     {
         "bibl": "Matthew 24:13",
-        "text": "Qui autem perseveraverit usque in finem, hic salvus erit."
+        "text": "QVI AVTEM PERSEVERAVERIT VSQVE IN FINEM, HIC SALVVS ERIT"
     },
     {
         "bibl": "Matthew 24:14",
-        "text": "Et praedicabitur hoc evangelium regni in universo orbe, in testimonium omnibus gentibus; et tunc veniet consummatio."
+        "text": "ET PRAEDICABITVR HOC EVANGELIVM REGNI IN VNIVERSO ORBE, IN TESTIMONIVM OMNIBVS GENTIBVS; ET TVNC VENIET CONSVMMATIO"
     },
     {
         "bibl": "Matthew 24:15",
-        "text": "Cum ergo videritis abominationem desolationis, quae dicta est a Danihelo propheta stantem in loco sancto, qui legit intellegat."
+        "text": "CVM ERGO VIDERITIS ABOMINATIONEM DESOLATIONIS, QVAE DICTA EST A DANIHELO PROPHETA STANTEM IN LOCO SANCTO, QVI LEGIT INTELLEGAT"
+    },
+    {
+        "bibl": "Matthew 24:16",
+        "text": "TVNC QVI IN IVDĘA SVNT, FVGIANT AD MONTES"
+    },
+    {
+        "bibl": "Matthew 24:17",
+        "text": "ET QVI IN TECTO, NON DESCENDAT TOLLERE ALIQVID DE DOMO SVA"
+    },
+    {
+        "bibl": "Matthew 24:18",
+        "text": "ET QVI IN AGRO, NON REVERTATVR TOLLERE TVNICAM SVAM"
+    },
+    {
+        "bibl": "Matthew 24:19",
+        "text": "VAE AVTEM PREGNANTIBVS ET NVTRIENTIBVS IN ILLIS DIEBVS"
     }
 ]

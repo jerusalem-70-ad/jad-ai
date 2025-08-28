@@ -1,3 +1,20 @@
-The given text includes several biblical allusions, but they are not direct quotes with specific chapter and verse references. Instead, these allusions reference general biblical events and characters. As such, there are no direct biblical references suitable for the requested JSON format. Therefore, the result will be an empty list.
+Here is the JSON with the biblical references found in the text:
 
-[]
+[
+    {
+        "bibl": "1 Samuel 18:12-15",
+        "text": "Davidi autem Deus misericordiam praetendit, quem de hostibus eripuit, dum eum impugnantes in bello ceciderunt, et contra eum stare non potuerunt."
+    },
+    {
+        "bibl": "John 13:2",
+        "text": "Significat autem Judam, qui iniquitatem in cubili cordis est meditatus, dum mortem Christi est consiliatus."
+    },
+    {
+        "bibl": "Acts 1:18",
+        "text": "Qui malitiam non odivit, et ideo animam laqueo extorsit."
+    },
+    {
+        "bibl": "Acts 2:24",
+        "text": "Deus autem misericordiam Christo praetendit, quem de Judaeis persequentibus in Resurrectione eruit."
+    }
+]

@@ -1,12 +1,6 @@
-Here is the JSON with the biblical references found in the text:
-
 [
     {
-        "bibl": "Romans 15:17-19",
-        "text": "Habeo igitur gloriam in Christo Jesu ad Deum, et ea quae sequuntur. Habere se dicit in Deo gloriam, quoniam praedicatio ipsius veniente Domino noviter instituta, ab Hierusalem per circuitum usque in Illyricum repleverit Evangelium Christi."
-    },
-    {
-        "bibl": "Romans 15:24-31",
-        "text": "Deinde benedicit Romanos, promittens eis, postquam Hierosolyma quaedam ordinaverit, ad eos se esse venturum: quos rogat ut pro eodem orare non desinant, quatenus ereptus ab infidelibus Judaeis, dum ad Hispaniam profectus fuerit, ad eos valeat venire salvandos."
+        "bibl": "Romans 15:17-24",
+        "text": "Habeo igitur gloriam in Christo Jesu ad Deum, et ea quae sequuntur. Habere se dicit in Deo gloriam, quoniam praedicatio ipsius veniente Domino noviter instituta, ab Hierusalem per circuitum usque in Illyricum repleverit Evangelium Christi. Deinde benedicit Romanos, promittens eis, postquam Hierosolyma quaedam ordinaverit, ad eos se esse venturum: quos rogat ut pro eodem orare non desinant, quatenus ereptus ab infidelibus Judaeis, dum ad Hispaniam profectus fuerit, ad eos valeat venire salvandos."
     }
 ]

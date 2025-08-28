@@ -1,3 +1,33 @@
-I'm sorry, there don't appear to be any explicit biblical references in the provided text. Therefore, I will return an empty list as per your request.
+To find potential biblical references in your text, we will analyze the content for phrases or themes that are reminiscent of specific biblical passages. Let's break down the text:
 
-[]
+1. "et omnia sunt parata, quia introitus regni apertus" - This could reference the theme of readiness for the kingdom of heaven found in the Parable of the Wedding Banquet (Matthew 22:1-14) where guests are invited to a prepared feast. 
+
+2. "in villam ire est labori terreno in moderate incumbere" - This could refer to the general theme of avoiding being consumed by earthly concerns, akin to advice found in the teachings of Jesus, especially about where to lay one's treasures (Matthew 6:19-21).
+
+3. "negociari vero, terrenis lucris inhiare" - This might relate to the caution against pursuing worldly wealth over spiritual wealth (Matthew 6:24-34).
+
+4. "hi sunt pauperes et gentiles qui postea congregati sunt ad nuptias, id est ad fidem convenerunt" - Again reflects the Parable of the Wedding Banquet (Matthew 22:1-14), where those initially invited to the wedding feast do not come, and others are brought in instead.
+
+These lines suggest themes rather than direct citations, but based on your request to identify specific similarities, I've assembled the biblical references:
+
+[
+    {
+        "bibl": "Matthew 22:1-14",
+        "text": "et omnia sunt parata, quia introitus regni apertus"
+    },
+    {
+        "bibl": "Matthew 6:19-21",
+        "text": "in villam ire est labori terreno in moderate incumbere"
+    },
+    {
+        "bibl": "Matthew 6:24-34",
+        "text": "negociari vero, terrenis lucris inhiare"
+    },
+    {
+        "bibl": "Matthew 22:1-14",
+        "text": "hi sunt pauperes et gentiles qui postea congregati sunt ad nuptias, id est ad fidem convenerunt"
+    }
+]
+
+
+If there are other biblical references you feel might be implied or should be included, please provide additional context or information for a more precise identification.

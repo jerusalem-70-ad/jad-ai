@@ -1,9 +1,7 @@
-Below is the JSON representation of the biblical references found in the text:
-
 [
     {
         "bibl": "Romans 2:5",
-        "text": "illis secundum duritiam et impoenitens cor thesaurizantibus iram sibi in die irae"
+        "text": "illorum secundum duritiam et impoenitens cor thesaurizantibus iram sibi in die irae"
     },
     {
         "bibl": "Matthew 22:7",
@@ -11,14 +9,14 @@ Below is the JSON representation of the biblical references found in the text:
     },
     {
         "bibl": "2 Kings 2:23-24",
-        "text": "quod Elisaeo ascendente de Galgalis, pueri parvuli illudebant ei, dicentes: 'Ascende calve, ascende calve.' At ille maledixit eos in nomine Domini, et statim egressi sunt duo ursi de saltu, et devoraverunt ex illis quadraginta duos pueros."
+        "text": "Elisaeo ascendente de Galgalis, pueri parvuli illudebant ei, dicentes: Ascende calve, ascende calve"
     },
     {
-        "bibl": "Matthew 27:42",
+        "bibl": "Matthew 27:40",
         "text": "Si Filius Dei est, descendat de cruce et credimus ei"
     },
     {
         "bibl": "Matthew 27:29",
-        "text": "Flectentes genua, dixerunt: 'Ave, rex Judaeorum'"
+        "text": "Flectentes genua, dixerunt: Ave, rex Judaeorum"
     }
 ]

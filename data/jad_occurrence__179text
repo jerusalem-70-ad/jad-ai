@@ -1,3 +1,22 @@
-The text contains references to biblical themes and interpretations, but does not have direct citations of specific chapters or verses. As such, there are no specific biblical references to include in a JSON format. Therefore, the result is an empty list. 
-
-[]
+[
+    {
+        "bibl": "Revelation 6:12",
+        "text": "Et cum aperuisset sigillum sextum"
+    },
+    {
+        "bibl": "Revelation 6:12",
+        "text": "Terrae motus factus est magnus"
+    },
+    {
+        "bibl": "Revelation 6:12",
+        "text": "Et sol factus est niger, sicut saccus cilicinus"
+    },
+    {
+        "bibl": "Revelation 6:12",
+        "text": "Et luna facta est sicut sanguis"
+    },
+    {
+        "bibl": "Revelation 6:13",
+        "text": "Et stellae ceciderunt super terram, sicut ficus mittit grossos suos, cum a vento magno movetur"
+    }
+]

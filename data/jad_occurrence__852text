@@ -1,3 +1,8 @@
-In this text, there are no explicit biblical references that match the format typically used for Bible verses (such as "Matthew 27:50-52"). Therefore, the result is an empty list. 
+Here is the JSON object with the identified biblical reference within the text:
 
-[]
+[
+    {
+        "bibl": "Matthew 27:50-52",
+        "text": "Tantam autem pietatem ergo Judaeos habuit, ut circuiens Hierusalem, et repletos cadaveribus vallos, et humani corporis tabe patriam eorum terram rigari videns, cum ingenti gemitu elevatis ad coelum manibus, Deum invocaret testem, hoc opus suum non esse."
+    }
+]
