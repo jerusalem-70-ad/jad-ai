@@ -5,7 +5,7 @@ description = "Add your description here"
 readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
-    "acdh-baserow-pyutils>=0.10",
+    "acdh-baserow-pyutils>=0.11.0",
     "acdh-bible-pyutils>=0.2",
     "openai>=1.86.0",
     "pandas>=2.3.0",
