@@ -48,17 +48,10 @@ for x in data:
                 json_results = "[]"
             try:
                 data = json.loads(json_result)
-                json_good = True
-            except Exception as e:
-                print(e)
-                json_good = False
-            with open(
-                json_file_path.replace(".json", "text"), "w", encoding="utf-8"
-            ) as f:
-                f.write(json_result)
-            if json_good:
-                with open(json_file_path, "w", encoding="utf-8") as f:
-                    json.dump(data, f, indent=2, ensure_ascii=False)
+            except:  # noqa
+                data = []
+            with open(json_file_path, "w", encoding="utf-8") as f:
+                json.dump(data, f, indent=2, ensure_ascii=False)
     else:
         print(f"Skipping {jad_id} because it has no text.")
 
