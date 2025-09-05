@@ -23,8 +23,9 @@ Please provide an english summary for thi text({}). Also one to three keywords t
 
 client = OpenAI(api_key=os.environ.get("OPENAI_API_KEY"))
 for x in data:
+    json_file_path = os.path.join(SUMMARIES_DIR, f"{x['jad_id']}.json")
     if x["text_paragraph"]:
-        json_file_path = os.path.join(SUMMARIES_DIR, f"{x['jad_id']}.json")
+        text_to_process = x["text_paragraph"]
     elif x["passage"]:
         text_to_process = x["passage"]
         if os.path.exists(json_file_path):
@@ -47,17 +48,11 @@ for x in data:
                 print(f"failed to process {x['jad_id']} due to {e}")
             try:
                 data = json.loads(json_result)
-                json_good = True
-            except Exception as e:
-                print(e)
-                json_good = False
-            with open(
-                json_file_path.replace(".json", "text"), "w", encoding="utf-8"
-            ) as f:
-                f.write(json_result)
-            if json_good:
-                with open(json_file_path, "w", encoding="utf-8") as f:
-                    json.dump(data, f, indent=2, ensure_ascii=False)
+            except:  # noqa
+                print(f"no proper json returned for {x['jad_id']}")
+                data = {"summary": "", "keywords": []}
+            with open(json_file_path, "w", encoding="utf-8") as f:
+                json.dump(data, f, indent=2, ensure_ascii=False)
     else:
         print(f"Skipping {x['jad_id']} because it has no text.")
 

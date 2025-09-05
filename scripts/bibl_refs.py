@@ -12,7 +12,7 @@ source_data = requests.get(URL).json()
 os.makedirs(DATA_DIR, exist_ok=True)
 
 data = [
-    {"jad_id": value["jad_id"], "text_paragraph": value["text_paragraph"]}
+    {"jad_id": value["jad_id"], "passage": value["passage"], "text_paragraph": value["text_paragraph"]}
     for key, value in source_data.items()
 ]
 
@@ -22,10 +22,12 @@ prompt = """please find all biblical references in this text ({}) and return the
 client = OpenAI(api_key=os.environ.get("OPENAI_API_KEY"))
 for x in data:
     jad_id = x["jad_id"]
+    json_file_path = os.path.join(DATA_DIR, f"{jad_id}.json")
     if x["text_paragraph"]:
-        json_file_path = os.path.join(DATA_DIR, f"{jad_id}.json")
+        text_to_process = x["text_paragraph"]
+    elif x["passage"]:
+        text_to_process = x["passage"]
         if os.path.exists(json_file_path):
-            print(f"File {json_file_path} already exists. Skipping.")
             continue
         else:
             print(f"processing {jad_id}")
