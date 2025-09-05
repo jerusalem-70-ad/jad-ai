@@ -18,7 +18,7 @@ data = [
 ]
 
 prompt = """
-Please provide an english summary for thi text({}). Also one to three keywords that best describe the text. The keywords shoudl be taken from the following list: {}. The result should ba JSON with a key "summary", the value should be a string and a key "keywords" should be a list of strings. If the text is too long, please summarize the text to the best of your ability.
+Please provide an english summary for this text({}). Also one to three keywords that best describe the text. The keywords should be taken from the following list: {}. The result should be a JSON with a key "summary", the value should be a string and a key "keywords" should be a list of strings. If the text is too long, please summarize the text to the best of your ability.
 """  # noqa: E501
 
 client = OpenAI(api_key=os.environ.get("OPENAI_API_KEY"))
@@ -46,6 +46,7 @@ for x in data:
                 json_result = result.replace("```json\n", "").replace("```", "")
             except Exception as e:
                 print(f"failed to process {x['jad_id']} due to {e}")
+                print(result)
             try:
                 data = json.loads(json_result)
             except:  # noqa
