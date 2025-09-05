@@ -13,7 +13,7 @@ keywords = [value["name"] for _, value in source_data.items()]
 source_data = requests.get(PASSAGES_URL).json()
 
 data = [
-    {"jad_id": value["jad_id"], "text_paragraph": value["text_paragraph"]}
+    {"jad_id": value["jad_id"], "passage": value["passage"], "text_paragraph": value["text_paragraph"]}
     for _, value in source_data.items()
 ]
 
@@ -24,23 +24,27 @@ Please provide an english summary for thi text({}). Also one to three keywords t
 client = OpenAI(api_key=os.environ.get("OPENAI_API_KEY"))
 for x in data:
     if x["text_paragraph"]:
-        print(f"processing {x['jad_id']}")
         json_file_path = os.path.join(SUMMARIES_DIR, f"{x['jad_id']}.json")
+    elif x["passage"]:
+        text_to_process = x["passage"]
         if os.path.exists(json_file_path):
-            print(f"File {json_file_path} already exists. Skipping.")
             continue
         else:
-            completion = client.chat.completions.create(
-                messages=[
-                    {
-                        "role": "system",
-                        "content": prompt.format(x["text_paragraph"], ", ".join(keywords)),
-                    }
-                ],
-                model="gpt-4o",
-            )
-            result = completion.choices[0].message.content
-            json_result = result.replace("```json\n", "").replace("```", "")
+            print(f"processing {x['jad_id']}")
+            try:
+                completion = client.chat.completions.create(
+                    messages=[
+                        {
+                            "role": "system",
+                            "content": prompt.format(text_to_process, ", ".join(keywords)),
+                        }
+                    ],
+                    model="gpt-4o",
+                )
+                result = completion.choices[0].message.content
+                json_result = result.replace("```json\n", "").replace("```", "")
+            except Exception as e:
+                print(f"failed to process {x['jad_id']} due to {e}")
             try:
                 data = json.loads(json_result)
                 json_good = True
