@@ -36,7 +36,7 @@ for x in data:
                     messages=[
                         {
                             "role": "system",
-                            "content": prompt.format(x["text_paragraph"]),
+                            "content": prompt.format(text_to_process),
                         }
                     ],
                     model="gpt-4o",
