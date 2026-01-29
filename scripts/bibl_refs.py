@@ -27,32 +27,31 @@ for x in data:
         text_to_process = x["text_paragraph"]
     elif x["passage"]:
         text_to_process = x["passage"]
-        if os.path.exists(json_file_path):
-            continue
-        else:
-            print(f"processing {jad_id}")
-            try:
-                completion = client.chat.completions.create(
-                    messages=[
-                        {
-                            "role": "system",
-                            "content": prompt.format(text_to_process),
-                        }
-                    ],
-                    model="gpt-4o",
-                )
-                result = completion.choices[0].message.content
-                json_result = result.replace("```json\n", "").replace("```", "")
-            except Exception as e:
-                print(f"failed to process {jad_id} because of {e}")
-                json_results = "[]"
-            try:
-                data = json.loads(json_result)
-            except:  # noqa
-                data = []
-            with open(json_file_path, "w", encoding="utf-8") as f:
-                json.dump(data, f, indent=2, ensure_ascii=False)
+    if os.path.exists(json_file_path):
+        print(f"{jad_id} already proccessed, skipping")
+        continue
     else:
-        print(f"Skipping {jad_id} because it has no text.")
+        print(f"processing {jad_id}")
+        try:
+            completion = client.chat.completions.create(
+                messages=[
+                    {
+                        "role": "system",
+                        "content": prompt.format(text_to_process),
+                    }
+                ],
+                model="gpt-4o",
+            )
+            result = completion.choices[0].message.content
+            json_result = result.replace("```json\n", "").replace("```", "")
+        except Exception as e:
+            print(f"failed to process {jad_id} because of {e}")
+            json_results = "[]"
+        try:
+            data = json.loads(json_result)
+        except:  # noqa
+            data = []
+        with open(json_file_path, "w", encoding="utf-8") as f:
+            json.dump(data, f, indent=2, ensure_ascii=False)
 
 print("Done")

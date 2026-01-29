@@ -16,7 +16,6 @@ for key, value in data.items():
         continue
     payload.append(item)
 
-
 BASEROW_DB_ID = 578
 BASEROW_URL = "https://baserow.acdh-dev.oeaw.ac.at/api/"
 BASEROW_USER = os.environ.get("BASEROW_USER")
